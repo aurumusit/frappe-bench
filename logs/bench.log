@@ -481,3 +481,18 @@
 2023-09-22 13:35:35,162 INFO /usr/local/bin/bench worker --queue short
 2023-09-22 13:35:35,167 INFO /usr/local/bin/bench worker --queue long
 2023-09-22 13:35:38,248 INFO A newer version of bench is available: 5.16.4 → 5.17.2
+2023-09-22 18:00:01,407 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 00:00:02,031 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 06:00:01,868 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 12:00:01,866 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-23 18:00:01,303 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 00:00:01,670 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 06:00:01,709 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 12:00:01,839 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-24 18:00:01,870 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 00:00:01,609 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 06:00:01,406 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 12:00:02,035 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-25 18:00:02,022 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 00:00:02,191 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 06:00:01,280 INFO /usr/local/bin/bench --verbose --site all backup
