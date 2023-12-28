@@ -496,3 +496,945 @@
 2023-09-25 18:00:02,022 INFO /usr/local/bin/bench --verbose --site all backup
 2023-09-26 00:00:02,191 INFO /usr/local/bin/bench --verbose --site all backup
 2023-09-26 06:00:01,280 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 12:00:01,856 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-26 18:00:02,204 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 00:00:02,077 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 06:00:01,195 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 12:00:02,058 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-27 18:00:02,094 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 00:00:01,466 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 06:00:01,515 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 10:33:36,636 INFO /usr/local/bin/bench worker --queue default
+2023-09-28 10:33:36,636 INFO /usr/local/bin/bench worker --queue long
+2023-09-28 10:33:36,637 INFO /usr/local/bin/bench worker --queue short
+2023-09-28 10:33:36,637 INFO /usr/local/bin/bench schedule
+2023-09-28 12:00:01,858 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-28 18:00:01,648 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 00:00:02,173 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 06:00:02,121 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 12:00:01,567 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-29 18:00:02,157 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 00:00:01,370 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 06:00:01,254 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 12:00:01,239 INFO /usr/local/bin/bench --verbose --site all backup
+2023-09-30 12:24:49,030 INFO /usr/local/bin/bench worker --queue short
+2023-09-30 12:24:49,030 INFO /usr/local/bin/bench schedule
+2023-09-30 12:24:49,030 INFO /usr/local/bin/bench worker --queue long
+2023-09-30 12:24:49,030 INFO /usr/local/bin/bench worker --queue default
+2023-09-30 12:31:00,415 INFO /usr/local/bin/bench --site erp.aurumwholesale.com --force reset
+2023-09-30 12:31:46,803 INFO /usr/local/bin/bench --site erp.aurumwholesale.com reinstall
+2023-09-30 15:20:20,524 INFO /usr/local/bin/bench --site erp.aurumwholesale.com reinstall
+2023-09-30 15:20:41,009 INFO /usr/local/bin/bench --site erp.aurumwholesale.com reinstall
+2023-09-30 18:00:01,511 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-01 00:00:01,771 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-01 06:00:01,617 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-01 12:00:01,352 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-01 18:00:02,041 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 00:00:01,727 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 06:00:01,579 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 12:00:01,983 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-02 18:00:01,492 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 00:00:01,814 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 06:00:01,871 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 12:00:01,282 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-03 18:00:01,820 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-04 00:00:01,592 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-04 06:00:02,124 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-04 12:00:01,331 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-04 18:00:01,972 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 00:00:01,603 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 06:00:01,179 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 12:00:01,933 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-05 16:56:02,999 INFO /usr/local/bin/bench schedule
+2023-10-05 16:56:02,999 INFO /usr/local/bin/bench worker --queue default
+2023-10-05 16:56:02,999 INFO /usr/local/bin/bench worker --queue long
+2023-10-05 16:56:02,999 INFO /usr/local/bin/bench worker --queue short
+2023-10-05 18:00:02,159 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 00:00:01,800 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 06:00:02,129 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 12:00:01,901 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-06 18:00:01,251 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 00:00:01,375 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 06:00:01,355 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 12:00:01,773 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-07 18:00:01,718 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 00:00:01,232 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 06:00:01,218 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 12:00:01,612 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-08 18:00:01,336 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 00:00:02,156 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 06:00:02,031 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 12:00:01,299 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-09 18:00:01,666 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 00:00:02,056 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 06:00:01,539 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 12:00:01,411 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-10 18:00:01,591 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-11 00:00:01,357 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-11 06:00:01,593 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-11 11:41:13,088 INFO /usr/local/bin/bench --site erp.aurumwholesale.com set-admin-password layshah@5300
+2023-10-11 12:00:02,044 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-11 18:00:01,783 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 00:00:01,857 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 06:00:01,793 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 12:00:02,013 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-12 18:00:01,519 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 00:00:01,538 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 06:00:01,928 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 11:31:03,779 INFO /usr/local/bin/bench worker --queue short
+2023-10-13 11:31:03,779 INFO /usr/local/bin/bench schedule
+2023-10-13 11:31:03,780 INFO /usr/local/bin/bench worker --queue default
+2023-10-13 11:31:03,780 INFO /usr/local/bin/bench worker --queue long
+2023-10-13 12:00:01,963 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-13 18:00:01,430 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 00:00:01,191 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 06:00:02,159 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 12:00:01,200 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-14 18:00:01,309 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 00:00:02,081 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 06:00:01,530 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 12:00:01,902 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-15 18:00:01,372 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 00:00:01,796 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 06:00:01,484 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 12:00:02,131 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-16 18:00:01,303 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-17 00:00:01,866 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-17 06:00:01,437 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-17 12:00:01,698 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-17 18:00:01,608 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 00:00:01,210 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 06:00:01,243 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 12:00:01,704 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-18 18:00:01,831 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 00:00:01,477 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 06:00:01,847 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 12:00:01,367 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-19 18:00:02,011 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 00:00:01,595 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 06:00:01,931 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 12:00:01,408 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-20 18:00:01,531 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 00:00:01,719 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 06:00:01,478 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 12:00:01,802 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-21 18:00:01,482 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 00:00:01,314 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 06:00:01,230 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 12:00:01,468 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-22 18:00:02,092 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 00:00:01,257 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 06:00:01,734 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 12:00:01,235 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-23 18:00:01,822 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 00:00:01,920 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 06:00:01,276 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 12:00:01,243 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-24 18:00:01,691 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 00:00:01,705 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 06:00:01,315 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 12:00:01,708 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-25 18:00:01,506 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-26 00:00:01,241 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-26 06:00:01,495 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-26 12:00:01,239 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-26 18:00:01,885 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 00:00:01,651 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 06:00:01,830 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 12:00:01,310 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-27 18:00:01,834 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 00:00:02,110 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 06:00:01,908 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 12:00:01,962 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-28 18:00:01,761 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 00:00:01,518 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 06:00:02,086 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 12:00:01,418 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-29 18:00:01,526 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 00:00:01,400 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 06:00:01,712 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 12:00:01,704 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-30 18:00:01,511 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-31 00:00:01,468 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-31 06:00:02,098 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-31 12:00:01,407 INFO /usr/local/bin/bench --verbose --site all backup
+2023-10-31 16:34:33,265 INFO /usr/local/bin/bench worker --queue default
+2023-10-31 16:34:33,265 INFO /usr/local/bin/bench worker --queue long
+2023-10-31 16:34:33,265 INFO /usr/local/bin/bench worker --queue short
+2023-10-31 16:34:33,265 INFO /usr/local/bin/bench schedule
+2023-10-31 17:02:56,963 INFO /usr/local/bin/bench worker --queue long
+2023-10-31 17:02:56,963 INFO /usr/local/bin/bench schedule
+2023-10-31 17:02:56,963 INFO /usr/local/bin/bench worker --queue short
+2023-10-31 17:02:56,963 INFO /usr/local/bin/bench worker --queue default
+2023-10-31 17:48:43,806 INFO /usr/local/bin/bench worker --queue long
+2023-10-31 17:48:43,806 INFO /usr/local/bin/bench worker --queue default
+2023-10-31 17:48:43,806 INFO /usr/local/bin/bench schedule
+2023-10-31 17:48:43,806 INFO /usr/local/bin/bench worker --queue short
+2023-10-31 17:54:23,049 INFO /usr/local/bin/bench worker --queue short
+2023-10-31 17:54:23,050 INFO /usr/local/bin/bench schedule
+2023-10-31 17:54:23,050 INFO /usr/local/bin/bench worker --queue long
+2023-10-31 17:54:23,051 INFO /usr/local/bin/bench worker --queue default
+2023-11-01 12:10:12,913 INFO /usr/local/bin/bench worker --queue long
+2023-11-01 12:10:12,913 INFO /usr/local/bin/bench worker --queue short
+2023-11-01 12:10:12,913 INFO /usr/local/bin/bench worker --queue default
+2023-11-01 12:10:12,913 INFO /usr/local/bin/bench schedule
+2023-11-01 18:00:01,379 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-02 00:00:01,795 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-02 06:00:01,770 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-02 12:00:01,942 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-02 14:00:42,095 INFO /usr/local/bin/bench new-site trial.aurumwholesale.com
+2023-11-02 14:02:01,687 INFO /usr/local/bin/bench setup nginx
+2023-11-02 14:02:07,007 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-02 14:04:09,066 INFO /usr/local/bin/bench --site trial.aurumwholesale.com install-app erpnext
+2023-11-02 18:00:01,711 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-03 00:00:01,412 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-03 06:00:01,959 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-03 10:46:54,838 INFO /usr/local/bin/bench setup nginx
+2023-11-03 10:47:03,857 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:48:48,284 INFO /usr/local/bin/bench setup nginx
+2023-11-03 10:48:50,887 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:49:21,583 INFO /usr/local/bin/bench setup nginx
+2023-11-03 10:49:23,287 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:49:51,556 INFO /usr/local/bin/bench restart
+2023-11-03 10:49:52,199 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 10:49:55,699 INFO /usr/local/bin/bench schedule
+2023-11-03 10:49:55,702 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 10:49:55,726 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 10:49:55,735 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 10:49:57,943 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:52:24,425 INFO /usr/local/bin/bench config dns_multitenant on~
+2023-11-03 10:52:24,433 WARNING /usr/local/bin/bench config dns_multitenant on~ executed with exit code 2
+2023-11-03 10:52:24,641 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:52:33,336 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 10:52:33,627 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:53:01,572 INFO /usr/local/bin/bench update
+2023-11-03 10:53:01,621 WARNING /usr/local/bin/bench update executed with exit code 1
+2023-11-03 10:53:01,877 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:53:21,361 INFO /usr/local/bin/bench update
+2023-11-03 10:53:21,415 WARNING /usr/local/bin/bench update executed with exit code 1
+2023-11-03 10:53:21,650 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:55:11,956 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 10:55:12,170 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:55:21,105 INFO /usr/local/bin/bench setup nginx
+2023-11-03 10:55:23,575 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 10:55:51,538 INFO /usr/local/bin/bench restart
+2023-11-03 10:55:52,138 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 10:55:55,093 INFO /usr/local/bin/bench schedule
+2023-11-03 10:55:55,110 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 10:55:55,134 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 10:55:55,147 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 10:55:58,183 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:00:50,445 INFO /usr/local/bin/bench renew-lets-encrypt
+2023-11-03 11:00:54,730 DEBUG sudo systemctl stop nginx
+2023-11-03 11:00:59,824 DEBUG /usr/bin/certbot renew
+2023-11-03 11:01:01,362 DEBUG sudo systemctl start nginx
+2023-11-03 11:01:01,651 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:16:28,629 INFO /usr/local/bin/bench restart
+2023-11-03 11:16:29,251 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:16:31,300 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:16:31,303 INFO /usr/local/bin/bench schedule
+2023-11-03 11:16:31,317 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:16:31,340 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:16:34,490 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:17:47,886 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:17:49,844 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:30:24,694 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 11:30:24,900 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:30:36,129 INFO /usr/local/bin/bench config dns_multitenant off
+2023-11-03 11:30:36,340 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:31:46,569 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:31:48,629 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:32:13,102 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 11:32:13,308 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:32:18,276 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:32:19,975 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:34:45,646 INFO /usr/local/bin/bench restart
+2023-11-03 11:34:46,221 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:34:49,356 INFO /usr/local/bin/bench schedule
+2023-11-03 11:34:49,357 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:34:49,367 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:34:49,435 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:34:51,696 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:35:42,197 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:35:43,736 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:35:46,850 INFO /usr/local/bin/bench restart
+2023-11-03 11:35:47,478 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:35:50,479 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:35:50,480 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:35:50,494 INFO /usr/local/bin/bench schedule
+2023-11-03 11:35:50,506 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:35:53,693 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:37:17,281 INFO /usr/local/bin/bench restart
+2023-11-03 11:37:18,023 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:37:20,974 INFO /usr/local/bin/bench schedule
+2023-11-03 11:37:20,976 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:37:20,976 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:37:21,003 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:37:24,144 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:37:37,789 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 11:37:38,156 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:38:14,788 INFO /usr/local/bin/bench use erp.eaurumwholesale.com
+2023-11-03 11:38:21,569 INFO /usr/local/bin/bench use erp.aurumwholesale.com
+2023-11-03 11:39:41,976 INFO /usr/local/bin/bench use erp.eaurumwholesale.com
+2023-11-03 11:39:47,444 INFO /usr/local/bin/bench use erp.aurumwholesale.com
+2023-11-03 11:39:59,000 INFO /usr/local/bin/bench restart
+2023-11-03 11:39:59,575 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:40:02,411 INFO /usr/local/bin/bench schedule
+2023-11-03 11:40:02,414 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:40:02,431 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:40:02,504 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:40:04,558 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:41:01,365 INFO /usr/local/bin/bench use sitename
+2023-11-03 11:41:19,265 INFO /usr/local/bin/bench setup supervisor
+2023-11-03 11:41:19,611 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-11-03 11:41:19,611 LOG Updated supervisord.conf: 'chown' changed from '' to 'admin123:admin123'
+2023-11-03 11:41:26,677 WARNING /usr/local/bin/bench setup supervisor executed with exit code 1
+2023-11-03 11:41:26,881 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:50:52,473 INFO /usr/local/bin/bench doctor
+2023-11-03 11:51:39,057 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:51:41,009 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:52:01,776 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 11:52:02,020 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:53:21,441 INFO /usr/local/bin/bench restart
+2023-11-03 11:53:22,158 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:53:24,024 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:53:24,030 INFO /usr/local/bin/bench schedule
+2023-11-03 11:53:24,037 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:53:24,053 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:53:27,255 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:55:30,972 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:55:32,741 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:58:19,460 INFO /usr/local/bin/bench setup nginx
+2023-11-03 11:58:21,393 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:58:46,680 INFO /usr/local/bin/bench restart
+2023-11-03 11:58:47,258 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 11:58:50,058 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 11:58:50,065 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 11:58:50,066 INFO /usr/local/bin/bench schedule
+2023-11-03 11:58:50,095 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 11:58:53,192 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 11:59:14,098 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 11:59:14,308 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 12:00:01,667 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-03 12:10:39,213 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 12:10:39,482 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 12:16:16,628 INFO /usr/local/bin/bench doctor
+2023-11-03 12:50:56,585 INFO /usr/local/bin/bench restart
+2023-11-03 12:50:57,150 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-03 12:51:00,381 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 12:51:00,383 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 12:51:00,402 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 12:51:00,406 INFO /usr/local/bin/bench schedule
+2023-11-03 12:51:02,619 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 13:02:59,609 INFO /usr/local/bin/bench schedule
+2023-11-03 13:02:59,609 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 13:02:59,609 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 13:02:59,615 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 13:16:59,548 INFO /usr/local/bin/bench schedule
+2023-11-03 13:16:59,554 INFO /usr/local/bin/bench worker --queue short
+2023-11-03 13:16:59,577 INFO /usr/local/bin/bench worker --queue default
+2023-11-03 13:16:59,585 INFO /usr/local/bin/bench worker --queue long
+2023-11-03 13:25:54,350 INFO /usr/local/bin/bench drop-site trial.aurumwholesale.com
+2023-11-03 13:26:22,712 INFO /usr/local/bin/bench config dns_multitenant on
+2023-11-03 13:26:22,915 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 13:26:43,830 INFO /usr/local/bin/bench new-site trial.aurumwholesale.com
+2023-11-03 13:28:11,646 INFO /usr/local/bin/bench setup nginx
+2023-11-03 13:28:16,525 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-03 13:42:08,633 INFO /usr/local/bin/bench --site trial.aurumwholesale.com install-app erpnext
+2023-11-03 13:42:29,310 INFO /usr/local/bin/bench --site trial.aurumwholesale.com reinstall
+2023-11-03 13:43:38,244 INFO /usr/local/bin/bench --site trial.aurumwholesale.com install-app erpnext
+2023-11-03 18:00:01,350 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-04 00:00:01,780 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-04 06:00:01,610 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-04 12:00:01,215 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-04 18:00:01,277 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-05 00:00:01,258 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-05 06:00:01,669 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-05 12:00:01,951 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-05 18:00:01,650 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-06 00:00:01,379 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-06 06:00:02,056 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-06 12:00:02,107 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-06 18:00:01,322 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-07 00:00:01,956 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-07 06:00:02,143 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-07 12:00:01,236 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-07 18:00:01,748 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-08 00:00:01,457 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-08 06:00:01,645 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-08 12:00:01,287 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-08 18:00:01,591 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-09 00:00:01,946 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-09 06:00:01,211 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-09 12:00:01,742 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-09 13:17:12,771 INFO /usr/local/bin/bench worker --queue long
+2023-11-09 13:17:12,771 INFO /usr/local/bin/bench schedule
+2023-11-09 13:17:12,771 INFO /usr/local/bin/bench worker --queue short
+2023-11-09 13:17:12,771 INFO /usr/local/bin/bench worker --queue default
+2023-11-09 18:00:01,289 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-10 00:00:01,440 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-10 06:00:01,939 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-10 12:00:02,031 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-10 18:00:02,053 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-11 00:00:01,995 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-11 06:00:01,665 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-11 12:00:01,745 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-11 18:00:01,229 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-12 00:00:02,055 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-12 06:00:01,327 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-12 12:00:01,893 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-12 18:00:02,061 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-13 00:00:01,844 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-13 06:00:01,879 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-13 12:00:01,662 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-13 18:00:01,413 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-14 00:00:01,196 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-14 06:00:01,837 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-14 11:39:52,033 INFO /usr/local/bin/bench worker --queue default
+2023-11-14 11:39:52,033 INFO /usr/local/bin/bench worker --queue short
+2023-11-14 11:39:52,033 INFO /usr/local/bin/bench worker --queue long
+2023-11-14 11:39:52,033 INFO /usr/local/bin/bench schedule
+2023-11-14 12:00:01,706 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-14 14:45:19,836 INFO /usr/local/bin/bench worker --queue short
+2023-11-14 14:45:19,836 INFO /usr/local/bin/bench schedule
+2023-11-14 14:45:19,836 INFO /usr/local/bin/bench worker --queue long
+2023-11-14 14:45:19,836 INFO /usr/local/bin/bench worker --queue default
+2023-11-14 15:04:32,932 INFO /usr/local/bin/bench worker --queue default
+2023-11-14 15:04:32,932 INFO /usr/local/bin/bench worker --queue long
+2023-11-14 15:04:32,932 INFO /usr/local/bin/bench worker --queue short
+2023-11-14 15:04:32,932 INFO /usr/local/bin/bench schedule
+2023-11-14 15:50:49,717 INFO /usr/local/bin/bench worker --queue long
+2023-11-14 15:50:49,717 INFO /usr/local/bin/bench worker --queue default
+2023-11-14 15:50:49,717 INFO /usr/local/bin/bench worker --queue short
+2023-11-14 15:50:49,717 INFO /usr/local/bin/bench schedule
+2023-11-14 18:00:02,035 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-15 00:00:02,147 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-15 06:00:01,253 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-15 12:00:01,488 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-15 18:00:01,313 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-16 00:00:01,784 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-16 06:00:01,239 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-16 12:00:01,964 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-16 18:00:01,502 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-17 00:00:01,731 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-17 06:00:01,845 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-17 12:00:01,970 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-17 18:00:01,439 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-18 00:00:01,268 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-18 06:00:01,676 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-18 12:00:01,638 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-18 18:00:01,262 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-19 00:00:02,027 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-19 06:00:01,556 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-19 12:00:01,385 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-19 18:00:02,017 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-20 00:00:02,072 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-20 06:00:01,529 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-20 12:00:01,991 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-20 18:00:01,915 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-21 00:00:01,200 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-21 06:00:01,811 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-21 10:22:28,465 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 10:22:28,465 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 10:22:28,465 INFO /usr/local/bin/bench schedule
+2023-11-21 10:22:28,465 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 11:58:12,793 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 11:58:12,793 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 11:58:12,793 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 11:58:12,793 INFO /usr/local/bin/bench schedule
+2023-11-21 12:00:02,087 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-21 13:27:54,991 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 13:27:54,997 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 13:27:55,004 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 13:27:55,018 INFO /usr/local/bin/bench schedule
+2023-11-21 14:11:54,336 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 14:11:54,337 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 14:11:54,355 INFO /usr/local/bin/bench schedule
+2023-11-21 14:11:54,369 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 14:12:48,744 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 14:12:48,745 INFO /usr/local/bin/bench schedule
+2023-11-21 14:12:48,765 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 14:12:48,766 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:17:33,725 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:17:33,726 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:17:33,726 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:17:33,733 INFO /usr/local/bin/bench schedule
+2023-11-21 15:31:54,919 INFO /usr/local/bin/bench schedule
+2023-11-21 15:31:54,922 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:31:54,928 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:31:54,933 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:32:04,886 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:32:04,953 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:32:05,961 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:32:14,826 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:32:15,879 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:32:16,949 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:32:25,756 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:32:26,733 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:32:27,850 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:32:36,522 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:32:37,604 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:32:38,702 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:32:47,550 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:32:48,467 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:32:49,540 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:32:58,310 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:32:59,381 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:33:00,576 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:33:09,189 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:33:10,333 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:33:11,457 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:33:24,539 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:33:24,540 INFO /usr/local/bin/bench schedule
+2023-11-21 15:33:24,540 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:33:24,540 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:35:06,513 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:35:06,514 INFO /usr/local/bin/bench schedule
+2023-11-21 15:35:06,514 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:35:06,529 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:37:21,074 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:37:21,083 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:37:21,089 INFO /usr/local/bin/bench schedule
+2023-11-21 15:37:21,093 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 15:48:37,264 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 15:48:37,266 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 15:48:37,286 INFO /usr/local/bin/bench schedule
+2023-11-21 15:48:37,288 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 17:03:55,737 INFO /usr/local/bin/bench restart
+2023-11-21 17:04:00,254 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-21 17:04:01,779 INFO /usr/local/bin/bench schedule
+2023-11-21 17:04:01,799 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 17:04:01,818 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 17:04:01,834 INFO /usr/local/bin/bench worker --queue long
+2023-11-21 17:04:13,889 INFO /usr/local/bin/bench --sites
+2023-11-21 17:06:03,108 INFO /usr/local/bin/bench start
+2023-11-21 17:06:43,233 INFO /usr/local/bin/bench start
+2023-11-21 17:07:02,013 INFO /usr/local/bin/bench schedule
+2023-11-21 17:07:02,029 INFO /usr/local/bin/bench worker --queue default
+2023-11-21 17:07:02,046 INFO /usr/local/bin/bench worker --queue short
+2023-11-21 17:07:02,053 INFO /usr/local/bin/bench worker --queue long
+2023-11-27 13:24:17,559 INFO /usr/local/bin/bench worker --queue default
+2023-11-27 13:24:17,560 INFO /usr/local/bin/bench worker --queue short
+2023-11-27 13:24:17,560 INFO /usr/local/bin/bench worker --queue long
+2023-11-27 13:24:17,560 INFO /usr/local/bin/bench schedule
+2023-11-27 18:00:01,617 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-28 00:00:01,961 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-28 06:00:01,305 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-28 12:00:01,868 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-28 13:12:42,081 INFO /home/admin123/.local/bin/bench restart
+2023-11-28 13:12:46,125 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-28 13:12:48,155 INFO /usr/local/bin/bench worker --queue default
+2023-11-28 13:12:48,161 INFO /usr/local/bin/bench worker --queue short
+2023-11-28 13:12:48,196 INFO /usr/local/bin/bench schedule
+2023-11-28 13:12:48,202 INFO /usr/local/bin/bench worker --queue long
+2023-11-28 13:13:00,767 INFO /home/admin123/.local/bin/bench restart
+2023-11-28 13:13:01,295 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-28 13:13:02,952 INFO /usr/local/bin/bench schedule
+2023-11-28 13:13:02,952 INFO /usr/local/bin/bench worker --queue default
+2023-11-28 13:13:02,956 INFO /usr/local/bin/bench worker --queue short
+2023-11-28 13:13:02,959 INFO /usr/local/bin/bench worker --queue long
+2023-11-28 14:16:40,396 INFO /home/admin123/.local/bin/bench restart
+2023-11-28 14:16:44,509 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-28 14:16:47,749 INFO /usr/local/bin/bench schedule
+2023-11-28 14:16:47,756 INFO /usr/local/bin/bench worker --queue short
+2023-11-28 14:16:47,759 INFO /usr/local/bin/bench worker --queue long
+2023-11-28 14:16:47,835 INFO /usr/local/bin/bench worker --queue default
+2023-11-28 15:41:39,486 INFO /home/admin123/.local/bin/bench restart
+2023-11-28 15:41:44,037 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-28 15:41:46,163 INFO /usr/local/bin/bench worker --queue default
+2023-11-28 15:41:46,177 INFO /usr/local/bin/bench schedule
+2023-11-28 15:41:46,183 INFO /usr/local/bin/bench worker --queue short
+2023-11-28 15:41:46,184 INFO /usr/local/bin/bench worker --queue long
+2023-11-28 18:00:01,758 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-29 00:00:01,433 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-29 06:00:01,428 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-29 10:23:48,269 INFO /home/admin123/.local/bin/bench restart
+2023-11-29 10:23:51,412 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-29 10:23:53,690 INFO /usr/local/bin/bench worker --queue default
+2023-11-29 10:23:53,691 INFO /usr/local/bin/bench schedule
+2023-11-29 10:23:53,692 INFO /usr/local/bin/bench worker --queue long
+2023-11-29 10:23:53,692 INFO /usr/local/bin/bench worker --queue short
+2023-11-29 12:00:01,301 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-29 15:35:17,264 INFO /usr/local/bin/bench restart
+2023-11-29 15:35:22,557 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-29 15:35:25,618 INFO /usr/local/bin/bench worker --queue default
+2023-11-29 15:35:25,619 INFO /usr/local/bin/bench schedule
+2023-11-29 15:35:25,620 INFO /usr/local/bin/bench worker --queue short
+2023-11-29 15:35:25,623 INFO /usr/local/bin/bench worker --queue long
+2023-11-29 15:35:27,838 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-29 17:00:20,418 INFO /usr/local/bin/bench restart
+2023-11-29 17:00:24,081 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-29 17:00:26,928 INFO /usr/local/bin/bench schedule
+2023-11-29 17:00:26,930 INFO /usr/local/bin/bench worker --queue short
+2023-11-29 17:00:26,937 INFO /usr/local/bin/bench worker --queue long
+2023-11-29 17:00:26,977 INFO /usr/local/bin/bench worker --queue default
+2023-11-29 17:00:31,722 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-29 17:34:06,447 INFO /usr/local/bin/bench restart
+2023-11-29 17:34:10,627 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-29 17:34:13,531 INFO /usr/local/bin/bench worker --queue long
+2023-11-29 17:34:13,531 INFO /usr/local/bin/bench schedule
+2023-11-29 17:34:13,544 INFO /usr/local/bin/bench worker --queue short
+2023-11-29 17:34:13,544 INFO /usr/local/bin/bench worker --queue default
+2023-11-29 17:34:16,554 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-29 18:00:01,545 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-30 00:00:02,020 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-30 06:00:02,007 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-30 11:14:47,194 INFO /usr/local/bin/bench restart
+2023-11-30 11:14:52,873 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 11:14:55,788 INFO /usr/local/bin/bench schedule
+2023-11-30 11:14:55,790 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 11:14:55,790 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 11:14:55,791 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 11:14:57,963 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 11:46:37,863 INFO /usr/local/bin/bench restart
+2023-11-30 11:46:42,326 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 11:46:45,277 INFO /usr/local/bin/bench schedule
+2023-11-30 11:46:45,283 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 11:46:45,284 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 11:46:45,285 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 11:46:48,413 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 11:49:38,810 INFO /usr/local/bin/bench restart
+2023-11-30 11:49:42,060 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 11:49:44,850 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 11:49:44,851 INFO /usr/local/bin/bench schedule
+2023-11-30 11:49:44,852 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 11:49:44,858 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 11:49:47,811 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 11:51:40,420 INFO /usr/local/bin/bench restart
+2023-11-30 11:51:44,608 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 11:51:46,503 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 11:51:46,505 INFO /usr/local/bin/bench schedule
+2023-11-30 11:51:46,507 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 11:51:46,508 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 11:51:49,678 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 12:00:02,016 INFO /usr/local/bin/bench --verbose --site all backup
+2023-11-30 13:54:41,494 INFO /usr/local/bin/bench restart
+2023-11-30 13:54:45,622 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 13:54:48,724 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 13:54:48,729 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 13:54:48,737 INFO /usr/local/bin/bench schedule
+2023-11-30 13:54:48,751 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 13:54:51,831 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 14:35:59,663 INFO /usr/local/bin/bench restart
+2023-11-30 14:36:03,540 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 14:36:05,300 INFO /usr/local/bin/bench schedule
+2023-11-30 14:36:05,302 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 14:36:05,310 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 14:36:05,326 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 14:36:07,510 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 14:39:19,847 INFO /usr/local/bin/bench restart
+2023-11-30 14:39:23,400 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 14:39:24,913 INFO /usr/local/bin/bench schedule
+2023-11-30 14:39:24,916 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 14:39:24,919 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 14:39:24,919 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 14:39:27,976 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 16:15:07,418 INFO /usr/local/bin/bench restart
+2023-11-30 16:15:12,208 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-11-30 16:15:14,425 INFO /usr/local/bin/bench worker --queue default
+2023-11-30 16:15:14,425 INFO /usr/local/bin/bench worker --queue short
+2023-11-30 16:15:14,435 INFO /usr/local/bin/bench worker --queue long
+2023-11-30 16:15:14,457 INFO /usr/local/bin/bench schedule
+2023-11-30 16:15:17,511 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-11-30 18:00:02,026 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-01 00:00:01,382 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-01 06:00:01,253 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-01 10:15:55,509 INFO /usr/local/bin/bench restart
+2023-12-01 10:15:59,491 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-01 10:16:01,819 INFO /usr/local/bin/bench worker --queue default
+2023-12-01 10:16:01,819 INFO /usr/local/bin/bench worker --queue short
+2023-12-01 10:16:01,823 INFO /usr/local/bin/bench schedule
+2023-12-01 10:16:01,823 INFO /usr/local/bin/bench worker --queue long
+2023-12-01 10:16:04,989 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-12-01 10:39:15,257 INFO /usr/local/bin/bench restart
+2023-12-01 10:39:18,258 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-01 10:39:21,199 INFO /usr/local/bin/bench worker --queue default
+2023-12-01 10:39:21,209 INFO /usr/local/bin/bench worker --queue long
+2023-12-01 10:39:21,221 INFO /usr/local/bin/bench worker --queue short
+2023-12-01 10:39:21,258 INFO /usr/local/bin/bench schedule
+2023-12-01 10:39:24,300 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-12-01 12:00:01,992 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-01 18:00:01,270 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-02 00:00:01,501 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-02 06:00:01,328 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-02 12:00:02,090 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-02 18:00:01,930 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-03 00:00:01,378 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-03 06:00:01,485 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-03 12:00:01,852 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-03 18:00:01,800 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-04 00:00:01,326 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-04 06:00:01,228 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-04 12:00:01,402 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-04 16:14:41,929 INFO /home/admin123/.local/bin/bench restart
+2023-12-04 16:14:53,272 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-04 16:14:56,438 INFO /usr/local/bin/bench schedule
+2023-12-04 16:14:56,440 INFO /usr/local/bin/bench worker --queue short
+2023-12-04 16:14:56,441 INFO /usr/local/bin/bench worker --queue default
+2023-12-04 16:14:56,448 INFO /usr/local/bin/bench worker --queue long
+2023-12-04 18:00:02,074 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-05 00:00:01,944 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-05 06:00:01,384 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-05 12:00:02,121 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-05 18:00:02,085 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-06 00:00:01,874 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-06 06:00:01,844 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-06 12:00:02,043 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-06 18:00:01,326 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-07 00:00:02,012 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-07 06:00:02,042 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-07 12:00:01,650 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-07 18:00:01,794 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-08 00:00:01,524 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-08 06:00:01,182 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-08 12:00:02,056 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-08 18:00:01,215 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-09 00:00:02,102 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-09 06:00:01,221 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-09 12:00:01,237 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-09 18:00:01,991 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-10 00:00:02,002 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-10 06:00:01,888 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-10 12:00:01,574 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-10 18:00:01,341 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-11 00:00:02,065 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-11 06:00:01,770 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-11 12:00:01,690 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-11 18:00:01,454 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-12 00:00:01,560 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-12 06:00:01,273 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-12 12:00:01,352 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-12 18:00:01,333 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-13 00:00:01,790 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-13 06:00:02,116 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-13 12:00:01,844 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-13 18:00:02,091 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-14 00:00:01,773 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-14 06:00:01,806 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-14 12:00:01,786 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-14 18:00:01,967 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-15 00:00:01,780 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-15 06:00:02,141 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-15 12:00:01,589 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-15 18:00:01,876 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-16 00:00:01,962 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-16 06:00:02,029 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-16 12:00:02,137 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-16 18:00:01,907 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-17 00:00:02,280 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-17 06:00:02,130 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-17 12:00:01,440 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-17 18:00:01,732 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-18 00:00:01,787 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-18 06:00:02,175 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-18 12:00:01,273 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-18 18:00:01,552 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-19 00:00:01,781 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-19 06:00:01,311 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-19 09:27:04,929 INFO /usr/local/bin/bench worker --queue default
+2023-12-19 09:27:04,929 INFO /usr/local/bin/bench schedule
+2023-12-19 09:27:04,929 INFO /usr/local/bin/bench worker --queue short
+2023-12-19 09:27:04,929 INFO /usr/local/bin/bench worker --queue long
+2023-12-19 10:38:43,943 INFO /usr/local/bin/bench restart
+2023-12-19 10:38:51,597 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-19 10:38:54,495 INFO /usr/local/bin/bench worker --queue short
+2023-12-19 10:38:54,495 INFO /usr/local/bin/bench worker --queue long
+2023-12-19 10:38:54,513 INFO /usr/local/bin/bench worker --queue default
+2023-12-19 10:38:54,513 INFO /usr/local/bin/bench schedule
+2023-12-19 10:38:57,667 INFO A newer version of bench is available: 5.16.4 → 5.19.0
+2023-12-19 11:37:16,031 INFO /usr/local/bin/bench worker --queue long
+2023-12-19 11:37:16,031 INFO /usr/local/bin/bench schedule
+2023-12-19 11:37:16,031 INFO /usr/local/bin/bench worker --queue short
+2023-12-19 11:37:16,031 INFO /usr/local/bin/bench worker --queue default
+2023-12-19 12:00:02,137 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-19 13:36:04,033 INFO /home/admin123/.local/bin/bench restart
+2023-12-19 13:36:14,858 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-19 13:36:16,986 INFO /usr/local/bin/bench schedule
+2023-12-19 13:36:16,986 INFO /usr/local/bin/bench worker --queue long
+2023-12-19 13:36:16,997 INFO /usr/local/bin/bench worker --queue default
+2023-12-19 13:36:17,042 INFO /usr/local/bin/bench worker --queue short
+2023-12-19 13:43:06,991 INFO /usr/local/bin/bench schedule
+2023-12-19 13:43:06,991 INFO /usr/local/bin/bench worker --queue short
+2023-12-19 13:43:06,991 INFO /usr/local/bin/bench worker --queue long
+2023-12-19 13:43:06,991 INFO /usr/local/bin/bench worker --queue default
+2023-12-19 14:11:59,672 INFO /home/admin123/.local/bin/bench backup-all-sites
+2023-12-19 18:00:01,300 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-20 00:00:01,927 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-20 06:00:02,158 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-20 10:30:30,917 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 10:30:34,750 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 10:30:37,537 INFO /usr/local/bin/bench schedule
+2023-12-20 10:30:37,538 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 10:30:37,540 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 10:30:37,546 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 12:00:01,503 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-20 14:22:51,558 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 14:22:55,307 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 14:22:57,511 INFO /usr/local/bin/bench schedule
+2023-12-20 14:22:57,515 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 14:22:57,515 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 14:22:57,516 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 15:41:12,403 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 15:41:25,247 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 15:41:27,253 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 15:41:27,253 INFO /usr/local/bin/bench schedule
+2023-12-20 15:41:27,257 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 15:41:27,258 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 17:50:28,518 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 17:50:33,928 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 17:50:35,914 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 17:50:35,916 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 17:50:35,930 INFO /usr/local/bin/bench schedule
+2023-12-20 17:50:35,937 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 18:00:01,245 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-20 18:04:43,796 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 18:04:44,343 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 18:04:46,222 INFO /usr/local/bin/bench schedule
+2023-12-20 18:04:46,222 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 18:04:46,222 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 18:04:46,225 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 18:16:01,256 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 18:16:01,926 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 18:16:04,745 INFO /usr/local/bin/bench schedule
+2023-12-20 18:16:04,747 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 18:16:04,747 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 18:16:04,754 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 18:31:28,351 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 18:31:32,622 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 18:31:35,405 INFO /usr/local/bin/bench schedule
+2023-12-20 18:31:35,406 INFO /usr/local/bin/bench worker --queue long
+2023-12-20 18:31:35,408 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 18:31:35,425 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 18:46:01,386 INFO /home/admin123/.local/bin/bench restart
+2023-12-20 18:46:01,929 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-20 18:46:03,832 INFO /usr/local/bin/bench schedule
+2023-12-20 18:46:03,833 INFO /usr/local/bin/bench worker --queue default
+2023-12-20 18:46:03,835 INFO /usr/local/bin/bench worker --queue short
+2023-12-20 18:46:03,835 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 00:00:01,590 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-21 06:00:01,223 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-21 11:06:51,769 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 11:06:56,683 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 11:06:58,604 INFO /usr/local/bin/bench schedule
+2023-12-21 11:06:58,606 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 11:06:58,610 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 11:06:58,611 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 11:56:25,621 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 11:56:30,233 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 11:56:33,093 INFO /usr/local/bin/bench schedule
+2023-12-21 11:56:33,111 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 11:56:33,121 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 11:56:33,128 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 12:00:02,151 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-21 12:10:14,624 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 12:10:15,326 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 12:10:18,315 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 12:10:18,333 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 12:10:18,334 INFO /usr/local/bin/bench schedule
+2023-12-21 12:10:18,337 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 15:00:57,936 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 15:01:03,062 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 15:01:05,255 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 15:01:05,258 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 15:01:05,262 INFO /usr/local/bin/bench schedule
+2023-12-21 15:01:05,262 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 15:23:04,772 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 15:23:11,317 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 15:23:14,243 INFO /usr/local/bin/bench schedule
+2023-12-21 15:23:14,253 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 15:23:14,312 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 15:23:14,326 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 15:58:15,183 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 15:58:19,036 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 15:58:22,085 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 15:58:22,107 INFO /usr/local/bin/bench schedule
+2023-12-21 15:58:22,110 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 15:58:22,112 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 16:11:10,152 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 16:11:10,657 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 16:11:13,405 INFO /usr/local/bin/bench schedule
+2023-12-21 16:11:13,407 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 16:11:13,407 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 16:11:13,425 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 16:40:39,488 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 16:40:52,998 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 16:40:55,947 INFO /usr/local/bin/bench schedule
+2023-12-21 16:40:55,948 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 16:40:55,948 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 16:40:55,951 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 17:38:19,008 INFO /home/admin123/.local/bin/bench restart
+2023-12-21 17:38:23,408 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-21 17:38:26,376 INFO /usr/local/bin/bench schedule
+2023-12-21 17:38:26,380 INFO /usr/local/bin/bench worker --queue short
+2023-12-21 17:38:26,382 INFO /usr/local/bin/bench worker --queue default
+2023-12-21 17:38:26,384 INFO /usr/local/bin/bench worker --queue long
+2023-12-21 18:00:01,803 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-22 00:00:02,160 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-22 06:00:01,996 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-22 12:00:01,575 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-22 18:00:01,765 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-23 00:00:01,516 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-23 06:00:02,119 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-23 12:00:01,742 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-23 18:00:01,630 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-24 00:00:01,542 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-24 06:00:01,673 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-24 12:00:01,380 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-24 18:00:01,483 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-25 00:00:01,268 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-25 06:00:02,142 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-25 12:00:01,741 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-25 18:00:01,641 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-26 00:00:01,241 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-26 06:00:01,784 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-26 10:50:53,014 INFO /usr/local/bin/bench worker --queue long
+2023-12-26 10:50:53,014 INFO /usr/local/bin/bench worker --queue short
+2023-12-26 10:50:53,014 INFO /usr/local/bin/bench schedule
+2023-12-26 10:50:53,014 INFO /usr/local/bin/bench worker --queue default
+2023-12-26 12:00:02,186 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-26 12:23:15,277 INFO /home/admin123/.local/bin/bench --site trial.aurumwholesale.com reinstall
+2023-12-26 15:29:50,231 INFO /home/admin123/.local/bin/bench --site erp.echemportal.com reinstall
+2023-12-26 16:58:18,605 INFO /home/admin123/.local/bin/bench restart
+2023-12-26 16:58:22,930 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-26 16:58:25,836 INFO /usr/local/bin/bench schedule
+2023-12-26 16:58:25,838 INFO /usr/local/bin/bench worker --queue default
+2023-12-26 16:58:25,839 INFO /usr/local/bin/bench worker --queue short
+2023-12-26 16:58:25,843 INFO /usr/local/bin/bench worker --queue long
+2023-12-26 17:14:36,383 INFO /home/admin123/.local/bin/bench restart
+2023-12-26 17:14:49,042 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-26 17:14:52,018 INFO /usr/local/bin/bench schedule
+2023-12-26 17:14:52,019 INFO /usr/local/bin/bench worker --queue default
+2023-12-26 17:14:52,024 INFO /usr/local/bin/bench worker --queue short
+2023-12-26 17:14:52,024 INFO /usr/local/bin/bench worker --queue long
+2023-12-26 18:00:01,868 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-27 00:00:01,339 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-27 06:00:01,875 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-27 12:00:01,993 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-27 12:53:03,472 INFO /home/admin123/.local/bin/bench restart
+2023-12-27 12:53:06,229 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-27 12:53:08,581 INFO /usr/local/bin/bench worker --queue default
+2023-12-27 12:53:08,582 INFO /usr/local/bin/bench schedule
+2023-12-27 12:53:08,588 INFO /usr/local/bin/bench worker --queue long
+2023-12-27 12:53:08,588 INFO /usr/local/bin/bench worker --queue short
+2023-12-27 12:57:49,217 INFO /home/admin123/.local/bin/bench restart
+2023-12-27 12:57:50,132 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-27 12:57:51,999 INFO /usr/local/bin/bench worker --queue default
+2023-12-27 12:57:52,001 INFO /usr/local/bin/bench schedule
+2023-12-27 12:57:52,002 INFO /usr/local/bin/bench worker --queue short
+2023-12-27 12:57:52,014 INFO /usr/local/bin/bench worker --queue long
+2023-12-27 12:59:36,195 INFO /home/admin123/.local/bin/bench restart
+2023-12-27 12:59:36,930 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-27 12:59:39,786 INFO /usr/local/bin/bench worker --queue short
+2023-12-27 12:59:39,789 INFO /usr/local/bin/bench schedule
+2023-12-27 12:59:39,792 INFO /usr/local/bin/bench worker --queue default
+2023-12-27 12:59:39,795 INFO /usr/local/bin/bench worker --queue long
+2023-12-27 16:21:01,234 INFO /home/admin123/.local/bin/bench restart
+2023-12-27 16:21:05,297 DEBUG cd /home/admin123/frappe-bench && sudo supervisorctl restart frappe-bench-workers: frappe-bench-web:
+2023-12-27 16:21:07,304 INFO /usr/local/bin/bench schedule
+2023-12-27 16:21:07,304 INFO /usr/local/bin/bench worker --queue default
+2023-12-27 16:21:07,305 INFO /usr/local/bin/bench worker --queue short
+2023-12-27 16:21:07,305 INFO /usr/local/bin/bench worker --queue long
+2023-12-27 18:00:01,367 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-28 00:00:01,802 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-28 06:00:01,243 INFO /usr/local/bin/bench --verbose --site all backup
+2023-12-28 12:00:01,523 INFO /usr/local/bin/bench --verbose --site all backup

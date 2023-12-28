@@ -295,3 +295,355 @@ Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Mont
 2023-09-22 14:34:05,351 ERROR frappe New Exception collected with id: 2023-09-22 14:34:05.265065-47.190.78.200-531
 Site: erpenzemic.mol-tech.com
 Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Monthly","budget_against":"Cost Center","show_cumulative":0,"company":"Enzemic"}', 'ignore_prepared_report': '1', 'cmd': 'frappe.desk.query_report.run'}
+2023-09-26 11:04:08,891 ERROR frappe New Exception collected with id: 2023-09-26 11:04:08.797468-47.190.78.200-58f
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_purchase_order_details'}
+2023-09-26 11:17:41,268 ERROR frappe New Exception collected with id: 2023-09-26 11:17:41.165417-47.190.78.200-982
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_customer_details'}
+2023-11-14 16:28:46,980 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-21 17:07:37,615 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-21 17:08:29,507 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-21 17:08:45,987 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-21 17:10:26,320 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-21 17:10:32,519 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-21 17:10:47,289 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-27 14:09:34,270 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-27 14:10:14,966 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-27 14:10:22,693 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-27 14:33:12,398 ERROR frappe Error retrieving address details: Address Abbvie Inc-Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-27 14:34:43,481 ERROR frappe Error retrieving address details: Address Concept Life Sciences not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-28 12:15:45,179 ERROR frappe New Exception collected with id: 2023-11-28 12:15:45.088063-47.190.78.200-7cf
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 13:28:46,396 ERROR frappe New Exception collected with id: 2023-11-28 13:28:46.299958-47.190.78.200-67c
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 13:29:35,263 ERROR frappe New Exception collected with id: 2023-11-28 13:29:35.181745-47.190.78.200-58a
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 13:34:48,936 ERROR frappe New Exception collected with id: 2023-11-28 13:34:48.843318-47.190.78.200-4e5
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 13:35:35,169 ERROR frappe Could not take error snapshot: 'relativedelta' object has no attribute 'days'
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/app.py", line 94, in application
+    response = frappe.api.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/api.py", line 54, in handle
+    return frappe.handler.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 47, in handle
+    data = execute_cmd(cmd)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 85, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/__init__.py", line 1610, in call
+    return fn(*args, **newargs)
+  File "/home/admin123/frappe-bench/apps/erpnext/erpnext/sales_invoice.py", line 237, in sample_invoice
+    due_date = add_days(posting_date, payment_terms)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/data.py", line 265, in add_days
+    return add_to_date(date, days=days)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/data.py", line 251, in add_to_date
+    date = date + relativedelta(
+  File "/home/admin123/frappe-bench/env/lib/python3.10/site-packages/dateutil/relativedelta.py", line 179, in __init__
+    self.days = days + weeks * 7
+TypeError: can only concatenate str (not "int") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 60, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 106, in get_snapshot
+    call = inspect.formatargvalues(
+  File "/usr/lib/python3.10/inspect.py", line 1443, in formatargvalues
+    specs.append(convert(args[i]))
+  File "/usr/lib/python3.10/inspect.py", line 1440, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 107, in <lambda>
+    args, varargs, varkw, locals, formatvalue=lambda value: f"={pydoc.text.repr(value)}"
+  File "/usr/lib/python3.10/reprlib.py", line 52, in repr
+    return self.repr1(x, self.maxlevel)
+  File "/usr/lib/python3.10/pydoc.py", line 1147, in repr1
+    return cram(stripid(repr(x)), self.maxother)
+  File "/home/admin123/frappe-bench/env/lib/python3.10/site-packages/dateutil/relativedelta.py", line 584, in __repr__
+    value = getattr(self, attr)
+AttributeError: 'relativedelta' object has no attribute 'days'
+2023-11-28 13:51:19,746 ERROR frappe Could not take error snapshot: 'relativedelta' object has no attribute 'days'
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/app.py", line 94, in application
+    response = frappe.api.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/api.py", line 54, in handle
+    return frappe.handler.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 47, in handle
+    data = execute_cmd(cmd)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 85, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/__init__.py", line 1610, in call
+    return fn(*args, **newargs)
+  File "/home/admin123/frappe-bench/apps/erpnext/erpnext/sales_invoice.py", line 237, in sample_invoice
+    due_date = add_days(posting_date, 30)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/data.py", line 265, in add_days
+    return add_to_date(date, days=days)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/data.py", line 251, in add_to_date
+    date = date + relativedelta(
+  File "/home/admin123/frappe-bench/env/lib/python3.10/site-packages/dateutil/relativedelta.py", line 179, in __init__
+    self.days = days + weeks * 7
+TypeError: can only concatenate str (not "int") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 60, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 106, in get_snapshot
+    call = inspect.formatargvalues(
+  File "/usr/lib/python3.10/inspect.py", line 1443, in formatargvalues
+    specs.append(convert(args[i]))
+  File "/usr/lib/python3.10/inspect.py", line 1440, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 107, in <lambda>
+    args, varargs, varkw, locals, formatvalue=lambda value: f"={pydoc.text.repr(value)}"
+  File "/usr/lib/python3.10/reprlib.py", line 52, in repr
+    return self.repr1(x, self.maxlevel)
+  File "/usr/lib/python3.10/pydoc.py", line 1147, in repr1
+    return cram(stripid(repr(x)), self.maxother)
+  File "/home/admin123/frappe-bench/env/lib/python3.10/site-packages/dateutil/relativedelta.py", line 584, in __repr__
+    value = getattr(self, attr)
+AttributeError: 'relativedelta' object has no attribute 'days'
+2023-11-28 13:51:42,555 ERROR frappe New Exception collected with id: 2023-11-28 13:51:42.552049-47.190.78.200-774
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 15:37:39,975 ERROR frappe New Exception collected with id: 2023-11-28 15:37:39.896449-47.190.78.200-561
+Site: erpenzemic.mol-tech.com
+Form Dict: {'name': 'John Doe', 'customer_type': 'Individual', 'customer_name': 'John Doe', 'addresses': [{'address_line1': '123 Main St', 'address_line2': 'Apt 1', 'city': 'New York', 'state': 'NY', 'country': 'USA', 'pincode': '10001'}], 'cmd': 'erpnext.get_list_customers.get'}
+2023-11-28 16:08:36,906 ERROR frappe New Exception collected with id: 2023-11-28 16:08:36.838991-47.190.78.200-a5b
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 16:09:06,898 ERROR frappe New Exception collected with id: 2023-11-28 16:09:06.830656-47.190.78.200-663
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 16:09:25,732 ERROR frappe New Exception collected with id: 2023-11-28 16:09:25.730052-47.190.78.200-d02
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 16:09:37,234 ERROR frappe New Exception collected with id: 2023-11-28 16:09:37.229517-47.190.78.200-c84
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.sample_invoice'}
+2023-11-28 16:17:33,836 ERROR frappe Error retrieving address details: Address Concept Life Sciences not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-28 16:17:43,336 ERROR frappe Error retrieving address details: Address Concept Life Sciences not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 10:38:22,039 ERROR frappe Error retrieving address details: Address Concept Life Sciences not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 10:38:39,598 ERROR frappe Error retrieving address details: Address NewCustomer not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 10:38:57,310 ERROR frappe Error retrieving address details: Address NewCustomer not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 10:39:00,349 ERROR frappe Error retrieving address details: Address NewCustomer - Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 10:39:10,531 ERROR frappe Error retrieving address details: Address Concept Life Sciences not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 10:39:12,693 ERROR frappe Error retrieving address details: Address NewCustomer_s not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 14:32:33,165 ERROR frappe New Exception collected with id: 2023-11-29 14:32:33.074629-47.190.78.200-621
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address'}
+2023-11-29 14:46:13,549 ERROR frappe New Exception collected with id: 2023-11-29 14:46:13.466589-47.190.78.200-d3a
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.check_address_exists'}
+2023-11-29 14:46:15,650 ERROR frappe New Exception collected with id: 2023-11-29 14:46:15.564961-47.190.78.200-941
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.check_address_exists'}
+2023-11-29 15:26:00,927 ERROR frappe Error retrieving address details: Address NewCustomer - Billing not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 17:03:45,596 ERROR frappe Error retrieving address details: Address Attn:  1919103007,Galapagos NV not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 17:08:19,523 ERROR frappe Error retrieving address details: Address Attn:  1919103007,Galapagos NV-Shipping not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-29 17:15:08,089 ERROR frappe Error retrieving address details: Address Attn:  1919103007,Galapagos NV not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-30 11:28:11,098 ERROR frappe Error retrieving address details: Address Attn:  1919103007,Galapagos NV-Shipping not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-30 11:28:28,311 ERROR frappe Error retrieving address details: Address Attn:  1919103007,Galapagos NV-Shipping not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.get_address_details'}
+2023-11-30 15:19:17,880 ERROR frappe New Exception collected with id: 2023-11-30 15:19:17.857538-47.190.78.200-442
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.check_address_exists'}
+2023-11-30 15:19:26,030 ERROR frappe New Exception collected with id: 2023-11-30 15:19:25.965575-47.190.78.200-dd8
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.address.check_address_exists'}
+2023-11-30 16:15:42,013 ERROR frappe New Exception collected with id: 2023-11-30 16:15:41.960878-47.190.78.200-1f8
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-11-30 16:16:09,541 ERROR frappe New Exception collected with id: 2023-11-30 16:16:09.475758-47.190.78.200-5c9
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-11-30 16:18:32,080 ERROR frappe New Exception collected with id: 2023-11-30 16:18:31.950269-47.190.78.200-345
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-11-30 16:18:58,606 ERROR frappe New Exception collected with id: 2023-11-30 16:18:58.604799-47.190.78.200-c30
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-11-30 16:19:08,325 ERROR frappe New Exception collected with id: 2023-11-30 16:19:08.324198-47.190.78.200-515
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-11-30 16:21:36,579 ERROR frappe New Exception collected with id: 2023-11-30 16:21:36.504419-47.190.78.200-223
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-11-30 16:23:45,690 ERROR frappe New Exception collected with id: 2023-11-30 16:23:45.686690-47.190.78.200-f1a
+Site: erpenzemic.mol-tech.com
+Form Dict: {'body': 'test', 'cmd': 'erpnext.sales_invoice.link_customer_to_existing_address'}
+2023-12-01 12:08:51,148 ERROR frappe New Exception collected with id: 2023-12-01 12:08:51.044092-47.190.78.200-ea4
+Site: erpenzemic.mol-tech.com
+Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Monthly","budget_against":"Cost Center","show_cumulative":0,"company":"Enzemic"}', 'ignore_prepared_report': '1', 'cmd': 'frappe.desk.query_report.run'}
+2023-12-01 14:46:06,137 ERROR frappe New Exception collected with id: 2023-12-01 14:46:06.048755-47.190.78.200-334
+Site: erpenzemic.mol-tech.com
+Form Dict: {'bank_account': 'Plaid Checking - Chase', 'from_date': '2023-11-01', 'to_date': '2023-12-01', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-12-04 09:55:56,869 ERROR frappe New Exception collected with id: 2023-12-04 09:55:56.771602-47.190.78.200-b32
+Site: erpenzemic.mol-tech.com
+Form Dict: {'limit_page_length': 20}
+2023-12-04 12:01:59,608 ERROR frappe New Exception collected with id: 2023-12-04 12:01:59.500910-47.190.78.200-e04
+Site: erpenzemic.mol-tech.com
+Form Dict: {'docs': '{"name":"Plaid Settings","owner":"Administrator","modified":"2023-12-04 08:01:55.517740","modified_by":"Administrator","docstatus":0,"idx":"0","enabled":1,"automatic_sync":0,"plaid_client_id":"65415375eb7bb6001c52b9d4","plaid_secret":"******************************","plaid_env":"development","enable_european_access":0,"doctype":"Plaid Settings"}', 'method': 'get_link_token', 'cmd': 'run_doc_method'}
+2023-12-04 12:02:36,707 ERROR frappe New Exception collected with id: 2023-12-04 12:02:36.600842-47.190.78.200-3f6
+Site: erpenzemic.mol-tech.com
+Form Dict: {'docs': '{"name":"Plaid Settings","owner":"Administrator","modified":"2023-12-04 08:02:33.933139","modified_by":"Administrator","docstatus":0,"idx":"0","enabled":1,"automatic_sync":0,"plaid_client_id":"65415375eb7bb6001c52b9d4","plaid_secret":"******************************","plaid_env":"development","enable_european_access":0,"doctype":"Plaid Settings"}', 'method': 'get_link_token', 'cmd': 'run_doc_method'}
+2023-12-06 03:08:20,345 ERROR frappe New Exception collected with id: 2023-12-06 03:08:20.244792-180.211.113.238-6ab
+Site: erpenzemic.mol-tech.com
+Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Monthly","budget_against":"Cost Center","show_cumulative":0,"company":"Enzemic"}', 'ignore_prepared_report': '1', 'cmd': 'frappe.desk.query_report.run'}
+2023-12-06 05:49:15,951 ERROR frappe New Exception collected with id: 2023-12-06 05:49:15.831274-180.211.113.238-87c
+Site: erpenzemic.mol-tech.com
+Form Dict: {'bank_account': 'Plaid Checking - Chase', 'from_date': '2023-11-06', 'to_date': '2023-12-06', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-12-06 05:49:16,321 ERROR frappe New Exception collected with id: 2023-12-06 05:49:16.220224-180.211.113.238-d9e
+Site: erpenzemic.mol-tech.com
+Form Dict: {'bank_account': 'Plaid Checking - Chase', 'from_date': '2023-11-06', 'to_date': '2023-12-06', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-12-06 09:56:15,022 ERROR frappe New Exception collected with id: 2023-12-06 09:56:14.919005-47.190.78.200-4c6
+Site: erpenzemic.mol-tech.com
+Form Dict: {'from_date': '2023-11-06', 'to_date': '2023-12-06', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-12-11 06:53:11,171 ERROR frappe New Exception collected with id: 2023-12-11 06:53:11.018653-180.211.113.238-9de
+Site: erpenzemic.mol-tech.com
+Form Dict: {'doc': '{"name":"ACC-SINV-2023-00132","owner":"Administrator","creation":"2023-12-06 00:15:42.363260","modified":"2023-12-07 23:10:43.797480","modified_by":"Administrator","docstatus":1,"idx":0,"title":"Abzena (Bristol) LLC","naming_series":"ACC-SINV-.YYYY.-","invoice_number":"A-001","customer":"Abzena (Bristol) LLC","customer_name":"Abzena (Bristol) LLC","company":"Enzemic","posting_date":"2023-12-06","posting_time":"4:13:30","set_posting_time":1,"due_date":"2023-12-06","is_pos":0,"is_consolidated":0,"is_return":0,"update_billed_amount_in_sales_order":0,"is_debit_note":0,"currency":"USD","conversion_rate":1,"selling_price_list":"Standard Selling","price_list_currency":"USD","plc_conversion_rate":1,"ignore_pricing_rule":0,"update_stock":0,"total_qty":2,"total_net_weight":0,"base_total":500,"base_net_total":500,"total":500,"net_total":500,"exempt_from_sales_tax":0,"tax_category":"","taxes_and_charges":"US ST 6% - E","base_total_taxes_and_charges":0,"total_taxes_and_charges":0,"base_grand_total":500,"base_rounding_adjustment":0,"base_rounded_total":500,"base_in_words":"USD Five Hundred only.","grand_total":500,"rounding_adjustment":0,"use_company_roundoff_cost_center":0,"rounded_total":500,"in_words":"USD Five Hundred only.","total_advance":0,"outstanding_amount":0,"disable_rounded_total":0,"apply_discount_on":"Grand Total","base_discount_amount":0,"is_cash_or_non_trade_discount":0,"additional_discount_percentage":0,"discount_amount":0,"total_billing_hours":0,"total_billing_amount":0,"base_paid_amount":0,"paid_amount":0,"base_change_amount":0,"change_amount":0,"allocate_advances_automatically":0,"only_include_allocated_payments":0,"write_off_amount":0,"base_write_off_amount":0,"write_off_outstanding_amount_automatically":0,"redeem_loyalty_points":0,"loyalty_points":0,"loyalty_amount":0,"customer_address":"Dorothy Branigan,Abzena (Bristol) LLC-Shipping","address_display":"Dorothy Branigan<br>\\n360 George Patterson Blvd<br>Bristol,  19007<br>","territory":"United States","shipping_address_name":"Dorothy Branigan,Abzena (Bristol) LLC-Shipping","shipping_address":"Dorothy Branigan<br>\\n360 George Patterson Blvd<br>Bristol,  19007<br>","ignore_default_payment_terms_template":0,"po_no":"","debit_to":"1310 - Debtors - E","party_account_currency":"USD","is_opening":"No","against_income_account":"4110 - Sales - E","amount_eligible_for_commission":500,"commission_rate":0,"total_commission":0,"group_same_items":0,"language":"en-US","status":"Paid","customer_group":"Commercial","is_internal_customer":0,"is_discounted":0,"remarks":"No Remarks","repost_required":0,"doctype":"Sales Invoice","payment_schedule":[{"name":"7b612a1899","owner":"Administrator","creation":"2023-12-06 00:15:42.757605","modified":"2023-12-06 00:16:03.556575","modified_by":"Administrator","docstatus":1,"idx":1,"due_date":"2023-12-06","invoice_portion":100,"discount":0,"payment_amount":500,"outstanding":500,"paid_amount":0,"discounted_amount":0,"base_payment_amount":500,"parent":"ACC-SINV-2023-00132","parentfield":"payment_schedule","parenttype":"Sales Invoice","doctype":"Payment Schedule"}],"timesheets":[],"packed_items":[],"items":[{"name":"1bfa873185","owner":"Administrator","creation":"2023-12-06 00:15:42.363260","modified":"2023-12-06 00:16:03.556575","modified_by":"Administrator","docstatus":1,"idx":1,"has_item_scanned":0,"item_code":"55749","item_name":"1-NAPHTHYLAMINE","description":"1-NAPHTHYLAMINE","item_group":"Raw Material","image":"","qty":2,"stock_uom":"Gram","uom":"Gram","conversion_factor":1,"stock_qty":2,"price_list_rate":0,"base_price_list_rate":0,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"base_rate_with_margin":0,"rate":250,"amount":500,"base_rate":250,"base_amount":500,"stock_uom_rate":250,"is_free_item":0,"grant_commission":1,"net_rate":250,"net_amount":500,"base_net_rate":250,"base_net_amount":500,"delivered_by_supplier":0,"income_account":"4110 - Sales - E","is_fixed_asset":0,"expense_account":"5111 - Cost of Goods Sold - E","enable_deferred_revenue":0,"weight_per_unit":0,"total_weight":0,"warehouse":"Stores - E","incoming_rate":0,"allow_zero_valuation_rate":0,"item_tax_rate":"{}","actual_batch_qty":0,"actual_qty":0,"sales_order":"SAL-ORD-2023-00002","so_detail":"362b363e72","delivered_qty":0,"cost_center":"Main - E","page_break":0,"parent":"ACC-SINV-2023-00132","parentfield":"items","parenttype":"Sales Invoice","doctype":"Sales Invoice Item"}],"payments":[],"advances":[],"taxes":[],"pricing_rules":[],"sales_team":[],"__onload":{"make_payment_via_journal_entry":0},"__last_sync_on":"2023-12-11T12:49:37.755Z"}', 'print_format': 'Walkthrough - 2', 'no_letterhead': '1', 'letterhead': 'No Letterhead', 'settings': '{}', '_lang': 'en-US', 'cmd': 'frappe.www.printview.get_html_and_style'}
+2023-12-11 06:53:16,471 ERROR frappe New Exception collected with id: 2023-12-11 06:53:16.372778-180.211.113.238-c02
+Site: erpenzemic.mol-tech.com
+Form Dict: {'doc': '{"name":"ACC-SINV-2023-00132","owner":"Administrator","creation":"2023-12-06 00:15:42.363260","modified":"2023-12-07 23:10:43.797480","modified_by":"Administrator","docstatus":1,"idx":0,"title":"Abzena (Bristol) LLC","naming_series":"ACC-SINV-.YYYY.-","invoice_number":"A-001","customer":"Abzena (Bristol) LLC","customer_name":"Abzena (Bristol) LLC","company":"Enzemic","posting_date":"2023-12-06","posting_time":"4:13:30","set_posting_time":1,"due_date":"2023-12-06","is_pos":0,"is_consolidated":0,"is_return":0,"update_billed_amount_in_sales_order":0,"is_debit_note":0,"currency":"USD","conversion_rate":1,"selling_price_list":"Standard Selling","price_list_currency":"USD","plc_conversion_rate":1,"ignore_pricing_rule":0,"update_stock":0,"total_qty":2,"total_net_weight":0,"base_total":500,"base_net_total":500,"total":500,"net_total":500,"exempt_from_sales_tax":0,"tax_category":"","taxes_and_charges":"US ST 6% - E","base_total_taxes_and_charges":0,"total_taxes_and_charges":0,"base_grand_total":500,"base_rounding_adjustment":0,"base_rounded_total":500,"base_in_words":"USD Five Hundred only.","grand_total":500,"rounding_adjustment":0,"use_company_roundoff_cost_center":0,"rounded_total":500,"in_words":"USD Five Hundred only.","total_advance":0,"outstanding_amount":0,"disable_rounded_total":0,"apply_discount_on":"Grand Total","base_discount_amount":0,"is_cash_or_non_trade_discount":0,"additional_discount_percentage":0,"discount_amount":0,"total_billing_hours":0,"total_billing_amount":0,"base_paid_amount":0,"paid_amount":0,"base_change_amount":0,"change_amount":0,"allocate_advances_automatically":0,"only_include_allocated_payments":0,"write_off_amount":0,"base_write_off_amount":0,"write_off_outstanding_amount_automatically":0,"redeem_loyalty_points":0,"loyalty_points":0,"loyalty_amount":0,"customer_address":"Dorothy Branigan,Abzena (Bristol) LLC-Shipping","address_display":"Dorothy Branigan<br>\\n360 George Patterson Blvd<br>Bristol,  19007<br>","territory":"United States","shipping_address_name":"Dorothy Branigan,Abzena (Bristol) LLC-Shipping","shipping_address":"Dorothy Branigan<br>\\n360 George Patterson Blvd<br>Bristol,  19007<br>","ignore_default_payment_terms_template":0,"po_no":"","debit_to":"1310 - Debtors - E","party_account_currency":"USD","is_opening":"No","against_income_account":"4110 - Sales - E","amount_eligible_for_commission":500,"commission_rate":0,"total_commission":0,"group_same_items":0,"language":"en-US","status":"Paid","customer_group":"Commercial","is_internal_customer":0,"is_discounted":0,"remarks":"No Remarks","repost_required":0,"doctype":"Sales Invoice","payment_schedule":[{"name":"7b612a1899","owner":"Administrator","creation":"2023-12-06 00:15:42.757605","modified":"2023-12-06 00:16:03.556575","modified_by":"Administrator","docstatus":1,"idx":1,"due_date":"2023-12-06","invoice_portion":100,"discount":0,"payment_amount":500,"outstanding":500,"paid_amount":0,"discounted_amount":0,"base_payment_amount":500,"parent":"ACC-SINV-2023-00132","parentfield":"payment_schedule","parenttype":"Sales Invoice","doctype":"Payment Schedule"}],"timesheets":[],"packed_items":[],"items":[{"name":"1bfa873185","owner":"Administrator","creation":"2023-12-06 00:15:42.363260","modified":"2023-12-06 00:16:03.556575","modified_by":"Administrator","docstatus":1,"idx":1,"has_item_scanned":0,"item_code":"55749","item_name":"1-NAPHTHYLAMINE","description":"1-NAPHTHYLAMINE","item_group":"Raw Material","image":"","qty":2,"stock_uom":"Gram","uom":"Gram","conversion_factor":1,"stock_qty":2,"price_list_rate":0,"base_price_list_rate":0,"margin_type":"","margin_rate_or_amount":0,"rate_with_margin":0,"discount_percentage":0,"discount_amount":0,"base_rate_with_margin":0,"rate":250,"amount":500,"base_rate":250,"base_amount":500,"stock_uom_rate":250,"is_free_item":0,"grant_commission":1,"net_rate":250,"net_amount":500,"base_net_rate":250,"base_net_amount":500,"delivered_by_supplier":0,"income_account":"4110 - Sales - E","is_fixed_asset":0,"expense_account":"5111 - Cost of Goods Sold - E","enable_deferred_revenue":0,"weight_per_unit":0,"total_weight":0,"warehouse":"Stores - E","incoming_rate":0,"allow_zero_valuation_rate":0,"item_tax_rate":"{}","actual_batch_qty":0,"actual_qty":0,"sales_order":"SAL-ORD-2023-00002","so_detail":"362b363e72","delivered_qty":0,"cost_center":"Main - E","page_break":0,"parent":"ACC-SINV-2023-00132","parentfield":"items","parenttype":"Sales Invoice","doctype":"Sales Invoice Item"}],"payments":[],"advances":[],"taxes":[],"pricing_rules":[],"sales_team":[],"__onload":{"make_payment_via_journal_entry":0},"__last_sync_on":"2023-12-11T12:49:37.755Z"}', 'print_format': 'Walkthrough - 2', 'no_letterhead': '1', 'letterhead': 'No Letterhead', 'settings': '{}', '_lang': 'en-US', 'cmd': 'frappe.www.printview.get_html_and_style'}
+2023-12-13 10:22:39,155 ERROR frappe New Exception collected with id: 2023-12-13 10:22:39.039815-180.211.113.238-896
+Site: erpenzemic.mol-tech.com
+Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Monthly","budget_against":"Cost Center","show_cumulative":0,"company":"Enzemic"}', 'ignore_prepared_report': '1', 'cmd': 'frappe.desk.query_report.run'}
+2023-12-19 10:40:39,624 ERROR frappe New Exception collected with id: 2023-12-19 10:40:39.556979-47.190.78.200-7f8
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.get_purchase_invoice_details'}
+2023-12-19 10:42:31,952 ERROR frappe Error retrieving purchase invoice details: Purchase Invoice BLd Pharma not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.get_purchase_invoice_details'}
+2023-12-19 13:10:47,003 ERROR frappe New Exception collected with id: 2023-12-19 13:10:46.884559-47.190.78.200-dac
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.create_purchase_invoice'}
+2023-12-19 13:10:58,563 ERROR frappe New Exception collected with id: 2023-12-19 13:10:58.500568-47.190.78.200-807
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.create_purchase_invoice'}
+2023-12-19 13:11:09,178 ERROR frappe New Exception collected with id: 2023-12-19 13:11:09.115283-47.190.78.200-0a0
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.create_purchase_invoice'}
+2023-12-19 16:02:55,077 ERROR frappe New Exception collected with id: 2023-12-19 16:02:55.002162-47.190.78.200-123
+Site: erpenzemic.mol-tech.com
+Form Dict: {'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-12-19 16:03:33,084 ERROR frappe New Exception collected with id: 2023-12-19 16:03:32.984475-47.190.78.200-111
+Site: erpenzemic.mol-tech.com
+Form Dict: {'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-12-20 14:40:55,100 ERROR frappe Error retrieving purchase invoice details: Purchase Invoice ACC-PINV-2023-00013 not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.get_purchase_invoice_details'}
+2023-12-20 15:28:48,129 ERROR frappe Error retrieving purchase invoice details: Purchase Invoice ACC-PINV-2023-00013 not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.get_purchase_invoice_details'}
+2023-12-20 15:31:44,172 ERROR frappe Error retrieving purchase invoice details: Purchase Invoice ACC-PINV-2023-00013 not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.get_purchase_invoice_details'}
+2023-12-20 18:27:54,747 ERROR frappe Error retrieving purchase invoice details: Purchase Invoice ACC-PINV-2023-00013 not found
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.get_purchase_invoice_details'}
+2023-12-21 11:33:49,785 ERROR frappe New Exception collected with id: 2023-12-21 11:33:49.723465-47.190.78.200-47b
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:04:25,297 ERROR frappe New Exception collected with id: 2023-12-21 12:04:25.231949-47.190.78.200-e56
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:04:35,988 ERROR frappe New Exception collected with id: 2023-12-21 12:04:35.920250-47.190.78.200-9fe
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:06:05,436 ERROR frappe New Exception collected with id: 2023-12-21 12:06:05.433592-47.190.78.200-24c
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:08:29,001 ERROR frappe New Exception collected with id: 2023-12-21 12:08:28.995635-47.190.78.200-901
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:09:51,223 ERROR frappe New Exception collected with id: 2023-12-21 12:09:51.217869-47.190.78.200-ad2
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:09:58,486 ERROR frappe New Exception collected with id: 2023-12-21 12:09:58.479827-47.190.78.200-ae1
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice.insert_purchase_invoice_from_db'}
+2023-12-21 12:51:52,460 ERROR frappe New Exception collected with id: 2023-12-21 12:51:52.408174-47.190.78.200-112
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice_2.insert_purchase_invoice_from_db'}
+2023-12-21 12:58:22,171 ERROR frappe New Exception collected with id: 2023-12-21 12:58:22.080377-47.190.78.200-022
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice_2.insert_purchase_invoice_from_db'}
+2023-12-21 13:01:34,772 ERROR frappe New Exception collected with id: 2023-12-21 13:01:34.704044-47.190.78.200-0be
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice_2.insert_purchase_invoice_from_db'}
+2023-12-21 14:30:39,711 ERROR frappe New Exception collected with id: 2023-12-21 14:30:39.707137-47.190.78.200-85b
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice_2.insert_purchase_invoice_from_db'}
+2023-12-21 14:57:27,646 ERROR frappe New Exception collected with id: 2023-12-21 14:57:27.641779-47.190.78.200-fa7
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.purchase_invoice_2.insert_purchase_invoice_from_db'}
+2023-12-26 18:48:32,731 ERROR frappe New Exception collected with id: 2023-12-26 18:48:32.646393-47.190.78.200-2eb
+Site: erpenzemic.mol-tech.com
+Form Dict: {'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 11:41:47,655 ERROR frappe New Exception collected with id: 2023-12-27 11:41:47.573783-47.190.78.200-cbb
+Site: erpenzemic.mol-tech.com
+Form Dict: {'hello': 'world', 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 11:41:50,462 ERROR frappe New Exception collected with id: 2023-12-27 11:41:50.459758-47.190.78.200-742
+Site: erpenzemic.mol-tech.com
+Form Dict: {'hello': 'world', 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}

@@ -1,24 +1,240 @@
-2023-07-21 14:48:19,942 ERROR frappe New Exception collected with id: 2023-07-21 14:48:19.878020-45.23.177.17-139
+2023-10-13 05:18:23,122 ERROR frappe New Exception collected with id: 2023-10-13 05:18:23.008724-180.211.113.238-532
 Site: erp.aurumwholesale.com
-Form Dict: {'user': 'Administrator'}
-2023-07-21 14:48:31,770 ERROR frappe New Exception collected with id: 2023-07-21 14:48:31.692319-45.23.177.17-6ba
+Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Monthly","budget_against":"Cost Center","show_cumulative":0,"company":"Aurum Wholesale Trial1"}', 'ignore_prepared_report': '1', 'cmd': 'frappe.desk.query_report.run'}
+2023-10-20 07:03:28,757 ERROR frappe New Exception collected with id: 2023-10-20 07:03:28.664475-171.78.196.25-f41
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Website Theme', 'fields': '["`tabWebsite Theme`.`name`","`tabWebsite Theme`.`owner`","`tabWebsite Theme`.`creation`","`tabWebsite Theme`.`modified`","`tabWebsite Theme`.`modified_by`","`tabWebsite Theme`.`_user_tags`","`tabWebsite Theme`.`_comments`","`tabWebsite Theme`.`_assign`","`tabWebsite Theme`.`_liked_by`","`tabWebsite Theme`.`docstatus`","`tabWebsite Theme`.`idx`","`tabWebsite Theme`.`theme`","`tabWebsite Theme`.`module`"]', 'filters': '[]', 'order_by': '`tabWebsite Theme`.`modified` DESC', 'start': '0', 'page_length': '20', 'view': 'List', 'group_by': '`tabWebsite Theme`.`name`', 'with_comment_count': 'true'}
-2023-08-24 13:21:37,700 ERROR frappe New Exception collected with id: 2023-08-24 13:21:37.580264-47.190.78.200-9e5
+Form Dict: {'recipients': 'guruji@mol-tech.com, ', 'subject': 'Purchase Order: PUR-ORD-2023-00008', 'content': '<div class="ql-editor read-mode"><p>hello</p></div>', 'doctype': 'Purchase Order', 'name': 'PUR-ORD-2023-00008', 'send_email': '1', 'print_html': '', 'send_me_a_copy': '1', 'print_format': 'Standard', 'attachments': '[]', '_lang': 'en-US', 'read_receipt': '1', 'print_letterhead': '1', 'cmd': 'frappe.core.doctype.communication.email.make'}
+2023-10-31 01:44:50,495 ERROR frappe New Exception collected with id: 2023-10-31 01:44:50.361539-180.211.113.238-05d
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Account', 'parent': 'Accounts', 'is_root': 'true', 'cmd': 'erpnext.accounts.utils.get_children'}
-2023-08-24 13:21:50,991 ERROR frappe New Exception collected with id: 2023-08-24 13:21:50.873802-47.190.78.200-846
+Form Dict: {'from_date': '2023-09-30', 'to_date': '2023-10-31', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-10-31 02:23:58,302 ERROR frappe New Exception collected with id: 2023-10-31 02:23:58.174930-180.211.113.238-43a
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Account', 'parent': 'Accounts', 'is_root': 'true', 'cmd': 'erpnext.accounts.utils.get_children'}
-2023-08-24 13:22:22,667 ERROR frappe New Exception collected with id: 2023-08-24 13:22:22.663801-47.190.78.200-28e
+Form Dict: {'from_date': '2023-09-30', 'to_date': '2023-10-31', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-10-31 02:29:31,294 ERROR frappe New Exception collected with id: 2023-10-31 02:29:31.166431-180.211.113.238-530
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Account', 'parent': 'Accounts', 'is_root': 'true', 'cmd': 'erpnext.accounts.utils.get_children'}
-2023-08-24 13:22:34,579 ERROR frappe New Exception collected with id: 2023-08-24 13:22:34.576041-47.190.78.200-467
+Form Dict: {'from_date': '2023-09-30', 'to_date': '2023-10-31', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-10-31 02:30:28,479 ERROR frappe New Exception collected with id: 2023-10-31 02:30:28.340296-180.211.113.238-68c
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Account', 'parent': 'Accounts', 'is_root': 'true', 'cmd': 'erpnext.accounts.utils.get_children'}
-2023-08-24 13:22:54,339 ERROR frappe New Exception collected with id: 2023-08-24 13:22:54.233262-47.190.78.200-3f7
+Form Dict: {'from_date': '2023-09-30', 'to_date': '2023-10-31', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-10-31 04:21:33,881 ERROR frappe New Exception collected with id: 2023-10-31 04:21:33.740490-180.211.113.238-343
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Account', 'parent': 'Accounts', 'is_root': 'true', 'cmd': 'erpnext.accounts.utils.get_children'}
-2023-08-24 13:25:48,597 ERROR frappe New Exception collected with id: 2023-08-24 13:25:48.593662-47.190.78.200-cc6
+Form Dict: {'from_date': '2023-09-30', 'to_date': '2023-10-31', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-10-31 05:25:55,819 ERROR frappe New Exception collected with id: 2023-10-31 05:25:55.803022-180.211.113.238-3b8
 Site: erp.aurumwholesale.com
-Form Dict: {'doctype': 'Account', 'parent': 'Accounts', 'is_root': 'true', 'cmd': 'erpnext.accounts.utils.get_children'}
+Form Dict: {'docname': 'ACC-PRQ-2023-00001', 'cmd': 'erpnext.accounts.doctype.payment_request.payment_request.resend_payment_email', 'doctype': 'Sales Invoice', 'name': 'ACC-SINV-2023-00024', 'format': None, 'style': None, 'doc': None, 'no_letterhead': False, 'letterhead': None}
+2023-10-31 05:26:09,656 ERROR frappe New Exception collected with id: 2023-10-31 05:26:09.517497-180.211.113.238-0e6
+Site: erp.aurumwholesale.com
+Form Dict: {'docname': 'ACC-PRQ-2023-00001', 'cmd': 'erpnext.accounts.doctype.payment_request.payment_request.resend_payment_email', 'doctype': 'Sales Invoice', 'name': 'ACC-SINV-2023-00024', 'format': None, 'style': None, 'doc': None, 'no_letterhead': False, 'letterhead': None}
+2023-10-31 05:45:10,614 ERROR frappe New Exception collected with id: 2023-10-31 05:45:10.475772-180.211.113.238-5c0
+Site: erp.aurumwholesale.com
+Form Dict: {'docs': '{"name":"Bank Clearance","owner":"Administrator","modified":"2023-10-01 01:53:43.660688","modified_by":"Administrator","docstatus":0,"idx":"0","include_reconciled_entries":1,"include_pos_transactions":0,"doctype":"Bank Clearance","payment_entries":[{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-24","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":1},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-25","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":2},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-26","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":3},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-27","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":4},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-28","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":5},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-29","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":6},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-30","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":7},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-31","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":8},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-32","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":9},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-33","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":10},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-34","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":11},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-35","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":12},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-36","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":13},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-37","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":14},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-38","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":15},{"docstatus":0,"doctype":"Bank Clearance Detail","name":"new-bank-clearance-detail-39","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"Bank Clearance","parentfield":"payment_entries","parenttype":"Bank Clearance","idx":16}],"account":"HSBC - AWT","from_date":"2023-10-01","to_date":"2023-10-31","__unsaved":1,"account_currency":"USD"}', 'method': 'update_clearance_date', 'cmd': 'run_doc_method'}
+2023-10-31 06:19:53,761 ERROR frappe New Exception collected with id: 2023-10-31 06:19:53.749801-180.211.113.238-9ed
+Site: erp.aurumwholesale.com
+Form Dict: {'recipients': 'pankaj.r@mol-tech.com, ', 'subject': 'Contact: Guru DArj', 'content': '<div class="ql-editor read-mode"><p>Test EMAIL</p></div>', 'doctype': 'Contact', 'name': 'Guru DArj', 'send_email': '1', 'print_html': '', 'send_me_a_copy': '1', 'print_format': 'Standard', 'attachments': '[]', '_lang': 'en-US', 'read_receipt': '0', 'print_letterhead': '1', 'cmd': 'frappe.core.doctype.communication.email.make'}
+2023-10-31 06:21:24,347 ERROR frappe New Exception collected with id: 2023-10-31 06:21:24.224991-180.211.113.238-c05
+Site: erp.aurumwholesale.com
+Form Dict: {'recipients': 'pankaj.r@mol-tech.com, ', 'subject': 'Sales Invoice: ACC-SINV-2023-00023', 'content': '<div class="ql-editor read-mode"><p>Test Email</p></div>', 'doctype': 'Sales Invoice', 'name': 'ACC-SINV-2023-00023', 'send_email': '1', 'print_html': '', 'send_me_a_copy': '1', 'print_format': 'Standard', 'attachments': '[]', '_lang': 'en-US', 'read_receipt': '0', 'print_letterhead': '1', 'cmd': 'frappe.core.doctype.communication.email.make'}
+2023-11-09 04:52:46,684 ERROR frappe New Exception collected with id: 2023-11-09 04:52:46.571062-180.211.113.238-f91
+Site: erp.aurumwholesale.com
+Form Dict: {'from_date': '2023-10-09', 'to_date': '2023-11-09', 'filter_by_reference_date': '0', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-11-09 05:58:56,015 ERROR frappe New Exception collected with id: 2023-11-09 05:58:55.895721-180.211.113.238-58a
+Site: erp.aurumwholesale.com
+Form Dict: {'docs': '{"docstatus":0,"doctype":"Holiday List","name":"new-holiday-list-1","__islocal":1,"__unsaved":1,"owner":"Administrator","weekly_off":""}', 'method': 'get_supported_countries', 'cmd': 'run_doc_method'}
+2023-11-09 23:49:09,015 ERROR frappe New Exception collected with id: 2023-11-09 23:49:08.927284-180.211.113.238-089
+Site: erp.aurumwholesale.com
+Form Dict: {'bank_account': 'American Bank - American Bank', 'from_date': '', 'to_date': '', 'filter_by_reference_date': '1', 'from_reference_date': '2023-10-01', 'to_reference_date': '2023-11-10', 'cmd': 'erpnext.accounts.doctype.bank_reconciliation_tool.bank_reconciliation_tool.auto_reconcile_vouchers'}
+2023-11-10 00:19:34,266 ERROR frappe Could not take error snapshot: characters_written
+Site: erp.aurumwholesale.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Email Account","name":"new-email-account-1","__islocal":1,"__unsaved":1,"owner":"Administrator","service":"","auth_method":"Basic","awaiting_password":0,"ascii_encode_password":0,"login_id_is_different":0,"enable_incoming":1,"default_incoming":1,"use_imap":1,"use_ssl":0,"use_starttls":0,"email_sync_option":"UNSEEN","initial_sync_count":"250","append_emails_to_sent_folder":0,"create_contact":1,"enable_automatic_linking":1,"notify_if_unreplied":0,"unreplied_for_mins":30,"enable_outgoing":1,"use_tls":0,"use_ssl_for_outgoing":0,"default_outgoing":1,"always_use_account_email_id_as_sender":1,"always_use_account_name_as_sender_name":1,"send_unsubscribe_message":1,"track_email_status":1,"no_smtp_authentication":0,"add_signature":0,"enable_auto_reply":0,"imap_folder":[{"docstatus":0,"doctype":"IMAP Folder","name":"new-imap-folder-1","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-email-account-1","parentfield":"imap_folder","parenttype":"Email Account","idx":1,"folder_name":"INBOX","append_to":"Opportunity"}],"attachment_limit":0,"email_id":"accounting@aurumpharmatech.com","email_account_name":"Moltech","email_server":"imap.example.com","smtp_server":"smtp.example.com","domain":"example.com","idx":0,"uidnext":0,"no_failed":0,"password":"SwamiMol#!21","smtp_port":null,"incoming_port":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/app.py", line 94, in application
+    response = frappe.api.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/api.py", line 54, in handle
+    return frappe.handler.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 47, in handle
+    data = execute_cmd(cmd)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 85, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/__init__.py", line 1610, in call
+    return fn(*args, **newargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 28, in savedocs
+    doc.save()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 305, in save
+    return self._save(*args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 327, in _save
+    return self.insert()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 259, in insert
+    self.run_before_save_methods()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1045, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 914, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1264, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1246, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 911, in fn
+    return method_object(*args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 95, in validate
+    self.get_incoming_server()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 207, in get_incoming_server
+    self.check_email_server_connection(email_server, in_receive)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 220, in check_email_server_connection
+    email_server.connect()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 87, in connect
+    return self.connect_imap()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 99, in connect_imap
+    self.imap = Timed_IMAP4(
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 982, in __init__
+    self._super.__init__(self, *args, **kwargs)
+  File "/usr/lib/python3.10/imaplib.py", line 202, in __init__
+    self.open(host, port, timeout)
+  File "/usr/lib/python3.10/imaplib.py", line 312, in open
+    self.sock = self._create_socket(timeout)
+  File "/usr/lib/python3.10/imaplib.py", line 302, in _create_socket
+    return socket.create_connection(address)
+  File "/usr/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 60, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 155, in get_snapshot
+    value = pydoc.text.repr(getattr(evalue, name))
+AttributeError: characters_written
+2023-11-10 00:30:12,407 ERROR frappe Could not take error snapshot: characters_written
+Site: erp.aurumwholesale.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Email Account","name":"new-email-account-1","__islocal":1,"__unsaved":1,"owner":"Administrator","service":"","auth_method":"Basic","awaiting_password":0,"ascii_encode_password":0,"login_id_is_different":0,"enable_incoming":1,"default_incoming":1,"use_imap":1,"use_ssl":0,"use_starttls":0,"email_sync_option":"UNSEEN","initial_sync_count":"250","append_emails_to_sent_folder":0,"create_contact":1,"enable_automatic_linking":0,"notify_if_unreplied":0,"unreplied_for_mins":30,"enable_outgoing":1,"use_tls":0,"use_ssl_for_outgoing":0,"default_outgoing":1,"always_use_account_email_id_as_sender":1,"always_use_account_name_as_sender_name":1,"send_unsubscribe_message":1,"track_email_status":1,"no_smtp_authentication":0,"add_signature":0,"enable_auto_reply":0,"imap_folder":[{"docstatus":0,"doctype":"IMAP Folder","name":"new-imap-folder-1","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-email-account-1","parentfield":"imap_folder","parenttype":"Email Account","idx":1,"folder_name":"INBOX"}],"attachment_limit":0,"email_id":"accounting@aurumpharmatech.com","email_account_name":"Moltech Solution","email_server":"imap.example.com","smtp_server":"smtp.example.com","domain":"example.com","idx":0,"uidnext":0,"no_failed":0,"smtp_port":null,"incoming_port":null,"password":"SwamiMol#!21"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/app.py", line 94, in application
+    response = frappe.api.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/api.py", line 54, in handle
+    return frappe.handler.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 47, in handle
+    data = execute_cmd(cmd)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 85, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/__init__.py", line 1610, in call
+    return fn(*args, **newargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 28, in savedocs
+    doc.save()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 305, in save
+    return self._save(*args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 327, in _save
+    return self.insert()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 259, in insert
+    self.run_before_save_methods()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1045, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 914, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1264, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1246, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 911, in fn
+    return method_object(*args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 95, in validate
+    self.get_incoming_server()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 207, in get_incoming_server
+    self.check_email_server_connection(email_server, in_receive)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 220, in check_email_server_connection
+    email_server.connect()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 87, in connect
+    return self.connect_imap()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 99, in connect_imap
+    self.imap = Timed_IMAP4(
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 982, in __init__
+    self._super.__init__(self, *args, **kwargs)
+  File "/usr/lib/python3.10/imaplib.py", line 202, in __init__
+    self.open(host, port, timeout)
+  File "/usr/lib/python3.10/imaplib.py", line 312, in open
+    self.sock = self._create_socket(timeout)
+  File "/usr/lib/python3.10/imaplib.py", line 302, in _create_socket
+    return socket.create_connection(address)
+  File "/usr/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 60, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 155, in get_snapshot
+    value = pydoc.text.repr(getattr(evalue, name))
+AttributeError: characters_written
+2023-11-10 00:30:56,806 ERROR frappe Could not take error snapshot: characters_written
+Site: erp.aurumwholesale.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Email Account","name":"new-email-account-1","__islocal":1,"__unsaved":1,"owner":"Administrator","service":"","auth_method":"Basic","awaiting_password":0,"ascii_encode_password":0,"login_id_is_different":0,"enable_incoming":1,"default_incoming":1,"use_imap":1,"use_ssl":0,"use_starttls":0,"email_sync_option":"UNSEEN","initial_sync_count":"250","append_emails_to_sent_folder":0,"create_contact":1,"enable_automatic_linking":0,"notify_if_unreplied":0,"unreplied_for_mins":30,"enable_outgoing":1,"use_tls":0,"use_ssl_for_outgoing":0,"default_outgoing":1,"always_use_account_email_id_as_sender":1,"always_use_account_name_as_sender_name":1,"send_unsubscribe_message":1,"track_email_status":1,"no_smtp_authentication":0,"add_signature":0,"enable_auto_reply":0,"imap_folder":[{"docstatus":0,"doctype":"IMAP Folder","name":"new-imap-folder-1","__islocal":1,"__unsaved":1,"owner":"Administrator","parent":"new-email-account-1","parentfield":"imap_folder","parenttype":"Email Account","idx":1,"folder_name":"INBOX"}],"attachment_limit":0,"email_id":"ap@echamportal.net","email_account_name":"Moltech Solution","email_server":"imap.example.com","smtp_server":"smtp.example.com","domain":"example.com","idx":0,"uidnext":0,"no_failed":0,"password":"BadCorona@2020","smtp_port":null,"incoming_port":null}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/app.py", line 94, in application
+    response = frappe.api.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/api.py", line 54, in handle
+    return frappe.handler.handle()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 47, in handle
+    data = execute_cmd(cmd)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/handler.py", line 85, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/__init__.py", line 1610, in call
+    return fn(*args, **newargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 28, in savedocs
+    doc.save()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 305, in save
+    return self._save(*args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 327, in _save
+    return self.insert()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 259, in insert
+    self.run_before_save_methods()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1045, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 914, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1264, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 1246, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/model/document.py", line 911, in fn
+    return method_object(*args, **kwargs)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 95, in validate
+    self.get_incoming_server()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 207, in get_incoming_server
+    self.check_email_server_connection(email_server, in_receive)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/doctype/email_account/email_account.py", line 220, in check_email_server_connection
+    email_server.connect()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 87, in connect
+    return self.connect_imap()
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 99, in connect_imap
+    self.imap = Timed_IMAP4(
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/email/receive.py", line 982, in __init__
+    self._super.__init__(self, *args, **kwargs)
+  File "/usr/lib/python3.10/imaplib.py", line 202, in __init__
+    self.open(host, port, timeout)
+  File "/usr/lib/python3.10/imaplib.py", line 312, in open
+    self.sock = self._create_socket(timeout)
+  File "/usr/lib/python3.10/imaplib.py", line 302, in _create_socket
+    return socket.create_connection(address)
+  File "/usr/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 60, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/admin123/frappe-bench/apps/frappe/frappe/utils/error.py", line 155, in get_snapshot
+    value = pydoc.text.repr(getattr(evalue, name))
+AttributeError: characters_written
+2023-11-27 15:26:35,343 ERROR frappe New Exception collected with id: 2023-11-27 15:26:35.249506-47.190.78.200-2f0
+Site: erp.aurumwholesale.com
+Form Dict: {'cmd': 'erpnext.sales_invoice.create_sales_invoice'}

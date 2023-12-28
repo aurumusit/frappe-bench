@@ -1,0 +1,52 @@
+Date,Deposit,Withdrawal,Description,Reference Number,Bank Account,Currency
+,0,0,,,,USD
+12-10-2023,0,1500,,ACC-JV-2023-00001-1,John - AWT,USD
+12-10-2023,0,1000,,ACC-JV-2023-00002-1,Marry - AWT,USD
+12-10-2023,500,0,,ACC-JV-2023-00003-1,5209 - Office Rent - AWT,USD
+12-10-2023,954,0,"Amount USD 954 to BLD Pharmatech Co Ltd
+Transaction reference no 201222 dated 2023-10-12
+Amount USD 954 against Purchase Invoice ACC-PINV-2023-00002",ACC-PAY-2023-00003,BLD Pharmatech Co Ltd,USD
+12-10-2023,954,0,"Amount USD 954 to BLD Pharmatech Co Ltd
+Transaction reference no 125200 dated 2023-10-12
+Amount USD 954 against Purchase Invoice ACC-PINV-2023-00003",ACC-PAY-2023-00004,BLD Pharmatech Co Ltd,USD
+12-10-2023,169.6,0,"Amount USD 169.6 to Acrotein Chem bio inc
+Transaction reference no 65589 dated 2023-10-12
+Amount USD 169.6 against Purchase Invoice ACC-PINV-2023-00001",ACC-PAY-2023-00005,Acrotein Chem bio inc,USD
+13-10-2023,0,900,"Amount USD 900 received from Gilead Sciences, Inc.
+Transaction reference no 145230 dated 2023-10-13
+Amount USD 900 against Sales Invoice ACC-SINV-2023-00001",ACC-PAY-2023-00006,"Gilead Sciences, Inc.",USD
+13-10-2023,181.26,0,"Amount USD 181.26 to OTAVA LTD.
+Transaction reference no 1250 dated 2023-10-13
+Amount USD 181.26 against Purchase Invoice ACC-PINV-2023-00004",ACC-PAY-2023-00007,OTAVA LTD.,USD
+13-10-2023,2250,0,"Amount USD 2250 to Apollo Scientific Limited
+Transaction reference no 25012 dated 2023-10-13
+Amount USD 2250 against Purchase Invoice ACC-PINV-2023-00005",ACC-PAY-2023-00008,Apollo Scientific Limited,USD
+13-10-2023,0,2100,"Amount USD 2100 received from GlaxoSmithKline LLC
+Transaction reference no 12365 dated 2023-10-13
+Amount USD 1800 against Sales Order SAL-ORD-2023-00002",ACC-PAY-2023-00009,GlaxoSmithKline LLC,USD
+13-10-2023,200,0,,ACC-JV-2023-00004,5208 - Office Maintenance Expenses - AWT,USD
+13-10-2023,300,0,"Amount USD 300 to Enamine LLC
+Transaction reference no PMT - IMPS 023012 dated 2023-10-13
+Amount USD 300 against Purchase Invoice ACC-PINV-2023-00006",ACC-PAY-2023-00010,Enamine LLC,USD
+17-10-2023,0,339.2,"Amount USD 339.2 received from Cayman Chemical Company
+Transaction reference no 221122 dated 2023-10-17
+Amount USD 339.2 against Sales Invoice ACC-SINV-2023-00004",ACC-PAY-2023-00011,Cayman Chemical Company,USD
+27-10-2023,3078,0,"Amount USD 3078 to Biogene Organics, Inc
+Transaction reference no 1254 dated 2023-10-27
+Amount USD 3078 against Purchase Invoice ACC-PINV-2023-00008",ACC-PAY-2023-00018,"Biogene Organics, Inc",USD
+27-10-2023,0,3508,"Amount USD 3508 received from Arcus Biosciences, Inc.
+Transaction reference no 1245 dated 2023-10-27
+Amount USD 3508 against Sales Invoice ACC-SINV-2023-00013",ACC-PAY-2023-00020,"Arcus Biosciences, Inc.",USD
+27-10-2023,0,50,"Amount USD 50 received from Arcus Biosciences, Inc.
+Transaction reference no 1452 dated 2023-10-27",ACC-PAY-2023-00021,"Arcus Biosciences, Inc.",USD
+30-10-2023,5720,0,"Amount USD 5720 to Accela ChemBio Inc.
+Transaction reference no 123456 dated 2023-10-30
+Amount USD 5720 against Purchase Invoice ACC-PINV-RET-2023-00001",ACC-PAY-2023-00022,Accela ChemBio Inc.,USD
+30-10-2023,0,6741,"Amount USD 6741 received from Concept Life Sciences
+Transaction reference no 2145 dated 2023-10-30
+Amount USD 6741 against Sales Invoice ACC-SINV-2023-00017",ACC-PAY-2023-00023,Concept Life Sciences,USD
+30-10-2023,0,900,"Amount USD 900 received from Concept Life Sciences
+Transaction reference no 4596 dated 2023-10-30
+Amount USD 900 against Sales Invoice ACC-SINV-2023-00019",ACC-PAY-2023-00024,Concept Life Sciences,USD
+,14306.86,17038.2,,,,
+,14306.86,17038.2,,,,

@@ -1,10 +1,1199 @@
-2023-07-25 14:16:02,315 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 14:43:02,516 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 15:10:02,713 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 15:37:02,934 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 16:04:03,210 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 16:31:03,415 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 16:58:03,636 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 17:25:03,838 Cleaning registries for queue: home-admin123-frappe-bench:short
-2023-07-25 17:27:58,969 Warm shut down requested
-2023-07-25 17:27:58,970 Unsubscribing from channel rq:pubsub:553f2e0d5a64429e880f5a2e44a33ea3.ubuntupc.1471.home-admin123-frappe-bench:short
+2023-11-07 04:10:18,911 home-admin123-frappe-bench:short: Job OK (0a3f50d4-71b3-4300-91f5-b8e9550b25c0)
+2023-11-07 04:10:18,911 Result is kept for 600 seconds
+2023-11-07 04:17:04,008 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 04:20:28,373 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (fe4bade9-b374-497c-a9db-81c80c4fbaef)
+2023-11-07 04:20:28,798 home-admin123-frappe-bench:short: Job OK (fe4bade9-b374-497c-a9db-81c80c4fbaef)
+2023-11-07 04:20:28,798 Result is kept for 600 seconds
+2023-11-07 04:30:35,519 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (db0f605a-0708-4f9e-9588-97de68ee182d)
+2023-11-07 04:30:35,997 home-admin123-frappe-bench:short: Job OK (db0f605a-0708-4f9e-9588-97de68ee182d)
+2023-11-07 04:30:35,997 Result is kept for 600 seconds
+2023-11-07 04:37:21,033 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 04:40:44,197 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ec25f81c-0cd4-4584-bf0c-b6e2119140d4)
+2023-11-07 04:40:44,660 home-admin123-frappe-bench:short: Job OK (ec25f81c-0cd4-4584-bf0c-b6e2119140d4)
+2023-11-07 04:40:44,660 Result is kept for 600 seconds
+2023-11-07 04:50:49,492 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2daab807-75dc-4a6a-a3ad-71c50b9c5d0a)
+2023-11-07 04:50:49,930 home-admin123-frappe-bench:short: Job OK (2daab807-75dc-4a6a-a3ad-71c50b9c5d0a)
+2023-11-07 04:50:49,930 Result is kept for 600 seconds
+2023-11-07 04:57:34,987 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 05:01:06,788 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ff93e176-f4a6-479f-b4b2-b0b44aab55ac)
+2023-11-07 05:01:07,240 home-admin123-frappe-bench:short: Job OK (ff93e176-f4a6-479f-b4b2-b0b44aab55ac)
+2023-11-07 05:01:07,240 Result is kept for 600 seconds
+2023-11-07 05:10:04,469 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9b192a08-f4f2-473b-9a62-397e0cddd251)
+2023-11-07 05:10:04,925 home-admin123-frappe-bench:short: Job OK (9b192a08-f4f2-473b-9a62-397e0cddd251)
+2023-11-07 05:10:04,925 Result is kept for 600 seconds
+2023-11-07 05:20:14,787 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a7ccfea6-a993-4c83-9e5a-2144a9f60f9e)
+2023-11-07 05:20:15,259 home-admin123-frappe-bench:short: Job OK (a7ccfea6-a993-4c83-9e5a-2144a9f60f9e)
+2023-11-07 05:20:15,259 Result is kept for 600 seconds
+2023-11-07 05:20:15,267 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 05:30:21,724 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3b9907ec-bf4c-40f8-a309-60162a266b9f)
+2023-11-07 05:30:22,171 home-admin123-frappe-bench:short: Job OK (3b9907ec-bf4c-40f8-a309-60162a266b9f)
+2023-11-07 05:30:22,171 Result is kept for 600 seconds
+2023-11-07 05:40:30,228 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5bb0baf7-c7ee-4405-8a0a-1073f2572af5)
+2023-11-07 05:40:30,720 home-admin123-frappe-bench:short: Job OK (5bb0baf7-c7ee-4405-8a0a-1073f2572af5)
+2023-11-07 05:40:30,720 Result is kept for 600 seconds
+2023-11-07 05:40:30,726 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 05:50:35,590 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d0115e4f-0a4b-43c4-a8af-4414245d2263)
+2023-11-07 05:50:36,260 home-admin123-frappe-bench:short: Job OK (d0115e4f-0a4b-43c4-a8af-4414245d2263)
+2023-11-07 05:50:36,260 Result is kept for 600 seconds
+2023-11-07 06:00:53,374 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d2808658-7343-493a-951f-e5424eccecfe)
+2023-11-07 06:00:53,815 home-admin123-frappe-bench:short: Job OK (d2808658-7343-493a-951f-e5424eccecfe)
+2023-11-07 06:00:53,815 Result is kept for 600 seconds
+2023-11-07 06:00:53,820 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 06:10:51,340 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1bf04e10-e242-43fd-a84f-d706220dcf8c)
+2023-11-07 06:10:51,821 home-admin123-frappe-bench:short: Job OK (1bf04e10-e242-43fd-a84f-d706220dcf8c)
+2023-11-07 06:10:51,821 Result is kept for 600 seconds
+2023-11-07 06:17:36,854 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 06:21:01,331 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d799ae9e-0139-481f-8821-84e1bb0dbaa0)
+2023-11-07 06:21:02,046 home-admin123-frappe-bench:short: Job OK (d799ae9e-0139-481f-8821-84e1bb0dbaa0)
+2023-11-07 06:21:02,046 Result is kept for 600 seconds
+2023-11-07 06:30:07,894 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (72d2d9c0-e6cc-40e5-9cf6-75ede22f04b8)
+2023-11-07 06:30:08,622 home-admin123-frappe-bench:short: Job OK (72d2d9c0-e6cc-40e5-9cf6-75ede22f04b8)
+2023-11-07 06:30:08,622 Result is kept for 600 seconds
+2023-11-07 06:40:16,361 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e1e40d2b-2bf2-414f-99c3-95b52dff4ed4)
+2023-11-07 06:40:16,817 home-admin123-frappe-bench:short: Job OK (e1e40d2b-2bf2-414f-99c3-95b52dff4ed4)
+2023-11-07 06:40:16,817 Result is kept for 600 seconds
+2023-11-07 06:40:16,824 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 06:50:21,780 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4e831846-c0e6-436f-9b31-707f5853ebb8)
+2023-11-07 06:50:22,261 home-admin123-frappe-bench:short: Job OK (4e831846-c0e6-436f-9b31-707f5853ebb8)
+2023-11-07 06:50:22,261 Result is kept for 600 seconds
+2023-11-07 07:00:39,353 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b89d7440-e814-45fa-bd87-9dec74397d96)
+2023-11-07 07:00:39,783 home-admin123-frappe-bench:short: Job OK (b89d7440-e814-45fa-bd87-9dec74397d96)
+2023-11-07 07:00:39,783 Result is kept for 600 seconds
+2023-11-07 07:00:39,790 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 07:10:36,843 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9864397c-2616-42ca-8233-ac4aab6ce8d8)
+2023-11-07 07:10:37,570 home-admin123-frappe-bench:short: Job OK (9864397c-2616-42ca-8233-ac4aab6ce8d8)
+2023-11-07 07:10:37,570 Result is kept for 600 seconds
+2023-11-07 07:17:22,665 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 07:20:47,514 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (72da886b-ce2d-4fd8-a081-c91b52f6176d)
+2023-11-07 07:20:47,957 home-admin123-frappe-bench:short: Job OK (72da886b-ce2d-4fd8-a081-c91b52f6176d)
+2023-11-07 07:20:47,957 Result is kept for 600 seconds
+2023-11-07 07:30:53,809 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f17099ad-aa90-4f71-ab9c-d9e0ea12a01e)
+2023-11-07 07:30:54,457 home-admin123-frappe-bench:short: Job OK (f17099ad-aa90-4f71-ab9c-d9e0ea12a01e)
+2023-11-07 07:30:54,457 Result is kept for 600 seconds
+2023-11-07 07:37:39,530 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 07:41:02,842 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a6615bf2-64aa-4f33-b261-9cb44ccb39e8)
+2023-11-07 07:41:03,313 home-admin123-frappe-bench:short: Job OK (a6615bf2-64aa-4f33-b261-9cb44ccb39e8)
+2023-11-07 07:41:03,313 Result is kept for 600 seconds
+2023-11-07 07:50:06,713 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4b19f1b1-5f0e-40e7-80d4-3bf2a75c0599)
+2023-11-07 07:50:07,187 home-admin123-frappe-bench:short: Job OK (4b19f1b1-5f0e-40e7-80d4-3bf2a75c0599)
+2023-11-07 07:50:07,187 Result is kept for 600 seconds
+2023-11-07 08:00:23,519 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (eebc35fb-485e-4051-834b-2bda2732544d)
+2023-11-07 08:00:23,960 home-admin123-frappe-bench:short: Job OK (eebc35fb-485e-4051-834b-2bda2732544d)
+2023-11-07 08:00:23,961 Result is kept for 600 seconds
+2023-11-07 08:00:23,967 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 08:10:22,383 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5316ef85-ca1c-4d98-9c57-550a5f157d14)
+2023-11-07 08:10:23,088 home-admin123-frappe-bench:short: Job OK (5316ef85-ca1c-4d98-9c57-550a5f157d14)
+2023-11-07 08:10:23,088 Result is kept for 600 seconds
+2023-11-07 08:17:08,160 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 08:20:32,370 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d1ed61f3-b1a1-4490-9d8a-d8214e2b47de)
+2023-11-07 08:20:32,849 home-admin123-frappe-bench:short: Job OK (d1ed61f3-b1a1-4490-9d8a-d8214e2b47de)
+2023-11-07 08:20:32,849 Result is kept for 600 seconds
+2023-11-07 08:30:39,603 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b409ee03-4e7e-4a74-933b-a3eaa60cc517)
+2023-11-07 08:30:40,053 home-admin123-frappe-bench:short: Job OK (b409ee03-4e7e-4a74-933b-a3eaa60cc517)
+2023-11-07 08:30:40,053 Result is kept for 600 seconds
+2023-11-07 08:37:25,069 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 08:40:47,869 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6b5ae29a-f5f2-4ebe-82ad-dd020807be9b)
+2023-11-07 08:40:48,297 home-admin123-frappe-bench:short: Job OK (6b5ae29a-f5f2-4ebe-82ad-dd020807be9b)
+2023-11-07 08:40:48,297 Result is kept for 600 seconds
+2023-11-07 08:50:52,968 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9b6b86ab-5e95-4801-830e-8871a25c5edd)
+2023-11-07 08:50:53,372 home-admin123-frappe-bench:short: Job OK (9b6b86ab-5e95-4801-830e-8871a25c5edd)
+2023-11-07 08:50:53,372 Result is kept for 600 seconds
+2023-11-07 08:57:38,405 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 09:01:09,744 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1a807934-7cef-40c5-be55-6fd469b3fe5c)
+2023-11-07 09:01:10,204 home-admin123-frappe-bench:short: Job OK (1a807934-7cef-40c5-be55-6fd469b3fe5c)
+2023-11-07 09:01:10,204 Result is kept for 600 seconds
+2023-11-07 09:10:07,756 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (25a30070-f657-406d-80b0-ed566e5ce050)
+2023-11-07 09:10:08,316 home-admin123-frappe-bench:short: Job OK (25a30070-f657-406d-80b0-ed566e5ce050)
+2023-11-07 09:10:08,316 Result is kept for 600 seconds
+2023-11-07 09:20:18,527 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e1446dfe-6a83-4962-8c4e-82b8af498cda)
+2023-11-07 09:20:19,165 home-admin123-frappe-bench:short: Job OK (e1446dfe-6a83-4962-8c4e-82b8af498cda)
+2023-11-07 09:20:19,165 Result is kept for 600 seconds
+2023-11-07 09:20:19,172 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 09:30:24,778 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (856a143d-9ca2-4538-b1ac-ac8f675111c7)
+2023-11-07 09:30:25,238 home-admin123-frappe-bench:short: Job OK (856a143d-9ca2-4538-b1ac-ac8f675111c7)
+2023-11-07 09:30:25,238 Result is kept for 600 seconds
+2023-11-07 09:40:33,204 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (01364f2f-a3c9-4d91-b5c9-0312e1748e4a)
+2023-11-07 09:40:33,665 home-admin123-frappe-bench:short: Job OK (01364f2f-a3c9-4d91-b5c9-0312e1748e4a)
+2023-11-07 09:40:33,665 Result is kept for 600 seconds
+2023-11-07 09:40:33,672 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 09:50:38,224 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (866cd55d-1f96-4c4e-b99c-04623d88ab90)
+2023-11-07 09:50:38,672 home-admin123-frappe-bench:short: Job OK (866cd55d-1f96-4c4e-b99c-04623d88ab90)
+2023-11-07 09:50:38,672 Result is kept for 600 seconds
+2023-11-07 10:00:55,573 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6cbc51b2-7923-4b32-9f51-b3c0c376a8c4)
+2023-11-07 10:00:55,999 home-admin123-frappe-bench:short: Job OK (6cbc51b2-7923-4b32-9f51-b3c0c376a8c4)
+2023-11-07 10:00:55,999 Result is kept for 600 seconds
+2023-11-07 10:00:56,005 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 10:10:53,548 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5f219830-3407-42c2-948b-47bdad970b3c)
+2023-11-07 10:10:53,984 home-admin123-frappe-bench:short: Job OK (5f219830-3407-42c2-948b-47bdad970b3c)
+2023-11-07 10:10:53,984 Result is kept for 600 seconds
+2023-11-07 10:17:39,004 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 10:21:03,514 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a192f680-f804-47dd-ad56-62b13c1f8619)
+2023-11-07 10:21:04,236 home-admin123-frappe-bench:short: Job OK (a192f680-f804-47dd-ad56-62b13c1f8619)
+2023-11-07 10:21:04,236 Result is kept for 600 seconds
+2023-11-07 10:30:09,842 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (49e93458-2736-45cf-8254-8e83d5c70ef0)
+2023-11-07 10:30:10,308 home-admin123-frappe-bench:short: Job OK (49e93458-2736-45cf-8254-8e83d5c70ef0)
+2023-11-07 10:30:10,308 Result is kept for 600 seconds
+2023-11-07 10:40:18,189 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f9d92a50-e7a8-4767-90d0-57cec53c5c7b)
+2023-11-07 10:40:18,592 home-admin123-frappe-bench:short: Job OK (f9d92a50-e7a8-4767-90d0-57cec53c5c7b)
+2023-11-07 10:40:18,593 Result is kept for 600 seconds
+2023-11-07 10:40:18,599 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 10:50:23,402 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (934e72d2-e252-4456-94ca-83061301b891)
+2023-11-07 10:50:23,898 home-admin123-frappe-bench:short: Job OK (934e72d2-e252-4456-94ca-83061301b891)
+2023-11-07 10:50:23,898 Result is kept for 600 seconds
+2023-11-07 11:00:40,165 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (44589e5c-b6ef-4350-905f-809c10a21a31)
+2023-11-07 11:00:40,635 home-admin123-frappe-bench:short: Job OK (44589e5c-b6ef-4350-905f-809c10a21a31)
+2023-11-07 11:00:40,635 Result is kept for 600 seconds
+2023-11-07 11:00:40,641 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 11:10:38,564 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9fef76cb-862c-460a-9834-acc03f7964ba)
+2023-11-07 11:10:39,282 home-admin123-frappe-bench:short: Job OK (9fef76cb-862c-460a-9834-acc03f7964ba)
+2023-11-07 11:10:39,282 Result is kept for 600 seconds
+2023-11-07 11:17:24,348 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 11:20:48,670 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (7afb149c-70d7-4c94-8847-bc0dbd0e7df9)
+2023-11-07 11:20:49,331 home-admin123-frappe-bench:short: Job OK (7afb149c-70d7-4c94-8847-bc0dbd0e7df9)
+2023-11-07 11:20:49,331 Result is kept for 600 seconds
+2023-11-07 11:30:55,605 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4a47d13c-97ab-41dd-9dc8-b6b055547748)
+2023-11-07 11:30:56,316 home-admin123-frappe-bench:short: Job OK (4a47d13c-97ab-41dd-9dc8-b6b055547748)
+2023-11-07 11:30:56,317 Result is kept for 600 seconds
+2023-11-07 11:37:41,398 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 11:40:02,930 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (37fd6768-fcaf-4535-a848-936b82ce4ffd)
+2023-11-07 11:40:03,418 home-admin123-frappe-bench:short: Job OK (37fd6768-fcaf-4535-a848-936b82ce4ffd)
+2023-11-07 11:40:03,418 Result is kept for 600 seconds
+2023-11-07 11:50:08,554 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (fe14213f-c52d-497e-b810-6582cf83f1f0)
+2023-11-07 11:50:09,218 home-admin123-frappe-bench:short: Job OK (fe14213f-c52d-497e-b810-6582cf83f1f0)
+2023-11-07 11:50:09,218 Result is kept for 600 seconds
+2023-11-07 12:00:26,153 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f307506c-0b70-46dc-b02d-d480cad2ca0b)
+2023-11-07 12:00:26,627 home-admin123-frappe-bench:short: Job OK (f307506c-0b70-46dc-b02d-d480cad2ca0b)
+2023-11-07 12:00:26,627 Result is kept for 600 seconds
+2023-11-07 12:00:26,633 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 12:10:24,188 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (54721d98-0639-4a47-827c-cb7180866d87)
+2023-11-07 12:10:24,624 home-admin123-frappe-bench:short: Job OK (54721d98-0639-4a47-827c-cb7180866d87)
+2023-11-07 12:10:24,624 Result is kept for 600 seconds
+2023-11-07 12:17:09,693 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 12:20:34,862 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (49ea3aad-8eec-4ba2-8d84-3ab76ba719e3)
+2023-11-07 12:20:35,288 home-admin123-frappe-bench:short: Job OK (49ea3aad-8eec-4ba2-8d84-3ab76ba719e3)
+2023-11-07 12:20:35,288 Result is kept for 600 seconds
+2023-11-07 12:30:42,231 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (dd7acb64-9e99-4ffa-95b4-008162d221f1)
+2023-11-07 12:30:42,680 home-admin123-frappe-bench:short: Job OK (dd7acb64-9e99-4ffa-95b4-008162d221f1)
+2023-11-07 12:30:42,680 Result is kept for 600 seconds
+2023-11-07 12:37:27,737 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 12:40:50,209 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d5fdefaf-684e-45ad-aa08-9cd839300687)
+2023-11-07 12:40:50,688 home-admin123-frappe-bench:short: Job OK (d5fdefaf-684e-45ad-aa08-9cd839300687)
+2023-11-07 12:40:50,688 Result is kept for 600 seconds
+2023-11-07 12:50:55,239 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (32cfa773-f94d-4b78-b1f8-2f9930542c8c)
+2023-11-07 12:50:55,684 home-admin123-frappe-bench:short: Job OK (32cfa773-f94d-4b78-b1f8-2f9930542c8c)
+2023-11-07 12:50:55,685 Result is kept for 600 seconds
+2023-11-07 12:57:40,786 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 13:00:11,217 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (766be6e7-b43f-4971-8620-c33a03171fd7)
+2023-11-07 13:00:11,740 home-admin123-frappe-bench:short: Job OK (766be6e7-b43f-4971-8620-c33a03171fd7)
+2023-11-07 13:00:11,740 Result is kept for 600 seconds
+2023-11-07 13:10:10,095 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9af0104a-3691-41fb-b0f4-6d8c5e1de1fe)
+2023-11-07 13:10:10,801 home-admin123-frappe-bench:short: Job OK (9af0104a-3691-41fb-b0f4-6d8c5e1de1fe)
+2023-11-07 13:10:10,801 Result is kept for 600 seconds
+2023-11-07 13:20:20,281 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (edf99c45-3786-4c53-a760-e88fbc54217c)
+2023-11-07 13:20:20,716 home-admin123-frappe-bench:short: Job OK (edf99c45-3786-4c53-a760-e88fbc54217c)
+2023-11-07 13:20:20,716 Result is kept for 600 seconds
+2023-11-07 13:20:20,723 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 13:30:27,154 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2d5d2f6d-fbc7-4e08-92af-8d154eb230a1)
+2023-11-07 13:30:27,875 home-admin123-frappe-bench:short: Job OK (2d5d2f6d-fbc7-4e08-92af-8d154eb230a1)
+2023-11-07 13:30:27,875 Result is kept for 600 seconds
+2023-11-07 13:40:35,532 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f2ec8a82-e54b-4a93-8ecc-ababe3e9a802)
+2023-11-07 13:40:36,005 home-admin123-frappe-bench:short: Job OK (f2ec8a82-e54b-4a93-8ecc-ababe3e9a802)
+2023-11-07 13:40:36,006 Result is kept for 600 seconds
+2023-11-07 13:40:36,013 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 13:50:41,044 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (61763640-8cc7-440b-988c-bd8daaaea8e5)
+2023-11-07 13:50:41,526 home-admin123-frappe-bench:short: Job OK (61763640-8cc7-440b-988c-bd8daaaea8e5)
+2023-11-07 13:50:41,526 Result is kept for 600 seconds
+2023-11-07 14:00:58,600 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (16306840-f9e1-41f5-883d-09115d2e53a6)
+2023-11-07 14:00:59,064 home-admin123-frappe-bench:short: Job OK (16306840-f9e1-41f5-883d-09115d2e53a6)
+2023-11-07 14:00:59,064 Result is kept for 600 seconds
+2023-11-07 14:00:59,071 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 14:10:56,889 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b8913eeb-e692-44ed-a9cd-dc8394b322a7)
+2023-11-07 14:10:57,338 home-admin123-frappe-bench:short: Job OK (b8913eeb-e692-44ed-a9cd-dc8394b322a7)
+2023-11-07 14:10:57,338 Result is kept for 600 seconds
+2023-11-07 14:17:42,358 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 14:20:05,799 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f4d200bd-722a-48ff-bfe1-60465adbd5da)
+2023-11-07 14:20:06,384 home-admin123-frappe-bench:short: Job OK (f4d200bd-722a-48ff-bfe1-60465adbd5da)
+2023-11-07 14:20:06,384 Result is kept for 600 seconds
+2023-11-07 14:30:12,636 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3fd442af-a7d2-4490-8b80-706f2b67dcc5)
+2023-11-07 14:30:13,149 home-admin123-frappe-bench:short: Job OK (3fd442af-a7d2-4490-8b80-706f2b67dcc5)
+2023-11-07 14:30:13,149 Result is kept for 600 seconds
+2023-11-07 14:40:20,502 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2c6b64dc-373a-4834-afd4-4b700ac7bfb3)
+2023-11-07 14:40:20,971 home-admin123-frappe-bench:short: Job OK (2c6b64dc-373a-4834-afd4-4b700ac7bfb3)
+2023-11-07 14:40:20,971 Result is kept for 600 seconds
+2023-11-07 14:40:20,978 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 14:50:26,096 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (095c7cae-ef5c-4497-8b89-25e55bdc89be)
+2023-11-07 14:50:26,560 home-admin123-frappe-bench:short: Job OK (095c7cae-ef5c-4497-8b89-25e55bdc89be)
+2023-11-07 14:50:26,560 Result is kept for 600 seconds
+2023-11-07 15:00:43,981 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ec714e1c-1665-49fe-bbbd-26a7cb4fb0fb)
+2023-11-07 15:00:44,424 home-admin123-frappe-bench:short: Job OK (ec714e1c-1665-49fe-bbbd-26a7cb4fb0fb)
+2023-11-07 15:00:44,424 Result is kept for 600 seconds
+2023-11-07 15:00:44,431 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 15:10:40,976 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e10f0a15-169f-47c4-94c7-04a380b2bf05)
+2023-11-07 15:10:41,441 home-admin123-frappe-bench:short: Job OK (e10f0a15-169f-47c4-94c7-04a380b2bf05)
+2023-11-07 15:10:41,441 Result is kept for 600 seconds
+2023-11-07 15:17:26,530 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 15:20:50,975 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e04997b7-660e-46dd-8fca-4b161a615100)
+2023-11-07 15:20:51,439 home-admin123-frappe-bench:short: Job OK (e04997b7-660e-46dd-8fca-4b161a615100)
+2023-11-07 15:20:51,439 Result is kept for 600 seconds
+2023-11-07 15:30:57,846 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (15e30f4d-ef55-4492-be7b-93949f947ba7)
+2023-11-07 15:30:58,270 home-admin123-frappe-bench:short: Job OK (15e30f4d-ef55-4492-be7b-93949f947ba7)
+2023-11-07 15:30:58,270 Result is kept for 600 seconds
+2023-11-07 15:37:43,289 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 15:40:05,645 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1f001f58-2c53-4397-9abe-52ebe4a48baf)
+2023-11-07 15:40:06,066 home-admin123-frappe-bench:short: Job OK (1f001f58-2c53-4397-9abe-52ebe4a48baf)
+2023-11-07 15:40:06,067 Result is kept for 600 seconds
+2023-11-07 15:50:10,682 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ad10e872-7582-4d57-b6af-ba01fc6b16bd)
+2023-11-07 15:50:11,151 home-admin123-frappe-bench:short: Job OK (ad10e872-7582-4d57-b6af-ba01fc6b16bd)
+2023-11-07 15:50:11,152 Result is kept for 600 seconds
+2023-11-07 16:00:27,826 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (473fa726-ff90-4705-a0ee-e1894cd0c46e)
+2023-11-07 16:00:28,376 home-admin123-frappe-bench:short: Job OK (473fa726-ff90-4705-a0ee-e1894cd0c46e)
+2023-11-07 16:00:28,376 Result is kept for 600 seconds
+2023-11-07 16:00:28,383 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 16:10:25,898 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (124885ab-ecb3-45b4-9228-b479c7e88be2)
+2023-11-07 16:10:26,594 home-admin123-frappe-bench:short: Job OK (124885ab-ecb3-45b4-9228-b479c7e88be2)
+2023-11-07 16:10:26,594 Result is kept for 600 seconds
+2023-11-07 16:17:11,700 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 16:20:35,828 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (de236abd-adf0-49b5-84bd-a20df6ea3dab)
+2023-11-07 16:20:36,538 home-admin123-frappe-bench:short: Job OK (de236abd-adf0-49b5-84bd-a20df6ea3dab)
+2023-11-07 16:20:36,539 Result is kept for 600 seconds
+2023-11-07 16:30:44,033 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d84f4c49-f8a2-4a5e-8a66-af1fd8f5e295)
+2023-11-07 16:30:44,519 home-admin123-frappe-bench:short: Job OK (d84f4c49-f8a2-4a5e-8a66-af1fd8f5e295)
+2023-11-07 16:30:44,519 Result is kept for 600 seconds
+2023-11-07 16:37:29,564 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 16:40:51,944 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a6a3f9ef-c14e-491e-b360-1f7388b9d84d)
+2023-11-07 16:40:52,524 home-admin123-frappe-bench:short: Job OK (a6a3f9ef-c14e-491e-b360-1f7388b9d84d)
+2023-11-07 16:40:52,524 Result is kept for 600 seconds
+2023-11-07 16:50:57,379 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b4192ed8-e507-4e9d-b664-46ede862b12a)
+2023-11-07 16:50:58,053 home-admin123-frappe-bench:short: Job OK (b4192ed8-e507-4e9d-b664-46ede862b12a)
+2023-11-07 16:50:58,053 Result is kept for 600 seconds
+2023-11-07 16:57:43,106 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 17:00:14,698 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (980c699d-3f6f-4e0c-bc3e-c9c609fdd86d)
+2023-11-07 17:00:15,150 home-admin123-frappe-bench:short: Job OK (980c699d-3f6f-4e0c-bc3e-c9c609fdd86d)
+2023-11-07 17:00:15,151 Result is kept for 600 seconds
+2023-11-07 17:10:12,034 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (05e5f686-f94c-44ec-b5d6-2102beaaa163)
+2023-11-07 17:10:12,469 home-admin123-frappe-bench:short: Job OK (05e5f686-f94c-44ec-b5d6-2102beaaa163)
+2023-11-07 17:10:12,469 Result is kept for 600 seconds
+2023-11-07 17:20:22,470 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0f3835d7-a485-4d9a-a712-ad15c9beea0c)
+2023-11-07 17:20:22,904 home-admin123-frappe-bench:short: Job OK (0f3835d7-a485-4d9a-a712-ad15c9beea0c)
+2023-11-07 17:20:22,904 Result is kept for 600 seconds
+2023-11-07 17:20:22,910 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 17:30:28,973 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ee0d6028-c8d2-4d07-bc68-4b10406bee91)
+2023-11-07 17:30:29,697 home-admin123-frappe-bench:short: Job OK (ee0d6028-c8d2-4d07-bc68-4b10406bee91)
+2023-11-07 17:30:29,697 Result is kept for 600 seconds
+2023-11-07 17:40:37,422 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5b96f1f5-c4c1-482e-ac0a-6f195d63cb0a)
+2023-11-07 17:40:37,874 home-admin123-frappe-bench:short: Job OK (5b96f1f5-c4c1-482e-ac0a-6f195d63cb0a)
+2023-11-07 17:40:37,874 Result is kept for 600 seconds
+2023-11-07 17:40:37,879 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 17:50:42,606 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1b7fcf61-3c61-4d7c-9746-c36abdffe784)
+2023-11-07 17:50:43,057 home-admin123-frappe-bench:short: Job OK (1b7fcf61-3c61-4d7c-9746-c36abdffe784)
+2023-11-07 17:50:43,057 Result is kept for 600 seconds
+2023-11-07 18:01:00,520 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3b516680-4fb8-47d3-bb63-f4a05375a97c)
+2023-11-07 18:01:00,971 home-admin123-frappe-bench:short: Job OK (3b516680-4fb8-47d3-bb63-f4a05375a97c)
+2023-11-07 18:01:00,971 Result is kept for 600 seconds
+2023-11-07 18:01:00,978 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 18:10:57,919 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3e500fd1-8ca0-4414-8e4c-716988d10435)
+2023-11-07 18:10:58,611 home-admin123-frappe-bench:short: Job OK (3e500fd1-8ca0-4414-8e4c-716988d10435)
+2023-11-07 18:10:58,611 Result is kept for 600 seconds
+2023-11-07 18:17:43,668 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 18:20:07,413 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (13eb98a0-1205-4d97-8cc9-e6d950af1fb4)
+2023-11-07 18:20:08,114 home-admin123-frappe-bench:short: Job OK (13eb98a0-1205-4d97-8cc9-e6d950af1fb4)
+2023-11-07 18:20:08,114 Result is kept for 600 seconds
+2023-11-07 18:30:14,396 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (523d6538-513e-406c-808c-00077b50d03a)
+2023-11-07 18:30:15,021 home-admin123-frappe-bench:short: Job OK (523d6538-513e-406c-808c-00077b50d03a)
+2023-11-07 18:30:15,021 Result is kept for 600 seconds
+2023-11-07 18:40:22,665 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c9c40232-bc76-41c4-b94a-f1d81f176405)
+2023-11-07 18:40:23,105 home-admin123-frappe-bench:short: Job OK (c9c40232-bc76-41c4-b94a-f1d81f176405)
+2023-11-07 18:40:23,105 Result is kept for 600 seconds
+2023-11-07 18:40:23,111 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 18:50:27,769 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (77a24ce4-0958-4432-aae0-a7383f70adb3)
+2023-11-07 18:50:28,197 home-admin123-frappe-bench:short: Job OK (77a24ce4-0958-4432-aae0-a7383f70adb3)
+2023-11-07 18:50:28,197 Result is kept for 600 seconds
+2023-11-07 19:00:45,069 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e6b4de67-32a5-480d-a2e7-99a9be752d99)
+2023-11-07 19:00:45,499 home-admin123-frappe-bench:short: Job OK (e6b4de67-32a5-480d-a2e7-99a9be752d99)
+2023-11-07 19:00:45,499 Result is kept for 600 seconds
+2023-11-07 19:00:45,506 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 19:10:43,247 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (14e6e0bc-4081-4f29-b712-8b6662d8f6dd)
+2023-11-07 19:10:43,773 home-admin123-frappe-bench:short: Job OK (14e6e0bc-4081-4f29-b712-8b6662d8f6dd)
+2023-11-07 19:10:43,773 Result is kept for 600 seconds
+2023-11-07 19:17:28,854 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 19:20:53,055 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5c81f7f9-18af-4549-8d5f-7c68d67b1b4d)
+2023-11-07 19:20:53,516 home-admin123-frappe-bench:short: Job OK (5c81f7f9-18af-4549-8d5f-7c68d67b1b4d)
+2023-11-07 19:20:53,516 Result is kept for 600 seconds
+2023-11-07 19:30:59,761 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (66dfcf93-bbb5-4fef-9acc-00229ec6dbba)
+2023-11-07 19:31:00,302 home-admin123-frappe-bench:short: Job OK (66dfcf93-bbb5-4fef-9acc-00229ec6dbba)
+2023-11-07 19:31:00,302 Result is kept for 600 seconds
+2023-11-07 19:37:45,395 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 19:40:07,744 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3e4302ea-0958-48b7-8379-17c04974ce85)
+2023-11-07 19:40:08,215 home-admin123-frappe-bench:short: Job OK (3e4302ea-0958-48b7-8379-17c04974ce85)
+2023-11-07 19:40:08,216 Result is kept for 600 seconds
+2023-11-07 19:50:12,986 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5ac46a61-3367-4624-970a-dce183742518)
+2023-11-07 19:50:13,667 home-admin123-frappe-bench:short: Job OK (5ac46a61-3367-4624-970a-dce183742518)
+2023-11-07 19:50:13,667 Result is kept for 600 seconds
+2023-11-07 20:00:29,664 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5f2dc8ee-19d9-4ba4-a4d4-814eb7108a78)
+2023-11-07 20:00:30,155 home-admin123-frappe-bench:short: Job OK (5f2dc8ee-19d9-4ba4-a4d4-814eb7108a78)
+2023-11-07 20:00:30,155 Result is kept for 600 seconds
+2023-11-07 20:00:30,162 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 20:10:28,441 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e0541ab9-89b9-47e3-9641-069b00b636c6)
+2023-11-07 20:10:28,953 home-admin123-frappe-bench:short: Job OK (e0541ab9-89b9-47e3-9641-069b00b636c6)
+2023-11-07 20:10:28,954 Result is kept for 600 seconds
+2023-11-07 20:17:13,999 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 20:20:38,816 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f923faa0-b5f9-42e3-878f-949d3e858060)
+2023-11-07 20:20:39,341 home-admin123-frappe-bench:short: Job OK (f923faa0-b5f9-42e3-878f-949d3e858060)
+2023-11-07 20:20:39,341 Result is kept for 600 seconds
+2023-11-07 20:30:45,535 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (31162b5b-0837-4d12-97d6-aea0dd7fc33d)
+2023-11-07 20:30:45,923 home-admin123-frappe-bench:short: Job OK (31162b5b-0837-4d12-97d6-aea0dd7fc33d)
+2023-11-07 20:30:45,923 Result is kept for 600 seconds
+2023-11-07 20:37:31,004 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 20:40:53,606 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (43159624-a684-4b13-95bc-5ba7f281c075)
+2023-11-07 20:40:54,061 home-admin123-frappe-bench:short: Job OK (43159624-a684-4b13-95bc-5ba7f281c075)
+2023-11-07 20:40:54,061 Result is kept for 600 seconds
+2023-11-07 20:50:59,131 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (7c681d5b-a4ef-4fb4-8424-e4c75a58aa57)
+2023-11-07 20:50:59,842 home-admin123-frappe-bench:short: Job OK (7c681d5b-a4ef-4fb4-8424-e4c75a58aa57)
+2023-11-07 20:50:59,842 Result is kept for 600 seconds
+2023-11-07 20:57:44,926 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 21:00:16,472 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (22ec82af-cb81-4fb0-8d07-6871add8d1cd)
+2023-11-07 21:00:16,947 home-admin123-frappe-bench:short: Job OK (22ec82af-cb81-4fb0-8d07-6871add8d1cd)
+2023-11-07 21:00:16,947 Result is kept for 600 seconds
+2023-11-07 21:10:14,431 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (56d066b3-8084-4a54-914a-f2d169a6ac6b)
+2023-11-07 21:10:15,020 home-admin123-frappe-bench:short: Job OK (56d066b3-8084-4a54-914a-f2d169a6ac6b)
+2023-11-07 21:10:15,020 Result is kept for 600 seconds
+2023-11-07 21:20:24,144 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (70ba81bf-0cba-43f3-9d51-df0e6a3ffe72)
+2023-11-07 21:20:24,839 home-admin123-frappe-bench:short: Job OK (70ba81bf-0cba-43f3-9d51-df0e6a3ffe72)
+2023-11-07 21:20:24,839 Result is kept for 600 seconds
+2023-11-07 21:20:24,847 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 21:30:31,607 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b969f6a3-0ecf-4e54-b2c8-2dd869525f32)
+2023-11-07 21:30:32,171 home-admin123-frappe-bench:short: Job OK (b969f6a3-0ecf-4e54-b2c8-2dd869525f32)
+2023-11-07 21:30:32,171 Result is kept for 600 seconds
+2023-11-07 21:40:39,886 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c6223369-063e-4011-8301-0a443b74aac1)
+2023-11-07 21:40:40,335 home-admin123-frappe-bench:short: Job OK (c6223369-063e-4011-8301-0a443b74aac1)
+2023-11-07 21:40:40,335 Result is kept for 600 seconds
+2023-11-07 21:40:40,342 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 21:50:45,332 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6ed62395-54e8-44b1-b82b-d8f1142a2d77)
+2023-11-07 21:50:45,845 home-admin123-frappe-bench:short: Job OK (6ed62395-54e8-44b1-b82b-d8f1142a2d77)
+2023-11-07 21:50:45,845 Result is kept for 600 seconds
+2023-11-07 22:01:02,738 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (84b8c473-fccd-4afa-9d3f-b01891078c10)
+2023-11-07 22:01:03,179 home-admin123-frappe-bench:short: Job OK (84b8c473-fccd-4afa-9d3f-b01891078c10)
+2023-11-07 22:01:03,179 Result is kept for 600 seconds
+2023-11-07 22:01:03,185 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 22:11:00,649 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d4cf07e7-3cd4-4258-b317-033fe2fc3210)
+2023-11-07 22:11:01,367 home-admin123-frappe-bench:short: Job OK (d4cf07e7-3cd4-4258-b317-033fe2fc3210)
+2023-11-07 22:11:01,368 Result is kept for 600 seconds
+2023-11-07 22:17:46,384 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 22:20:10,828 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ff6b1fa3-d3d2-4b23-892a-ef2ac01ba1f7)
+2023-11-07 22:20:11,273 home-admin123-frappe-bench:short: Job OK (ff6b1fa3-d3d2-4b23-892a-ef2ac01ba1f7)
+2023-11-07 22:20:11,273 Result is kept for 600 seconds
+2023-11-07 22:30:17,261 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (466eb979-ca41-4e26-8bfc-10b071b2763a)
+2023-11-07 22:30:17,734 home-admin123-frappe-bench:short: Job OK (466eb979-ca41-4e26-8bfc-10b071b2763a)
+2023-11-07 22:30:17,734 Result is kept for 600 seconds
+2023-11-07 22:40:25,562 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0c753746-9d40-4f41-830f-b1c967aecf57)
+2023-11-07 22:40:26,117 home-admin123-frappe-bench:short: Job OK (0c753746-9d40-4f41-830f-b1c967aecf57)
+2023-11-07 22:40:26,117 Result is kept for 600 seconds
+2023-11-07 22:40:26,123 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 22:50:30,721 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c082ae7d-23b7-4fc0-8c72-910129d1cf4c)
+2023-11-07 22:50:31,448 home-admin123-frappe-bench:short: Job OK (c082ae7d-23b7-4fc0-8c72-910129d1cf4c)
+2023-11-07 22:50:31,448 Result is kept for 600 seconds
+2023-11-07 23:00:47,377 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5d13a016-7528-4dd0-8abf-c993ae6588bd)
+2023-11-07 23:00:47,758 home-admin123-frappe-bench:short: Job OK (5d13a016-7528-4dd0-8abf-c993ae6588bd)
+2023-11-07 23:00:47,758 Result is kept for 600 seconds
+2023-11-07 23:00:47,764 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 23:10:45,740 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (fe1de18d-6695-4856-ba02-eb84a71e370a)
+2023-11-07 23:10:46,432 home-admin123-frappe-bench:short: Job OK (fe1de18d-6695-4856-ba02-eb84a71e370a)
+2023-11-07 23:10:46,432 Result is kept for 600 seconds
+2023-11-07 23:17:31,457 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 23:20:55,745 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3b456ff2-da1e-48d8-9495-32303de582e2)
+2023-11-07 23:20:56,400 home-admin123-frappe-bench:short: Job OK (3b456ff2-da1e-48d8-9495-32303de582e2)
+2023-11-07 23:20:56,400 Result is kept for 600 seconds
+2023-11-07 23:31:02,666 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a8d65f13-7d4f-45e9-8175-3e928e335006)
+2023-11-07 23:31:03,386 home-admin123-frappe-bench:short: Job OK (a8d65f13-7d4f-45e9-8175-3e928e335006)
+2023-11-07 23:31:03,386 Result is kept for 600 seconds
+2023-11-07 23:37:48,436 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-07 23:40:10,839 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4ff86c26-1b87-4b55-a163-859458d81537)
+2023-11-07 23:40:11,274 home-admin123-frappe-bench:short: Job OK (4ff86c26-1b87-4b55-a163-859458d81537)
+2023-11-07 23:40:11,274 Result is kept for 600 seconds
+2023-11-07 23:50:15,812 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (dab53f1d-f2f0-4f4a-bfc6-19ad1b7ed89c)
+2023-11-07 23:50:16,254 home-admin123-frappe-bench:short: Job OK (dab53f1d-f2f0-4f4a-bfc6-19ad1b7ed89c)
+2023-11-07 23:50:16,254 Result is kept for 600 seconds
+2023-11-08 00:00:48,959 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (62e179f1-5daa-4c5a-9982-0ded9e5b8cbe)
+2023-11-08 00:00:49,362 home-admin123-frappe-bench:short: Job OK (62e179f1-5daa-4c5a-9982-0ded9e5b8cbe)
+2023-11-08 00:00:49,362 Result is kept for 600 seconds
+2023-11-08 00:00:49,372 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 00:10:31,437 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f440d968-8268-474e-a3f9-1c01762f577c)
+2023-11-08 00:10:31,906 home-admin123-frappe-bench:short: Job OK (f440d968-8268-474e-a3f9-1c01762f577c)
+2023-11-08 00:10:31,906 Result is kept for 600 seconds
+2023-11-08 00:17:16,939 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 00:20:41,761 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0630958d-abbe-4ee8-9b7d-b10cbfec28e1)
+2023-11-08 00:20:42,277 home-admin123-frappe-bench:short: Job OK (0630958d-abbe-4ee8-9b7d-b10cbfec28e1)
+2023-11-08 00:20:42,277 Result is kept for 600 seconds
+2023-11-08 00:30:48,775 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (31ef42bb-3f81-4012-99f4-a141c37f488e)
+2023-11-08 00:30:49,490 home-admin123-frappe-bench:short: Job OK (31ef42bb-3f81-4012-99f4-a141c37f488e)
+2023-11-08 00:30:49,490 Result is kept for 600 seconds
+2023-11-08 00:37:34,522 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 00:40:56,961 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6a9a6756-dcc6-4bf4-b888-3caeb355bfcb)
+2023-11-08 00:40:57,418 home-admin123-frappe-bench:short: Job OK (6a9a6756-dcc6-4bf4-b888-3caeb355bfcb)
+2023-11-08 00:40:57,418 Result is kept for 600 seconds
+2023-11-08 00:50:01,857 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5665b3e6-13c5-482f-84e4-6684207987e2)
+2023-11-08 00:50:02,318 home-admin123-frappe-bench:short: Job OK (5665b3e6-13c5-482f-84e4-6684207987e2)
+2023-11-08 00:50:02,318 Result is kept for 600 seconds
+2023-11-08 01:00:18,840 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (7b32aa4f-595e-445f-9878-2dbbd9761b63)
+2023-11-08 01:00:19,307 home-admin123-frappe-bench:short: Job OK (7b32aa4f-595e-445f-9878-2dbbd9761b63)
+2023-11-08 01:00:19,307 Result is kept for 600 seconds
+2023-11-08 01:00:19,315 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 01:10:16,976 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0bfbff2c-20b1-4628-a8c2-e9f5464a3f06)
+2023-11-08 01:10:17,483 home-admin123-frappe-bench:short: Job OK (0bfbff2c-20b1-4628-a8c2-e9f5464a3f06)
+2023-11-08 01:10:17,484 Result is kept for 600 seconds
+2023-11-08 01:17:02,514 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 01:20:26,805 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9e31b530-f1dd-46a5-a294-18272a4a0bc0)
+2023-11-08 01:20:27,430 home-admin123-frappe-bench:short: Job OK (9e31b530-f1dd-46a5-a294-18272a4a0bc0)
+2023-11-08 01:20:27,430 Result is kept for 600 seconds
+2023-11-08 01:30:34,353 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ae614008-9177-47c8-90e6-b743333088e7)
+2023-11-08 01:30:34,854 home-admin123-frappe-bench:short: Job OK (ae614008-9177-47c8-90e6-b743333088e7)
+2023-11-08 01:30:34,854 Result is kept for 600 seconds
+2023-11-08 01:37:19,961 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 01:40:42,151 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (8d5e291f-18a1-43af-a713-0fe368c29334)
+2023-11-08 01:40:42,666 home-admin123-frappe-bench:short: Job OK (8d5e291f-18a1-43af-a713-0fe368c29334)
+2023-11-08 01:40:42,666 Result is kept for 600 seconds
+2023-11-08 01:50:48,079 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4c281bbf-1064-4659-9361-78e2350c0d60)
+2023-11-08 01:50:48,572 home-admin123-frappe-bench:short: Job OK (4c281bbf-1064-4659-9361-78e2350c0d60)
+2023-11-08 01:50:48,572 Result is kept for 600 seconds
+2023-11-08 01:57:33,588 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 02:01:05,269 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e050ea2a-0dcf-4421-857a-e481bca26310)
+2023-11-08 02:01:05,750 home-admin123-frappe-bench:short: Job OK (e050ea2a-0dcf-4421-857a-e481bca26310)
+2023-11-08 02:01:05,750 Result is kept for 600 seconds
+2023-11-08 02:10:02,918 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (54a1d460-3894-4d84-8a28-371536e0cf06)
+2023-11-08 02:10:03,385 home-admin123-frappe-bench:short: Job OK (54a1d460-3894-4d84-8a28-371536e0cf06)
+2023-11-08 02:10:03,385 Result is kept for 600 seconds
+2023-11-08 02:20:12,840 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (df0ee62a-118a-4b42-9467-92032440bb39)
+2023-11-08 02:20:13,268 home-admin123-frappe-bench:short: Job OK (df0ee62a-118a-4b42-9467-92032440bb39)
+2023-11-08 02:20:13,268 Result is kept for 600 seconds
+2023-11-08 02:20:13,274 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 02:30:20,394 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9e123e22-5da8-4f4b-a30d-3df8b9892dc8)
+2023-11-08 02:30:20,823 home-admin123-frappe-bench:short: Job OK (9e123e22-5da8-4f4b-a30d-3df8b9892dc8)
+2023-11-08 02:30:20,823 Result is kept for 600 seconds
+2023-11-08 02:40:28,489 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6a321d64-9138-47bf-8f6b-57688e12b3ae)
+2023-11-08 02:40:28,935 home-admin123-frappe-bench:short: Job OK (6a321d64-9138-47bf-8f6b-57688e12b3ae)
+2023-11-08 02:40:28,935 Result is kept for 600 seconds
+2023-11-08 02:40:28,941 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 02:50:34,077 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (17763f79-83af-41ed-a8f5-a83ecfb2cf43)
+2023-11-08 02:50:34,568 home-admin123-frappe-bench:short: Job OK (17763f79-83af-41ed-a8f5-a83ecfb2cf43)
+2023-11-08 02:50:34,569 Result is kept for 600 seconds
+2023-11-08 03:00:51,588 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5bfe3b90-426d-4ca1-bb40-9b97efd94f7b)
+2023-11-08 03:00:52,084 home-admin123-frappe-bench:short: Job OK (5bfe3b90-426d-4ca1-bb40-9b97efd94f7b)
+2023-11-08 03:00:52,084 Result is kept for 600 seconds
+2023-11-08 03:00:52,090 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 03:10:50,049 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f905216a-90b2-402e-b8e1-61bc39e45188)
+2023-11-08 03:10:50,506 home-admin123-frappe-bench:short: Job OK (f905216a-90b2-402e-b8e1-61bc39e45188)
+2023-11-08 03:10:50,507 Result is kept for 600 seconds
+2023-11-08 03:17:35,591 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 03:21:00,165 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (aff26530-9752-41b8-b863-6acd6b5ede58)
+2023-11-08 03:21:00,742 home-admin123-frappe-bench:short: Job OK (aff26530-9752-41b8-b863-6acd6b5ede58)
+2023-11-08 03:21:00,743 Result is kept for 600 seconds
+2023-11-08 03:30:06,835 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (12efc5fa-9a52-49b3-982f-88fa700e7976)
+2023-11-08 03:30:07,595 home-admin123-frappe-bench:short: Job OK (12efc5fa-9a52-49b3-982f-88fa700e7976)
+2023-11-08 03:30:07,595 Result is kept for 600 seconds
+2023-11-08 03:40:15,275 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (dd795b6d-e863-4d70-bb4c-3d78b9c34edd)
+2023-11-08 03:40:15,833 home-admin123-frappe-bench:short: Job OK (dd795b6d-e863-4d70-bb4c-3d78b9c34edd)
+2023-11-08 03:40:15,833 Result is kept for 600 seconds
+2023-11-08 03:40:15,842 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 03:50:20,837 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (13bd5990-4bca-4bfd-99df-58d4153a7fe6)
+2023-11-08 03:50:21,313 home-admin123-frappe-bench:short: Job OK (13bd5990-4bca-4bfd-99df-58d4153a7fe6)
+2023-11-08 03:50:21,313 Result is kept for 600 seconds
+2023-11-08 04:00:38,917 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c3b54f87-cdf9-4c18-bc14-285211f5028a)
+2023-11-08 04:00:39,397 home-admin123-frappe-bench:short: Job OK (c3b54f87-cdf9-4c18-bc14-285211f5028a)
+2023-11-08 04:00:39,397 Result is kept for 600 seconds
+2023-11-08 04:00:39,404 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 04:10:33,667 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (810cf781-00c8-42ec-b808-52c2ee5bb388)
+2023-11-08 04:10:34,113 home-admin123-frappe-bench:short: Job OK (810cf781-00c8-42ec-b808-52c2ee5bb388)
+2023-11-08 04:10:34,113 Result is kept for 600 seconds
+2023-11-08 04:17:19,143 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 04:20:40,733 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (53e9feed-8bf5-4a5b-9e05-8b039a00e3ea)
+2023-11-08 04:20:41,249 home-admin123-frappe-bench:short: Job OK (53e9feed-8bf5-4a5b-9e05-8b039a00e3ea)
+2023-11-08 04:20:41,249 Result is kept for 600 seconds
+2023-11-08 04:30:45,028 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (7ccacfb8-dd8c-476a-a1ef-26b3d5c5cbf5)
+2023-11-08 04:30:45,461 home-admin123-frappe-bench:short: Job OK (7ccacfb8-dd8c-476a-a1ef-26b3d5c5cbf5)
+2023-11-08 04:30:45,461 Result is kept for 600 seconds
+2023-11-08 04:37:30,511 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 04:40:49,461 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (cb6b224e-bca0-4bc3-9f62-a80eb03f8746)
+2023-11-08 04:40:50,184 home-admin123-frappe-bench:short: Job OK (cb6b224e-bca0-4bc3-9f62-a80eb03f8746)
+2023-11-08 04:40:50,184 Result is kept for 600 seconds
+2023-11-08 04:50:51,472 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e6247b98-cd83-4364-82d4-8a9adc195f1b)
+2023-11-08 04:50:52,190 home-admin123-frappe-bench:short: Job OK (e6247b98-cd83-4364-82d4-8a9adc195f1b)
+2023-11-08 04:50:52,190 Result is kept for 600 seconds
+2023-11-08 04:57:37,274 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 05:01:06,394 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d5bc2004-977a-49df-ab74-7d2b07da29f9)
+2023-11-08 05:01:07,080 home-admin123-frappe-bench:short: Job OK (d5bc2004-977a-49df-ab74-7d2b07da29f9)
+2023-11-08 05:01:07,081 Result is kept for 600 seconds
+2023-11-08 05:11:00,610 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2be01a42-a466-4782-8751-34607cbedcd7)
+2023-11-08 05:11:01,073 home-admin123-frappe-bench:short: Job OK (2be01a42-a466-4782-8751-34607cbedcd7)
+2023-11-08 05:11:01,073 Result is kept for 600 seconds
+2023-11-08 05:20:07,070 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9eb59548-3d89-4838-94a3-9bc1cabd1442)
+2023-11-08 05:20:07,510 home-admin123-frappe-bench:short: Job OK (9eb59548-3d89-4838-94a3-9bc1cabd1442)
+2023-11-08 05:20:07,510 Result is kept for 600 seconds
+2023-11-08 05:20:07,517 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 05:30:10,528 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b36cb50d-415e-488b-abd8-7695ac3afafa)
+2023-11-08 05:30:10,985 home-admin123-frappe-bench:short: Job OK (b36cb50d-415e-488b-abd8-7695ac3afafa)
+2023-11-08 05:30:10,985 Result is kept for 600 seconds
+2023-11-08 05:40:15,858 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9127d583-5d24-4f0b-a3a3-cf526b5f2ca6)
+2023-11-08 05:40:16,351 home-admin123-frappe-bench:short: Job OK (9127d583-5d24-4f0b-a3a3-cf526b5f2ca6)
+2023-11-08 05:40:16,351 Result is kept for 600 seconds
+2023-11-08 05:40:16,358 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 05:50:17,891 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (13589fe4-3f51-44a5-a525-95f3dc3bfe8a)
+2023-11-08 05:50:18,414 home-admin123-frappe-bench:short: Job OK (13589fe4-3f51-44a5-a525-95f3dc3bfe8a)
+2023-11-08 05:50:18,414 Result is kept for 600 seconds
+2023-11-08 06:00:32,042 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (59a68367-b74c-4ce2-8afd-17213085f1d4)
+2023-11-08 06:00:32,484 home-admin123-frappe-bench:short: Job OK (59a68367-b74c-4ce2-8afd-17213085f1d4)
+2023-11-08 06:00:32,484 Result is kept for 600 seconds
+2023-11-08 06:00:32,491 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 06:10:27,015 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a2d3a270-f0fd-4331-962c-2701b5310ba6)
+2023-11-08 06:10:27,513 home-admin123-frappe-bench:short: Job OK (a2d3a270-f0fd-4331-962c-2701b5310ba6)
+2023-11-08 06:10:27,513 Result is kept for 600 seconds
+2023-11-08 06:17:12,566 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 06:20:33,722 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (604ea2a8-e1a7-428e-acde-98ff59c13f02)
+2023-11-08 06:20:34,145 home-admin123-frappe-bench:short: Job OK (604ea2a8-e1a7-428e-acde-98ff59c13f02)
+2023-11-08 06:20:34,145 Result is kept for 600 seconds
+2023-11-08 06:30:38,076 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b2d54523-cb55-49f8-b6bc-afed0e4ff9b6)
+2023-11-08 06:30:38,547 home-admin123-frappe-bench:short: Job OK (b2d54523-cb55-49f8-b6bc-afed0e4ff9b6)
+2023-11-08 06:30:38,547 Result is kept for 600 seconds
+2023-11-08 06:37:23,615 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 06:40:42,510 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (e5fb225d-ddae-4fef-93f4-70580a058857)
+2023-11-08 06:40:42,962 home-admin123-frappe-bench:short: Job OK (e5fb225d-ddae-4fef-93f4-70580a058857)
+2023-11-08 06:40:42,962 Result is kept for 600 seconds
+2023-11-08 06:50:44,837 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (bd45c6d5-f7e1-41d5-8c60-91ed1016c234)
+2023-11-08 06:50:45,318 home-admin123-frappe-bench:short: Job OK (bd45c6d5-f7e1-41d5-8c60-91ed1016c234)
+2023-11-08 06:50:45,318 Result is kept for 600 seconds
+2023-11-08 06:57:30,371 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 07:00:59,593 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9ef10b51-ca6e-4126-a741-2f10da9ac8ce)
+2023-11-08 07:01:00,062 home-admin123-frappe-bench:short: Job OK (9ef10b51-ca6e-4126-a741-2f10da9ac8ce)
+2023-11-08 07:01:00,062 Result is kept for 600 seconds
+2023-11-08 07:10:54,204 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (e65d113b-d323-44a8-a359-2b6d947fdc1a)
+2023-11-08 07:10:54,646 home-admin123-frappe-bench:short: Job OK (e65d113b-d323-44a8-a359-2b6d947fdc1a)
+2023-11-08 07:10:54,646 Result is kept for 600 seconds
+2023-11-08 07:21:01,340 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (2e66563e-1c3b-4122-b992-0d0ef74dfeaf)
+2023-11-08 07:21:01,862 home-admin123-frappe-bench:short: Job OK (2e66563e-1c3b-4122-b992-0d0ef74dfeaf)
+2023-11-08 07:21:01,862 Result is kept for 600 seconds
+2023-11-08 07:21:01,868 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 07:30:04,132 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2ff34d30-134f-4b42-87fe-0cc9f53944e5)
+2023-11-08 07:30:04,548 home-admin123-frappe-bench:short: Job OK (2ff34d30-134f-4b42-87fe-0cc9f53944e5)
+2023-11-08 07:30:04,548 Result is kept for 600 seconds
+2023-11-08 07:36:49,594 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 07:40:09,626 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (4b3ddcb4-b117-4218-9b63-c96b514d4c9d)
+2023-11-08 07:40:10,067 home-admin123-frappe-bench:short: Job OK (4b3ddcb4-b117-4218-9b63-c96b514d4c9d)
+2023-11-08 07:40:10,067 Result is kept for 600 seconds
+2023-11-08 07:50:11,618 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (bc10f4b5-f015-4962-992b-b0d606efd9e9)
+2023-11-08 07:50:12,173 home-admin123-frappe-bench:short: Job OK (bc10f4b5-f015-4962-992b-b0d606efd9e9)
+2023-11-08 07:50:12,173 Result is kept for 600 seconds
+2023-11-08 07:56:57,246 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 08:00:25,374 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3ed1cfcc-c660-4af1-8afd-792d76660898)
+2023-11-08 08:00:25,952 home-admin123-frappe-bench:short: Job OK (3ed1cfcc-c660-4af1-8afd-792d76660898)
+2023-11-08 08:00:25,953 Result is kept for 600 seconds
+2023-11-08 08:10:20,648 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (9ad6a600-cfef-4f1c-8c50-1332dfe1722e)
+2023-11-08 08:10:21,090 home-admin123-frappe-bench:short: Job OK (9ad6a600-cfef-4f1c-8c50-1332dfe1722e)
+2023-11-08 08:10:21,091 Result is kept for 600 seconds
+2023-11-08 08:20:27,464 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (597afa98-209c-4fd9-9cc3-0210ab7866b7)
+2023-11-08 08:20:28,013 home-admin123-frappe-bench:short: Job OK (597afa98-209c-4fd9-9cc3-0210ab7866b7)
+2023-11-08 08:20:28,013 Result is kept for 600 seconds
+2023-11-08 08:20:28,021 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 08:30:31,553 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (13158d34-86c3-43a6-bb48-bd391c100aff)
+2023-11-08 08:30:31,938 home-admin123-frappe-bench:short: Job OK (13158d34-86c3-43a6-bb48-bd391c100aff)
+2023-11-08 08:30:31,938 Result is kept for 600 seconds
+2023-11-08 08:40:36,747 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (3ff85392-0e7e-49eb-8c17-024b05b13fc8)
+2023-11-08 08:40:37,201 home-admin123-frappe-bench:short: Job OK (3ff85392-0e7e-49eb-8c17-024b05b13fc8)
+2023-11-08 08:40:37,201 Result is kept for 600 seconds
+2023-11-08 08:40:37,207 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 08:50:38,547 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (30cfa2bb-b645-40fe-b021-9c6804fce039)
+2023-11-08 08:50:39,242 home-admin123-frappe-bench:short: Job OK (30cfa2bb-b645-40fe-b021-9c6804fce039)
+2023-11-08 08:50:39,243 Result is kept for 600 seconds
+2023-11-08 09:00:53,142 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b6718d1f-9a0b-48c8-a58d-3460ca2be309)
+2023-11-08 09:00:53,592 home-admin123-frappe-bench:short: Job OK (b6718d1f-9a0b-48c8-a58d-3460ca2be309)
+2023-11-08 09:00:53,592 Result is kept for 600 seconds
+2023-11-08 09:00:53,599 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 09:10:47,713 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (919280bc-b8f8-42b9-b636-dc51bba676ea)
+2023-11-08 09:10:48,182 home-admin123-frappe-bench:short: Job OK (919280bc-b8f8-42b9-b636-dc51bba676ea)
+2023-11-08 09:10:48,182 Result is kept for 600 seconds
+2023-11-08 09:17:33,273 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 09:20:54,734 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (e65b6524-4f4a-4c7e-9d43-fa3393e66df1)
+2023-11-08 09:20:55,153 home-admin123-frappe-bench:short: Job OK (e65b6524-4f4a-4c7e-9d43-fa3393e66df1)
+2023-11-08 09:20:55,153 Result is kept for 600 seconds
+2023-11-08 09:30:58,709 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5d9a2ee5-4c0f-44d7-bda8-0a1bc4a5d8da)
+2023-11-08 09:30:59,138 home-admin123-frappe-bench:short: Job OK (5d9a2ee5-4c0f-44d7-bda8-0a1bc4a5d8da)
+2023-11-08 09:30:59,139 Result is kept for 600 seconds
+2023-11-08 09:37:44,229 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 09:40:03,553 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1ffd9065-0802-440c-912e-22cfbd6e5640)
+2023-11-08 09:40:04,175 home-admin123-frappe-bench:short: Job OK (1ffd9065-0802-440c-912e-22cfbd6e5640)
+2023-11-08 09:40:04,175 Result is kept for 600 seconds
+2023-11-08 09:50:05,502 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6ae18594-6062-4b4d-9a61-c3a4a6a5759e)
+2023-11-08 09:50:06,017 home-admin123-frappe-bench:short: Job OK (6ae18594-6062-4b4d-9a61-c3a4a6a5759e)
+2023-11-08 09:50:06,017 Result is kept for 600 seconds
+2023-11-08 10:00:20,018 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (37da41f3-5f8a-4a11-b69a-8c49eff57391)
+2023-11-08 10:00:20,687 home-admin123-frappe-bench:short: Job OK (37da41f3-5f8a-4a11-b69a-8c49eff57391)
+2023-11-08 10:00:20,687 Result is kept for 600 seconds
+2023-11-08 10:00:20,697 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 10:10:14,751 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (da0d5bea-0dc4-4532-8717-1b06d233afa4)
+2023-11-08 10:10:15,208 home-admin123-frappe-bench:short: Job OK (da0d5bea-0dc4-4532-8717-1b06d233afa4)
+2023-11-08 10:10:15,208 Result is kept for 600 seconds
+2023-11-08 10:17:00,299 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 10:20:21,982 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (adc56f41-29a6-4284-b1a2-8410ef5f5da3)
+2023-11-08 10:20:22,591 home-admin123-frappe-bench:short: Job OK (adc56f41-29a6-4284-b1a2-8410ef5f5da3)
+2023-11-08 10:20:22,591 Result is kept for 600 seconds
+2023-11-08 10:30:25,522 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a217c3bf-9830-479c-9fd5-cd7ae75bd91d)
+2023-11-08 10:30:26,182 home-admin123-frappe-bench:short: Job OK (a217c3bf-9830-479c-9fd5-cd7ae75bd91d)
+2023-11-08 10:30:26,182 Result is kept for 600 seconds
+2023-11-08 10:37:11,260 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 10:40:30,662 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (28f93ec6-a90f-4ef1-ab17-b8b7f43a8130)
+2023-11-08 10:40:31,231 home-admin123-frappe-bench:short: Job OK (28f93ec6-a90f-4ef1-ab17-b8b7f43a8130)
+2023-11-08 10:40:31,231 Result is kept for 600 seconds
+2023-11-08 10:50:33,389 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e8acf6d7-ab73-4334-951d-68f193b70a15)
+2023-11-08 10:50:33,933 home-admin123-frappe-bench:short: Job OK (e8acf6d7-ab73-4334-951d-68f193b70a15)
+2023-11-08 10:50:33,934 Result is kept for 600 seconds
+2023-11-08 10:57:18,972 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 11:00:47,346 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9b45f0b2-8fb7-4934-b607-bdc685b56e5b)
+2023-11-08 11:00:47,816 home-admin123-frappe-bench:short: Job OK (9b45f0b2-8fb7-4934-b607-bdc685b56e5b)
+2023-11-08 11:00:47,816 Result is kept for 600 seconds
+2023-11-08 11:10:42,452 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (6978c9ce-77c7-4be3-b118-500162cc137e)
+2023-11-08 11:10:42,917 home-admin123-frappe-bench:short: Job OK (6978c9ce-77c7-4be3-b118-500162cc137e)
+2023-11-08 11:10:42,917 Result is kept for 600 seconds
+2023-11-08 11:20:48,885 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (adf2144e-e8a7-4fd7-87e1-a181884718fd)
+2023-11-08 11:20:49,271 home-admin123-frappe-bench:short: Job OK (adf2144e-e8a7-4fd7-87e1-a181884718fd)
+2023-11-08 11:20:49,271 Result is kept for 600 seconds
+2023-11-08 11:20:49,277 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 11:30:53,224 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c12a4900-7d28-4f11-9da7-0eba247feb6f)
+2023-11-08 11:30:53,949 home-admin123-frappe-bench:short: Job OK (c12a4900-7d28-4f11-9da7-0eba247feb6f)
+2023-11-08 11:30:53,949 Result is kept for 600 seconds
+2023-11-08 11:40:58,757 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (9742c3a1-1149-4192-8b65-22e8b9dfac79)
+2023-11-08 11:40:59,214 home-admin123-frappe-bench:short: Job OK (9742c3a1-1149-4192-8b65-22e8b9dfac79)
+2023-11-08 11:40:59,214 Result is kept for 600 seconds
+2023-11-08 11:40:59,222 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 11:50:00,440 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (272c7ff4-7077-4b1d-b6ac-dbb7853a5cf1)
+2023-11-08 11:50:00,893 home-admin123-frappe-bench:short: Job OK (272c7ff4-7077-4b1d-b6ac-dbb7853a5cf1)
+2023-11-08 11:50:00,893 Result is kept for 600 seconds
+2023-11-08 11:56:45,997 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 12:00:14,725 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (958ea772-d2fd-4831-82be-b03613791d93)
+2023-11-08 12:00:15,449 home-admin123-frappe-bench:short: Job OK (958ea772-d2fd-4831-82be-b03613791d93)
+2023-11-08 12:00:15,449 Result is kept for 600 seconds
+2023-11-08 12:10:09,944 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (c5c03437-defa-41e2-a8ff-f386de513346)
+2023-11-08 12:10:10,463 home-admin123-frappe-bench:short: Job OK (c5c03437-defa-41e2-a8ff-f386de513346)
+2023-11-08 12:10:10,463 Result is kept for 600 seconds
+2023-11-08 12:20:17,277 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ce14207b-4bb6-42db-933e-8f97959b0539)
+2023-11-08 12:20:18,002 home-admin123-frappe-bench:short: Job OK (ce14207b-4bb6-42db-933e-8f97959b0539)
+2023-11-08 12:20:18,002 Result is kept for 600 seconds
+2023-11-08 12:20:18,009 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 12:30:21,718 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6dabc10c-4126-4b88-80fd-77e7c506cb42)
+2023-11-08 12:30:22,313 home-admin123-frappe-bench:short: Job OK (6dabc10c-4126-4b88-80fd-77e7c506cb42)
+2023-11-08 12:30:22,313 Result is kept for 600 seconds
+2023-11-08 12:40:27,191 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (1c2afc69-8e5f-4814-9570-911554511670)
+2023-11-08 12:40:27,901 home-admin123-frappe-bench:short: Job OK (1c2afc69-8e5f-4814-9570-911554511670)
+2023-11-08 12:40:27,901 Result is kept for 600 seconds
+2023-11-08 12:40:27,909 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 12:50:29,035 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (57417ff5-d0b4-4a3f-b616-824531efcb73)
+2023-11-08 12:50:29,522 home-admin123-frappe-bench:short: Job OK (57417ff5-d0b4-4a3f-b616-824531efcb73)
+2023-11-08 12:50:29,522 Result is kept for 600 seconds
+2023-11-08 13:00:43,372 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b571ff45-c7e6-43d4-a72e-d9ecc27ba47b)
+2023-11-08 13:00:43,800 home-admin123-frappe-bench:short: Job OK (b571ff45-c7e6-43d4-a72e-d9ecc27ba47b)
+2023-11-08 13:00:43,800 Result is kept for 600 seconds
+2023-11-08 13:00:43,806 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 13:10:38,211 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (aa05faa2-832c-499c-9810-995d4297e65f)
+2023-11-08 13:10:38,605 home-admin123-frappe-bench:short: Job OK (aa05faa2-832c-499c-9810-995d4297e65f)
+2023-11-08 13:10:38,605 Result is kept for 600 seconds
+2023-11-08 13:17:23,711 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 13:20:44,744 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (f8cceecc-e7ec-49a6-94d1-fd6cc41c06e7)
+2023-11-08 13:20:45,189 home-admin123-frappe-bench:short: Job OK (f8cceecc-e7ec-49a6-94d1-fd6cc41c06e7)
+2023-11-08 13:20:45,190 Result is kept for 600 seconds
+2023-11-08 13:30:48,939 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (812f5e5d-f310-47f3-8a48-dc03225a1edc)
+2023-11-08 13:30:49,369 home-admin123-frappe-bench:short: Job OK (812f5e5d-f310-47f3-8a48-dc03225a1edc)
+2023-11-08 13:30:49,369 Result is kept for 600 seconds
+2023-11-08 13:37:34,469 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 13:40:53,471 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (20441880-0839-4aaa-bc40-bc749b77438a)
+2023-11-08 13:40:53,889 home-admin123-frappe-bench:short: Job OK (20441880-0839-4aaa-bc40-bc749b77438a)
+2023-11-08 13:40:53,889 Result is kept for 600 seconds
+2023-11-08 13:50:55,879 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (96a6852c-a847-4c9c-9b68-1f6efb6f90b4)
+2023-11-08 13:50:56,609 home-admin123-frappe-bench:short: Job OK (96a6852c-a847-4c9c-9b68-1f6efb6f90b4)
+2023-11-08 13:50:56,609 Result is kept for 600 seconds
+2023-11-08 13:57:41,635 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 14:01:09,791 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (dac8a8a0-51c8-46ac-8c8d-58c567c42348)
+2023-11-08 14:01:10,361 home-admin123-frappe-bench:short: Job OK (dac8a8a0-51c8-46ac-8c8d-58c567c42348)
+2023-11-08 14:01:10,362 Result is kept for 600 seconds
+2023-11-08 14:10:04,351 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (a460f469-3aec-4343-856f-363514005232)
+2023-11-08 14:10:05,068 home-admin123-frappe-bench:short: Job OK (a460f469-3aec-4343-856f-363514005232)
+2023-11-08 14:10:05,069 Result is kept for 600 seconds
+2023-11-08 14:20:11,450 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ba9626af-65bf-4fe4-910b-ab5a93bb566c)
+2023-11-08 14:20:11,931 home-admin123-frappe-bench:short: Job OK (ba9626af-65bf-4fe4-910b-ab5a93bb566c)
+2023-11-08 14:20:11,931 Result is kept for 600 seconds
+2023-11-08 14:20:11,937 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 14:30:15,367 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b72ce895-a4ef-476d-b2ec-cfbd53352b12)
+2023-11-08 14:30:15,841 home-admin123-frappe-bench:short: Job OK (b72ce895-a4ef-476d-b2ec-cfbd53352b12)
+2023-11-08 14:30:15,842 Result is kept for 600 seconds
+2023-11-08 14:40:20,219 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (788258fd-844f-4c3d-b504-58bd8d9555af)
+2023-11-08 14:40:20,882 home-admin123-frappe-bench:short: Job OK (788258fd-844f-4c3d-b504-58bd8d9555af)
+2023-11-08 14:40:20,882 Result is kept for 600 seconds
+2023-11-08 14:40:20,891 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 14:50:23,033 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5f8741e0-adec-4a12-8bc0-692829b805bd)
+2023-11-08 14:50:23,503 home-admin123-frappe-bench:short: Job OK (5f8741e0-adec-4a12-8bc0-692829b805bd)
+2023-11-08 14:50:23,503 Result is kept for 600 seconds
+2023-11-08 15:00:37,518 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1f61f1f6-b4c4-43eb-9414-b5fdd32176a7)
+2023-11-08 15:00:37,954 home-admin123-frappe-bench:short: Job OK (1f61f1f6-b4c4-43eb-9414-b5fdd32176a7)
+2023-11-08 15:00:37,954 Result is kept for 600 seconds
+2023-11-08 15:00:37,961 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 15:10:32,053 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (a58159ea-4cb1-47b6-af7d-da6060c2643e)
+2023-11-08 15:10:32,502 home-admin123-frappe-bench:short: Job OK (a58159ea-4cb1-47b6-af7d-da6060c2643e)
+2023-11-08 15:10:32,502 Result is kept for 600 seconds
+2023-11-08 15:17:17,601 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 15:20:39,247 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (024f766e-00c1-4ab4-8761-a27a6612c7d6)
+2023-11-08 15:20:39,705 home-admin123-frappe-bench:short: Job OK (024f766e-00c1-4ab4-8761-a27a6612c7d6)
+2023-11-08 15:20:39,705 Result is kept for 600 seconds
+2023-11-08 15:30:42,791 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (8dc57c03-62a0-4bc3-81ba-842175b3b195)
+2023-11-08 15:30:43,259 home-admin123-frappe-bench:short: Job OK (8dc57c03-62a0-4bc3-81ba-842175b3b195)
+2023-11-08 15:30:43,260 Result is kept for 600 seconds
+2023-11-08 15:37:28,364 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 15:40:48,492 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (3537d281-7808-470c-9001-359263a1d14f)
+2023-11-08 15:40:48,968 home-admin123-frappe-bench:short: Job OK (3537d281-7808-470c-9001-359263a1d14f)
+2023-11-08 15:40:48,968 Result is kept for 600 seconds
+2023-11-08 15:50:49,994 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d5380d1b-cc6a-4030-a4c5-e219753e8744)
+2023-11-08 15:50:50,511 home-admin123-frappe-bench:short: Job OK (d5380d1b-cc6a-4030-a4c5-e219753e8744)
+2023-11-08 15:50:50,511 Result is kept for 600 seconds
+2023-11-08 15:57:35,527 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 16:01:04,950 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1a61943b-d484-4a15-82f6-dd4f82a20dcc)
+2023-11-08 16:01:05,419 home-admin123-frappe-bench:short: Job OK (1a61943b-d484-4a15-82f6-dd4f82a20dcc)
+2023-11-08 16:01:05,419 Result is kept for 600 seconds
+2023-11-08 16:10:59,173 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (02b6f113-3865-40be-be37-629aa80b5075)
+2023-11-08 16:10:59,588 home-admin123-frappe-bench:short: Job OK (02b6f113-3865-40be-be37-629aa80b5075)
+2023-11-08 16:10:59,588 Result is kept for 600 seconds
+2023-11-08 16:20:05,339 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6e3dc80d-3bff-4041-b971-03508b332729)
+2023-11-08 16:20:05,756 home-admin123-frappe-bench:short: Job OK (6e3dc80d-3bff-4041-b971-03508b332729)
+2023-11-08 16:20:05,757 Result is kept for 600 seconds
+2023-11-08 16:20:05,762 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 16:30:09,565 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e3b50bfb-4081-44f2-ae0b-3cdc0c224973)
+2023-11-08 16:30:10,029 home-admin123-frappe-bench:short: Job OK (e3b50bfb-4081-44f2-ae0b-3cdc0c224973)
+2023-11-08 16:30:10,029 Result is kept for 600 seconds
+2023-11-08 16:40:15,078 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (480e02bf-d4ab-48b7-8f37-228b651a9719)
+2023-11-08 16:40:15,556 home-admin123-frappe-bench:short: Job OK (480e02bf-d4ab-48b7-8f37-228b651a9719)
+2023-11-08 16:40:15,556 Result is kept for 600 seconds
+2023-11-08 16:40:15,561 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 16:50:16,812 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3d01290e-b5b2-4f09-9860-40d396d9367c)
+2023-11-08 16:50:17,363 home-admin123-frappe-bench:short: Job OK (3d01290e-b5b2-4f09-9860-40d396d9367c)
+2023-11-08 16:50:17,363 Result is kept for 600 seconds
+2023-11-08 17:00:30,449 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (266b76bb-4650-4faf-8ef3-9a9f18dc30e2)
+2023-11-08 17:00:31,043 home-admin123-frappe-bench:short: Job OK (266b76bb-4650-4faf-8ef3-9a9f18dc30e2)
+2023-11-08 17:00:31,043 Result is kept for 600 seconds
+2023-11-08 17:00:31,050 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 17:10:25,714 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2bbb0899-9175-4115-80f8-c7c801ee0d76)
+2023-11-08 17:10:26,167 home-admin123-frappe-bench:short: Job OK (2bbb0899-9175-4115-80f8-c7c801ee0d76)
+2023-11-08 17:10:26,167 Result is kept for 600 seconds
+2023-11-08 17:17:11,184 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 17:20:33,330 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5843b961-6827-4643-8fb4-c6ecb229dc84)
+2023-11-08 17:20:33,798 home-admin123-frappe-bench:short: Job OK (5843b961-6827-4643-8fb4-c6ecb229dc84)
+2023-11-08 17:20:33,798 Result is kept for 600 seconds
+2023-11-08 17:30:36,593 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ad9426a5-f798-483c-a557-e9ecc8741329)
+2023-11-08 17:30:37,002 home-admin123-frappe-bench:short: Job OK (ad9426a5-f798-483c-a557-e9ecc8741329)
+2023-11-08 17:30:37,002 Result is kept for 600 seconds
+2023-11-08 17:37:22,104 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 17:40:41,810 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (8c5fc39c-f86c-4952-a018-46df5c1b2ebe)
+2023-11-08 17:40:42,254 home-admin123-frappe-bench:short: Job OK (8c5fc39c-f86c-4952-a018-46df5c1b2ebe)
+2023-11-08 17:40:42,254 Result is kept for 600 seconds
+2023-11-08 17:50:43,852 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3fcbf363-95aa-4191-9716-660f8654e63d)
+2023-11-08 17:50:44,306 home-admin123-frappe-bench:short: Job OK (3fcbf363-95aa-4191-9716-660f8654e63d)
+2023-11-08 17:50:44,306 Result is kept for 600 seconds
+2023-11-08 17:57:29,330 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 18:00:58,006 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (65521b78-0aa0-4e9d-b844-34f4069ba9a8)
+2023-11-08 18:00:58,478 home-admin123-frappe-bench:short: Job OK (65521b78-0aa0-4e9d-b844-34f4069ba9a8)
+2023-11-08 18:00:58,478 Result is kept for 600 seconds
+2023-11-08 18:10:53,038 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4f6995d6-fcdc-4c9d-9688-78e193f16efc)
+2023-11-08 18:10:53,622 home-admin123-frappe-bench:short: Job OK (4f6995d6-fcdc-4c9d-9688-78e193f16efc)
+2023-11-08 18:10:53,623 Result is kept for 600 seconds
+2023-11-08 18:21:00,089 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (90fc1e3f-81c7-4024-9045-d0ae66d7f982)
+2023-11-08 18:21:00,747 home-admin123-frappe-bench:short: Job OK (90fc1e3f-81c7-4024-9045-d0ae66d7f982)
+2023-11-08 18:21:00,747 Result is kept for 600 seconds
+2023-11-08 18:21:00,755 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 18:30:03,502 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (faa241d9-460d-48af-acfa-6ec2b29caa29)
+2023-11-08 18:30:04,140 home-admin123-frappe-bench:short: Job OK (faa241d9-460d-48af-acfa-6ec2b29caa29)
+2023-11-08 18:30:04,140 Result is kept for 600 seconds
+2023-11-08 18:36:49,240 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 18:40:08,531 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b8f181a6-3980-4708-b09c-5b4bd1c50c0b)
+2023-11-08 18:40:09,019 home-admin123-frappe-bench:short: Job OK (b8f181a6-3980-4708-b09c-5b4bd1c50c0b)
+2023-11-08 18:40:09,019 Result is kept for 600 seconds
+2023-11-08 18:50:10,894 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (95e9aad0-0db9-4a4d-8f1a-f8dbf7254eb8)
+2023-11-08 18:50:11,497 home-admin123-frappe-bench:short: Job OK (95e9aad0-0db9-4a4d-8f1a-f8dbf7254eb8)
+2023-11-08 18:50:11,497 Result is kept for 600 seconds
+2023-11-08 18:56:56,583 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 19:00:24,305 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (fc49d34d-770b-4f52-a8b1-4953d9c3c995)
+2023-11-08 19:00:24,739 home-admin123-frappe-bench:short: Job OK (fc49d34d-770b-4f52-a8b1-4953d9c3c995)
+2023-11-08 19:00:24,740 Result is kept for 600 seconds
+2023-11-08 19:10:19,895 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1c6d20db-885d-4707-aada-472f3321cf0b)
+2023-11-08 19:10:20,425 home-admin123-frappe-bench:short: Job OK (1c6d20db-885d-4707-aada-472f3321cf0b)
+2023-11-08 19:10:20,425 Result is kept for 600 seconds
+2023-11-08 19:20:26,508 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2502a983-d637-4f05-8b1b-57812bfb6af0)
+2023-11-08 19:20:27,066 home-admin123-frappe-bench:short: Job OK (2502a983-d637-4f05-8b1b-57812bfb6af0)
+2023-11-08 19:20:27,066 Result is kept for 600 seconds
+2023-11-08 19:20:27,072 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 19:30:30,782 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f7ce6ca5-59a9-4405-b81a-5d907a23bf54)
+2023-11-08 19:30:31,266 home-admin123-frappe-bench:short: Job OK (f7ce6ca5-59a9-4405-b81a-5d907a23bf54)
+2023-11-08 19:30:31,266 Result is kept for 600 seconds
+2023-11-08 19:40:36,322 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (46134c14-f271-48c1-b3ce-d888d5462287)
+2023-11-08 19:40:36,792 home-admin123-frappe-bench:short: Job OK (46134c14-f271-48c1-b3ce-d888d5462287)
+2023-11-08 19:40:36,792 Result is kept for 600 seconds
+2023-11-08 19:40:36,799 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 19:50:38,157 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (261dc185-fc87-455e-a2e3-8d5bb0ff3174)
+2023-11-08 19:50:38,599 home-admin123-frappe-bench:short: Job OK (261dc185-fc87-455e-a2e3-8d5bb0ff3174)
+2023-11-08 19:50:38,599 Result is kept for 600 seconds
+2023-11-08 20:00:53,016 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c888d381-f1b6-495a-bd23-88943d085da3)
+2023-11-08 20:00:53,665 home-admin123-frappe-bench:short: Job OK (c888d381-f1b6-495a-bd23-88943d085da3)
+2023-11-08 20:00:53,665 Result is kept for 600 seconds
+2023-11-08 20:00:53,674 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 20:10:47,848 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (5a69fa1e-cc49-420a-a727-005a497ccebc)
+2023-11-08 20:10:48,296 home-admin123-frappe-bench:short: Job OK (5a69fa1e-cc49-420a-a727-005a497ccebc)
+2023-11-08 20:10:48,296 Result is kept for 600 seconds
+2023-11-08 20:17:33,388 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 20:20:55,106 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b64bff73-6f0f-40e5-8b76-857dbb2ed989)
+2023-11-08 20:20:55,634 home-admin123-frappe-bench:short: Job OK (b64bff73-6f0f-40e5-8b76-857dbb2ed989)
+2023-11-08 20:20:55,634 Result is kept for 600 seconds
+2023-11-08 20:30:58,327 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (23a3a7a6-44e0-4012-b4da-2fa3a4c526fb)
+2023-11-08 20:30:58,745 home-admin123-frappe-bench:short: Job OK (23a3a7a6-44e0-4012-b4da-2fa3a4c526fb)
+2023-11-08 20:30:58,745 Result is kept for 600 seconds
+2023-11-08 20:37:43,779 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 20:40:03,555 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0f894574-df25-4945-9749-6d4202faae2b)
+2023-11-08 20:40:04,081 home-admin123-frappe-bench:short: Job OK (0f894574-df25-4945-9749-6d4202faae2b)
+2023-11-08 20:40:04,081 Result is kept for 600 seconds
+2023-11-08 20:50:05,213 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (02361e63-dc81-452f-bf05-ed16e9610015)
+2023-11-08 20:50:05,777 home-admin123-frappe-bench:short: Job OK (02361e63-dc81-452f-bf05-ed16e9610015)
+2023-11-08 20:50:05,777 Result is kept for 600 seconds
+2023-11-08 21:00:19,242 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (feb3165c-4a84-46f3-9589-98efd4ab1384)
+2023-11-08 21:00:19,963 home-admin123-frappe-bench:short: Job OK (feb3165c-4a84-46f3-9589-98efd4ab1384)
+2023-11-08 21:00:19,963 Result is kept for 600 seconds
+2023-11-08 21:00:19,971 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 21:10:14,195 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d4110ab8-540a-4512-9d8c-bdf701ee222f)
+2023-11-08 21:10:14,632 home-admin123-frappe-bench:short: Job OK (d4110ab8-540a-4512-9d8c-bdf701ee222f)
+2023-11-08 21:10:14,632 Result is kept for 600 seconds
+2023-11-08 21:16:59,645 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 21:20:21,703 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b4edfe9f-ff42-47f0-a671-a6c0c4d97edd)
+2023-11-08 21:20:22,416 home-admin123-frappe-bench:short: Job OK (b4edfe9f-ff42-47f0-a671-a6c0c4d97edd)
+2023-11-08 21:20:22,416 Result is kept for 600 seconds
+2023-11-08 21:30:25,182 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4fdf1e56-e0c2-4d1c-b04a-8ca3f6b07c35)
+2023-11-08 21:30:25,899 home-admin123-frappe-bench:short: Job OK (4fdf1e56-e0c2-4d1c-b04a-8ca3f6b07c35)
+2023-11-08 21:30:25,899 Result is kept for 600 seconds
+2023-11-08 21:37:10,987 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 21:40:30,276 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (32b292e4-1998-4a53-8ee5-f3f4e5e68989)
+2023-11-08 21:40:30,762 home-admin123-frappe-bench:short: Job OK (32b292e4-1998-4a53-8ee5-f3f4e5e68989)
+2023-11-08 21:40:30,762 Result is kept for 600 seconds
+2023-11-08 21:50:32,423 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (45622534-f365-41a9-bb82-77d80d392c79)
+2023-11-08 21:50:32,867 home-admin123-frappe-bench:short: Job OK (45622534-f365-41a9-bb82-77d80d392c79)
+2023-11-08 21:50:32,867 Result is kept for 600 seconds
+2023-11-08 21:57:17,921 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 22:00:46,342 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b4b7a7a8-e596-407a-96da-7a91257141c0)
+2023-11-08 22:00:46,794 home-admin123-frappe-bench:short: Job OK (b4b7a7a8-e596-407a-96da-7a91257141c0)
+2023-11-08 22:00:46,794 Result is kept for 600 seconds
+2023-11-08 22:10:41,424 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (60d2d07a-39ec-4c87-8808-3f921a0219ac)
+2023-11-08 22:10:41,845 home-admin123-frappe-bench:short: Job OK (60d2d07a-39ec-4c87-8808-3f921a0219ac)
+2023-11-08 22:10:41,845 Result is kept for 600 seconds
+2023-11-08 22:20:48,320 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0415d082-156b-476b-bca2-d0a6497b3d4a)
+2023-11-08 22:20:48,737 home-admin123-frappe-bench:short: Job OK (0415d082-156b-476b-bca2-d0a6497b3d4a)
+2023-11-08 22:20:48,738 Result is kept for 600 seconds
+2023-11-08 22:20:48,743 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 22:30:52,334 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (470e41fc-4c1d-4663-9c26-cab1807e2c4e)
+2023-11-08 22:30:52,796 home-admin123-frappe-bench:short: Job OK (470e41fc-4c1d-4663-9c26-cab1807e2c4e)
+2023-11-08 22:30:52,796 Result is kept for 600 seconds
+2023-11-08 22:40:57,227 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d5b7ee95-c4fb-4149-b649-42531be455e6)
+2023-11-08 22:40:57,919 home-admin123-frappe-bench:short: Job OK (d5b7ee95-c4fb-4149-b649-42531be455e6)
+2023-11-08 22:40:57,920 Result is kept for 600 seconds
+2023-11-08 22:40:57,927 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 22:50:59,504 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4618e377-fb8b-4750-8740-0996ce03f80c)
+2023-11-08 22:50:59,938 home-admin123-frappe-bench:short: Job OK (4618e377-fb8b-4750-8740-0996ce03f80c)
+2023-11-08 22:50:59,938 Result is kept for 600 seconds
+2023-11-08 23:00:13,419 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4321c1da-9ffd-4c43-b152-a035248fe019)
+2023-11-08 23:00:13,908 home-admin123-frappe-bench:short: Job OK (4321c1da-9ffd-4c43-b152-a035248fe019)
+2023-11-08 23:00:13,908 Result is kept for 600 seconds
+2023-11-08 23:06:58,944 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 23:10:08,231 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (466c74fd-e3be-44b9-8366-c480c9517ddc)
+2023-11-08 23:10:08,766 home-admin123-frappe-bench:short: Job OK (466c74fd-e3be-44b9-8366-c480c9517ddc)
+2023-11-08 23:10:08,766 Result is kept for 600 seconds
+2023-11-08 23:20:15,304 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (58b92124-b80c-4dc7-92c6-a18a0291066e)
+2023-11-08 23:20:16,018 home-admin123-frappe-bench:short: Job OK (58b92124-b80c-4dc7-92c6-a18a0291066e)
+2023-11-08 23:20:16,018 Result is kept for 600 seconds
+2023-11-08 23:30:18,863 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (46f2c869-8d6d-49bf-801a-65e33540cdea)
+2023-11-08 23:30:19,551 home-admin123-frappe-bench:short: Job OK (46f2c869-8d6d-49bf-801a-65e33540cdea)
+2023-11-08 23:30:19,551 Result is kept for 600 seconds
+2023-11-08 23:30:19,557 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-08 23:40:24,313 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (8d6e49d2-24a0-4477-8d03-9d108989bca8)
+2023-11-08 23:40:24,784 home-admin123-frappe-bench:short: Job OK (8d6e49d2-24a0-4477-8d03-9d108989bca8)
+2023-11-08 23:40:24,784 Result is kept for 600 seconds
+2023-11-08 23:50:26,098 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (49b71aef-4c94-4bb1-b838-268858e43302)
+2023-11-08 23:50:26,555 home-admin123-frappe-bench:short: Job OK (49b71aef-4c94-4bb1-b838-268858e43302)
+2023-11-08 23:50:26,556 Result is kept for 600 seconds
+2023-11-08 23:50:26,562 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 00:00:56,807 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a8266b52-6d1f-46ba-a431-a0bb02e75bea)
+2023-11-09 00:00:57,279 home-admin123-frappe-bench:short: Job OK (a8266b52-6d1f-46ba-a431-a0bb02e75bea)
+2023-11-09 00:00:57,279 Result is kept for 600 seconds
+2023-11-09 00:10:34,014 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d578454b-0d16-4192-82d7-555f8d16dbc9)
+2023-11-09 00:10:34,438 home-admin123-frappe-bench:short: Job OK (d578454b-0d16-4192-82d7-555f8d16dbc9)
+2023-11-09 00:10:34,438 Result is kept for 600 seconds
+2023-11-09 00:17:19,525 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 00:20:39,038 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a140f940-2b70-4ea4-bb62-27247babe9db)
+2023-11-09 00:20:39,473 home-admin123-frappe-bench:short: Job OK (a140f940-2b70-4ea4-bb62-27247babe9db)
+2023-11-09 00:20:39,473 Result is kept for 600 seconds
+2023-11-09 00:30:41,096 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (7895028c-d7ae-4dee-aae0-93a1c6fd2909)
+2023-11-09 00:30:41,536 home-admin123-frappe-bench:short: Job OK (7895028c-d7ae-4dee-aae0-93a1c6fd2909)
+2023-11-09 00:30:41,537 Result is kept for 600 seconds
+2023-11-09 00:37:26,633 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 00:40:45,005 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (be463ca0-0e43-49b0-9c16-69a4f545b3e9)
+2023-11-09 00:40:45,419 home-admin123-frappe-bench:short: Job OK (be463ca0-0e43-49b0-9c16-69a4f545b3e9)
+2023-11-09 00:40:45,419 Result is kept for 600 seconds
+2023-11-09 00:50:45,177 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (585f51a5-d47a-4771-8aa9-56502229d31a)
+2023-11-09 00:50:45,645 home-admin123-frappe-bench:short: Job OK (585f51a5-d47a-4771-8aa9-56502229d31a)
+2023-11-09 00:50:45,645 Result is kept for 600 seconds
+2023-11-09 00:57:30,714 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 01:00:57,541 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (2d341fb1-4de1-45ad-b47e-4864f17df3f1)
+2023-11-09 01:00:57,982 home-admin123-frappe-bench:short: Job OK (2d341fb1-4de1-45ad-b47e-4864f17df3f1)
+2023-11-09 01:00:57,982 Result is kept for 600 seconds
+2023-11-09 01:10:50,849 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (39a1dddc-b3e9-44d5-a64b-ffe83e418495)
+2023-11-09 01:10:51,309 home-admin123-frappe-bench:short: Job OK (39a1dddc-b3e9-44d5-a64b-ffe83e418495)
+2023-11-09 01:10:51,309 Result is kept for 600 seconds
+2023-11-09 01:20:56,014 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (9620e7cb-bcc2-4f61-9ef2-6f021f49c261)
+2023-11-09 01:20:56,417 home-admin123-frappe-bench:short: Job OK (9620e7cb-bcc2-4f61-9ef2-6f021f49c261)
+2023-11-09 01:20:56,417 Result is kept for 600 seconds
+2023-11-09 01:20:56,423 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 01:30:58,607 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (e6c75ab1-02b7-4ce3-989f-fda59a66f7ef)
+2023-11-09 01:30:59,057 home-admin123-frappe-bench:short: Job OK (e6c75ab1-02b7-4ce3-989f-fda59a66f7ef)
+2023-11-09 01:30:59,057 Result is kept for 600 seconds
+2023-11-09 01:41:01,736 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (20626703-5811-4fb6-8edb-cc5b8e5f5f6c)
+2023-11-09 01:41:02,208 home-admin123-frappe-bench:short: Job OK (20626703-5811-4fb6-8edb-cc5b8e5f5f6c)
+2023-11-09 01:41:02,208 Result is kept for 600 seconds
+2023-11-09 01:41:02,215 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 01:50:02,333 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (dda74e56-a455-4e21-9729-a90f71ee24da)
+2023-11-09 01:50:03,043 home-admin123-frappe-bench:short: Job OK (dda74e56-a455-4e21-9729-a90f71ee24da)
+2023-11-09 01:50:03,043 Result is kept for 600 seconds
+2023-11-09 01:56:48,068 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 02:00:14,473 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (7948e046-652c-472e-9072-62c36e6cde52)
+2023-11-09 02:00:15,187 home-admin123-frappe-bench:short: Job OK (7948e046-652c-472e-9072-62c36e6cde52)
+2023-11-09 02:00:15,187 Result is kept for 600 seconds
+2023-11-09 02:10:08,059 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (b7e20b90-0df5-4289-8585-fdc18b9b4278)
+2023-11-09 02:10:08,463 home-admin123-frappe-bench:short: Job OK (b7e20b90-0df5-4289-8585-fdc18b9b4278)
+2023-11-09 02:10:08,463 Result is kept for 600 seconds
+2023-11-09 02:20:13,417 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (cee97766-260e-4698-9b06-d42ba2a81778)
+2023-11-09 02:20:13,838 home-admin123-frappe-bench:short: Job OK (cee97766-260e-4698-9b06-d42ba2a81778)
+2023-11-09 02:20:13,838 Result is kept for 600 seconds
+2023-11-09 02:20:13,845 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 02:30:16,067 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (bf952f92-a45a-4a51-9495-3924716848d2)
+2023-11-09 02:30:16,513 home-admin123-frappe-bench:short: Job OK (bf952f92-a45a-4a51-9495-3924716848d2)
+2023-11-09 02:30:16,513 Result is kept for 600 seconds
+2023-11-09 02:40:20,485 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (1c20c084-5c46-46d7-b073-91e9f604ebc5)
+2023-11-09 02:40:21,223 home-admin123-frappe-bench:short: Job OK (1c20c084-5c46-46d7-b073-91e9f604ebc5)
+2023-11-09 02:40:21,223 Result is kept for 600 seconds
+2023-11-09 02:40:21,232 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 02:50:20,462 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (2d7eebfd-cd8e-4222-aa0d-4d5d8758c154)
+2023-11-09 02:50:20,894 home-admin123-frappe-bench:short: Job OK (2d7eebfd-cd8e-4222-aa0d-4d5d8758c154)
+2023-11-09 02:50:20,894 Result is kept for 600 seconds
+2023-11-09 02:57:05,918 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 03:00:33,576 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (43c0e019-ba8a-4a76-af49-e40427fc210e)
+2023-11-09 03:00:34,008 home-admin123-frappe-bench:short: Job OK (43c0e019-ba8a-4a76-af49-e40427fc210e)
+2023-11-09 03:00:34,008 Result is kept for 600 seconds
+2023-11-09 03:10:26,293 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (b969d7eb-62a6-43b4-9fa8-69cce32d1d4b)
+2023-11-09 03:10:26,782 home-admin123-frappe-bench:short: Job OK (b969d7eb-62a6-43b4-9fa8-69cce32d1d4b)
+2023-11-09 03:10:26,782 Result is kept for 600 seconds
+2023-11-09 03:20:32,045 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (b3d66ebb-1563-4296-ba3e-7e4fb295b792)
+2023-11-09 03:20:32,783 home-admin123-frappe-bench:short: Job OK (b3d66ebb-1563-4296-ba3e-7e4fb295b792)
+2023-11-09 03:20:32,783 Result is kept for 600 seconds
+2023-11-09 03:20:32,791 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 03:31:32,559 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (f95af15c-8f40-494f-9b05-a69d5a05ec1f)
+2023-11-09 03:31:32,979 home-admin123-frappe-bench:short: Job OK (f95af15c-8f40-494f-9b05-a69d5a05ec1f)
+2023-11-09 03:31:32,979 Result is kept for 600 seconds
+2023-11-09 03:40:37,014 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (367405e1-c5dc-466c-b2ac-1f9b77846935)
+2023-11-09 03:40:37,383 home-admin123-frappe-bench:short: Job OK (367405e1-c5dc-466c-b2ac-1f9b77846935)
+2023-11-09 03:40:37,383 Result is kept for 600 seconds
+2023-11-09 03:47:22,430 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 03:50:37,583 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (853d82b3-b836-438a-8117-4cc12754318a)
+2023-11-09 03:50:38,017 home-admin123-frappe-bench:short: Job OK (853d82b3-b836-438a-8117-4cc12754318a)
+2023-11-09 03:50:38,017 Result is kept for 600 seconds
+2023-11-09 04:00:50,191 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (fd91a333-334b-4b43-9357-cf20e185df0e)
+2023-11-09 04:00:50,596 home-admin123-frappe-bench:short: Job OK (fd91a333-334b-4b43-9357-cf20e185df0e)
+2023-11-09 04:00:50,596 Result is kept for 600 seconds
+2023-11-09 04:07:35,681 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 04:10:44,018 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (a8d4380a-1f19-4b33-97f1-bea2f31f76e6)
+2023-11-09 04:10:44,738 home-admin123-frappe-bench:short: Job OK (a8d4380a-1f19-4b33-97f1-bea2f31f76e6)
+2023-11-09 04:10:44,738 Result is kept for 600 seconds
+2023-11-09 04:20:49,982 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (673a7c00-c840-4939-9e85-94730524e32d)
+2023-11-09 04:20:50,440 home-admin123-frappe-bench:short: Job OK (673a7c00-c840-4939-9e85-94730524e32d)
+2023-11-09 04:20:50,440 Result is kept for 600 seconds
+2023-11-09 04:31:50,262 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (a73a25f9-3b05-408b-b3fc-bd1bd4733732)
+2023-11-09 04:31:50,690 home-admin123-frappe-bench:short: Job OK (a73a25f9-3b05-408b-b3fc-bd1bd4733732)
+2023-11-09 04:31:50,690 Result is kept for 600 seconds
+2023-11-09 04:31:50,696 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 04:40:54,970 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (905e4775-0d4f-4744-88fe-586f7f3792b5)
+2023-11-09 04:40:55,559 home-admin123-frappe-bench:short: Job OK (905e4775-0d4f-4744-88fe-586f7f3792b5)
+2023-11-09 04:40:55,559 Result is kept for 600 seconds
+2023-11-09 04:47:40,610 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 04:50:56,128 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (ece742b2-40ff-4e13-b8b1-d2279068c2a7)
+2023-11-09 04:50:56,591 home-admin123-frappe-bench:short: Job OK (ece742b2-40ff-4e13-b8b1-d2279068c2a7)
+2023-11-09 04:50:56,591 Result is kept for 600 seconds
+2023-11-09 05:01:08,444 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (37ceac94-d75c-41d9-a449-9c6fd1f4a6b9)
+2023-11-09 05:01:08,916 home-admin123-frappe-bench:short: Job OK (37ceac94-d75c-41d9-a449-9c6fd1f4a6b9)
+2023-11-09 05:01:08,916 Result is kept for 600 seconds
+2023-11-09 05:07:53,962 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 05:10:01,825 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (dc3f480a-6967-4754-95eb-c72a7229c0a6)
+2023-11-09 05:10:02,318 home-admin123-frappe-bench:short: Job OK (dc3f480a-6967-4754-95eb-c72a7229c0a6)
+2023-11-09 05:10:02,318 Result is kept for 600 seconds
+2023-11-09 05:20:07,556 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (5722aac2-5650-4eb4-acae-4fdb608cf776)
+2023-11-09 05:20:08,005 home-admin123-frappe-bench:short: Job OK (5722aac2-5650-4eb4-acae-4fdb608cf776)
+2023-11-09 05:20:08,006 Result is kept for 600 seconds
+2023-11-09 05:31:07,886 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (b0e28ac2-916c-4286-bb7a-a25bc041764a)
+2023-11-09 05:31:08,342 home-admin123-frappe-bench:short: Job OK (b0e28ac2-916c-4286-bb7a-a25bc041764a)
+2023-11-09 05:31:08,342 Result is kept for 600 seconds
+2023-11-09 05:31:08,349 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 05:40:13,159 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (2cf89868-9f0b-4e55-beb7-01b0796e4493)
+2023-11-09 05:40:13,896 home-admin123-frappe-bench:short: Job OK (2cf89868-9f0b-4e55-beb7-01b0796e4493)
+2023-11-09 05:40:13,896 Result is kept for 600 seconds
+2023-11-09 05:46:58,913 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 05:50:13,239 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (db056112-892a-480d-8a5d-8db60d65d20b)
+2023-11-09 05:50:13,791 home-admin123-frappe-bench:short: Job OK (db056112-892a-480d-8a5d-8db60d65d20b)
+2023-11-09 05:50:13,791 Result is kept for 600 seconds
+2023-11-09 06:00:26,209 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (335fa25f-f6bc-4dc3-98cc-b0c2bbd0ce20)
+2023-11-09 06:00:26,645 home-admin123-frappe-bench:short: Job OK (335fa25f-f6bc-4dc3-98cc-b0c2bbd0ce20)
+2023-11-09 06:00:26,645 Result is kept for 600 seconds
+2023-11-09 06:10:19,227 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (147deef8-e738-42e0-a86c-3d380b02da7d)
+2023-11-09 06:10:19,656 home-admin123-frappe-bench:short: Job OK (147deef8-e738-42e0-a86c-3d380b02da7d)
+2023-11-09 06:10:19,656 Result is kept for 600 seconds
+2023-11-09 06:17:04,733 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 06:20:24,366 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (142ed284-8faa-4b2b-b90e-004fcc2a2049)
+2023-11-09 06:20:24,833 home-admin123-frappe-bench:short: Job OK (142ed284-8faa-4b2b-b90e-004fcc2a2049)
+2023-11-09 06:20:24,833 Result is kept for 600 seconds
+2023-11-09 06:30:26,693 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4314c6d5-a042-4529-81f5-bfbe26fd9864)
+2023-11-09 06:30:27,167 home-admin123-frappe-bench:short: Job OK (4314c6d5-a042-4529-81f5-bfbe26fd9864)
+2023-11-09 06:30:27,167 Result is kept for 600 seconds
+2023-11-09 06:37:12,260 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 06:40:30,178 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (d46269eb-4be2-4290-a65f-7ee41873430a)
+2023-11-09 06:40:30,922 home-admin123-frappe-bench:short: Job OK (d46269eb-4be2-4290-a65f-7ee41873430a)
+2023-11-09 06:40:30,922 Result is kept for 600 seconds
+2023-11-09 06:50:30,586 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (73340003-5414-4e09-a155-e311a8518c0a)
+2023-11-09 06:50:31,301 home-admin123-frappe-bench:short: Job OK (73340003-5414-4e09-a155-e311a8518c0a)
+2023-11-09 06:50:31,301 Result is kept for 600 seconds
+2023-11-09 06:57:16,341 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 07:00:42,630 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f79fd946-5db5-4dcb-8631-06c938a3d638)
+2023-11-09 07:00:43,351 home-admin123-frappe-bench:short: Job OK (f79fd946-5db5-4dcb-8631-06c938a3d638)
+2023-11-09 07:00:43,351 Result is kept for 600 seconds
+2023-11-09 07:10:36,249 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (4c34c110-c868-45c3-99e7-31fbe14fbdc3)
+2023-11-09 07:10:36,675 home-admin123-frappe-bench:short: Job OK (4c34c110-c868-45c3-99e7-31fbe14fbdc3)
+2023-11-09 07:10:36,675 Result is kept for 600 seconds
+2023-11-09 07:20:41,317 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (a778d52d-9b1d-4060-b41b-c5065affac44)
+2023-11-09 07:20:41,781 home-admin123-frappe-bench:short: Job OK (a778d52d-9b1d-4060-b41b-c5065affac44)
+2023-11-09 07:20:41,781 Result is kept for 600 seconds
+2023-11-09 07:20:41,788 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 07:30:43,627 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (6bf20623-dbde-45a2-9b37-12ee03bbd1d0)
+2023-11-09 07:30:44,038 home-admin123-frappe-bench:short: Job OK (6bf20623-dbde-45a2-9b37-12ee03bbd1d0)
+2023-11-09 07:30:44,038 Result is kept for 600 seconds
+2023-11-09 07:40:47,117 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (9a4cd216-dc77-421c-8c35-7f8adfde463c)
+2023-11-09 07:40:47,571 home-admin123-frappe-bench:short: Job OK (9a4cd216-dc77-421c-8c35-7f8adfde463c)
+2023-11-09 07:40:47,571 Result is kept for 600 seconds
+2023-11-09 07:40:47,577 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 07:50:47,864 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (f8f5110c-cd69-401a-9be3-f2aa58a1e23f)
+2023-11-09 07:50:48,333 home-admin123-frappe-bench:short: Job OK (f8f5110c-cd69-401a-9be3-f2aa58a1e23f)
+2023-11-09 07:50:48,333 Result is kept for 600 seconds
+2023-11-09 08:01:00,601 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (213905e4-b97e-4c87-b33d-602e219bec69)
+2023-11-09 08:01:01,055 home-admin123-frappe-bench:short: Job OK (213905e4-b97e-4c87-b33d-602e219bec69)
+2023-11-09 08:01:01,056 Result is kept for 600 seconds
+2023-11-09 08:01:01,062 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 08:10:53,825 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (6156a153-a674-4502-b510-c266afa2e5dd)
+2023-11-09 08:10:54,207 home-admin123-frappe-bench:short: Job OK (6156a153-a674-4502-b510-c266afa2e5dd)
+2023-11-09 08:10:54,208 Result is kept for 600 seconds
+2023-11-09 08:17:39,250 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 08:20:59,255 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (9e54f141-f818-44b8-9bf0-e920b7ba232d)
+2023-11-09 08:20:59,877 home-admin123-frappe-bench:short: Job OK (9e54f141-f818-44b8-9bf0-e920b7ba232d)
+2023-11-09 08:20:59,877 Result is kept for 600 seconds
+2023-11-09 08:31:01,600 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (89a4846f-50e6-4923-b377-ce0b74990144)
+2023-11-09 08:31:02,122 home-admin123-frappe-bench:short: Job OK (89a4846f-50e6-4923-b377-ce0b74990144)
+2023-11-09 08:31:02,122 Result is kept for 600 seconds
+2023-11-09 08:37:47,140 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 08:40:05,210 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (e1720e53-3444-4fca-97f8-079bb9d71680)
+2023-11-09 08:40:05,949 home-admin123-frappe-bench:short: Job OK (e1720e53-3444-4fca-97f8-079bb9d71680)
+2023-11-09 08:40:05,949 Result is kept for 600 seconds
+2023-11-09 08:50:05,262 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (9aa71710-a2a4-490e-bf44-f787db2a9580)
+2023-11-09 08:50:05,729 home-admin123-frappe-bench:short: Job OK (9aa71710-a2a4-490e-bf44-f787db2a9580)
+2023-11-09 08:50:05,730 Result is kept for 600 seconds
+2023-11-09 09:00:18,297 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (f3d4e358-3e28-4bf1-80a4-5a0f83b7d9bd)
+2023-11-09 09:00:18,897 home-admin123-frappe-bench:short: Job OK (f3d4e358-3e28-4bf1-80a4-5a0f83b7d9bd)
+2023-11-09 09:00:18,897 Result is kept for 600 seconds
+2023-11-09 09:00:18,904 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 09:10:10,954 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (08775e1c-39f4-42f4-9628-4b25880c8755)
+2023-11-09 09:10:11,391 home-admin123-frappe-bench:short: Job OK (08775e1c-39f4-42f4-9628-4b25880c8755)
+2023-11-09 09:10:11,391 Result is kept for 600 seconds
+2023-11-09 09:16:56,409 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 09:20:16,335 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (7d90e456-d946-4c0b-bddf-2278e5e3e09f)
+2023-11-09 09:20:16,772 home-admin123-frappe-bench:short: Job OK (7d90e456-d946-4c0b-bddf-2278e5e3e09f)
+2023-11-09 09:20:16,773 Result is kept for 600 seconds
+2023-11-09 09:30:18,889 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (4d4fe8cf-c8f4-43a4-b2c0-54f4db941288)
+2023-11-09 09:30:19,321 home-admin123-frappe-bench:short: Job OK (4d4fe8cf-c8f4-43a4-b2c0-54f4db941288)
+2023-11-09 09:30:19,321 Result is kept for 600 seconds
+2023-11-09 09:37:04,341 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 09:40:22,222 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (c79ec7a6-1d4f-4734-b01d-287fa15d28c4)
+2023-11-09 09:40:22,858 home-admin123-frappe-bench:short: Job OK (c79ec7a6-1d4f-4734-b01d-287fa15d28c4)
+2023-11-09 09:40:22,858 Result is kept for 600 seconds
+2023-11-09 09:50:22,525 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805ec83a0>, site='erp.aurumwholesale.com', user='Administrator') (dae0447d-d9db-4bd0-8b3c-1f74a72b0213)
+2023-11-09 09:50:22,961 home-admin123-frappe-bench:short: Job OK (dae0447d-d9db-4bd0-8b3c-1f74a72b0213)
+2023-11-09 09:50:22,961 Result is kept for 600 seconds
+2023-11-09 09:57:08,057 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 10:00:34,449 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (14acfd00-9938-4f4a-a86b-98c3cee0f549)
+2023-11-09 10:00:34,902 home-admin123-frappe-bench:short: Job OK (14acfd00-9938-4f4a-a86b-98c3cee0f549)
+2023-11-09 10:00:34,902 Result is kept for 600 seconds
+2023-11-09 10:10:28,144 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (33bc29aa-1eed-4974-8c1c-6893476b72a6)
+2023-11-09 10:10:28,624 home-admin123-frappe-bench:short: Job OK (33bc29aa-1eed-4974-8c1c-6893476b72a6)
+2023-11-09 10:10:28,624 Result is kept for 600 seconds
+2023-11-09 10:20:33,283 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (38ff4e98-a8ba-4ddb-b072-25d9da721358)
+2023-11-09 10:20:33,751 home-admin123-frappe-bench:short: Job OK (38ff4e98-a8ba-4ddb-b072-25d9da721358)
+2023-11-09 10:20:33,751 Result is kept for 600 seconds
+2023-11-09 10:20:33,757 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 10:30:35,495 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0fe9a414-6604-4587-ad35-0d5bf829b0de)
+2023-11-09 10:30:35,931 home-admin123-frappe-bench:short: Job OK (0fe9a414-6604-4587-ad35-0d5bf829b0de)
+2023-11-09 10:30:35,931 Result is kept for 600 seconds
+2023-11-09 10:40:39,350 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (c4b9325c-9566-426b-901f-1c331ca5a773)
+2023-11-09 10:40:39,770 home-admin123-frappe-bench:short: Job OK (c4b9325c-9566-426b-901f-1c331ca5a773)
+2023-11-09 10:40:39,771 Result is kept for 600 seconds
+2023-11-09 10:40:39,775 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 10:50:39,872 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (ed3ee240-7fcf-447f-991f-b559e891c895)
+2023-11-09 10:50:40,399 home-admin123-frappe-bench:short: Job OK (ed3ee240-7fcf-447f-991f-b559e891c895)
+2023-11-09 10:50:40,399 Result is kept for 600 seconds
+2023-11-09 11:00:52,473 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (a9968c7f-41d2-4163-a3a1-46b09a7c297f)
+2023-11-09 11:00:52,901 home-admin123-frappe-bench:short: Job OK (a9968c7f-41d2-4163-a3a1-46b09a7c297f)
+2023-11-09 11:00:52,901 Result is kept for 600 seconds
+2023-11-09 11:00:52,907 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 11:10:46,015 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (8264bd94-1947-4d1d-b3f2-eb9da4c587fc)
+2023-11-09 11:10:46,477 home-admin123-frappe-bench:short: Job OK (8264bd94-1947-4d1d-b3f2-eb9da4c587fc)
+2023-11-09 11:10:46,478 Result is kept for 600 seconds
+2023-11-09 11:17:31,579 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 11:20:50,865 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1cc05f9f-f517-41b9-9569-d33368816033)
+2023-11-09 11:20:51,309 home-admin123-frappe-bench:short: Job OK (1cc05f9f-f517-41b9-9569-d33368816033)
+2023-11-09 11:20:51,309 Result is kept for 600 seconds
+2023-11-09 11:30:53,527 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (fe306b7b-3f5f-49be-8637-f45efd915298)
+2023-11-09 11:30:53,971 home-admin123-frappe-bench:short: Job OK (fe306b7b-3f5f-49be-8637-f45efd915298)
+2023-11-09 11:30:53,971 Result is kept for 600 seconds
+2023-11-09 11:37:38,990 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 11:40:57,322 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (41aa91f4-85f6-496c-956f-30121674cc71)
+2023-11-09 11:40:58,046 home-admin123-frappe-bench:short: Job OK (41aa91f4-85f6-496c-956f-30121674cc71)
+2023-11-09 11:40:58,047 Result is kept for 600 seconds
+2023-11-09 11:50:57,340 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (3ebcd9c3-d531-4b68-8129-554a007788a5)
+2023-11-09 11:50:58,054 home-admin123-frappe-bench:short: Job OK (3ebcd9c3-d531-4b68-8129-554a007788a5)
+2023-11-09 11:50:58,054 Result is kept for 600 seconds
+2023-11-09 11:57:43,156 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 12:01:11,027 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (9d41c0d4-7d11-407d-8516-5d431cfc8c64)
+2023-11-09 12:01:11,448 home-admin123-frappe-bench:short: Job OK (9d41c0d4-7d11-407d-8516-5d431cfc8c64)
+2023-11-09 12:01:11,448 Result is kept for 600 seconds
+2023-11-09 12:10:02,840 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (d8882c3c-78c2-43cd-98eb-93bc4a37ae35)
+2023-11-09 12:10:03,257 home-admin123-frappe-bench:short: Job OK (d8882c3c-78c2-43cd-98eb-93bc4a37ae35)
+2023-11-09 12:10:03,257 Result is kept for 600 seconds
+2023-11-09 12:20:36,076 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (b9744a16-dcd6-44d1-98d6-1348749719c5)
+2023-11-09 12:20:36,482 home-admin123-frappe-bench:short: Job OK (b9744a16-dcd6-44d1-98d6-1348749719c5)
+2023-11-09 12:20:36,482 Result is kept for 600 seconds
+2023-11-09 12:20:36,487 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 12:30:10,782 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (1ca5c5b5-fdda-49e2-97f7-486d0d5d7ddc)
+2023-11-09 12:30:11,290 home-admin123-frappe-bench:short: Job OK (1ca5c5b5-fdda-49e2-97f7-486d0d5d7ddc)
+2023-11-09 12:30:11,291 Result is kept for 600 seconds
+2023-11-09 12:36:56,345 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 12:40:13,906 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (0a867eaa-2bdc-4139-906e-873dfd5b9c2e)
+2023-11-09 12:40:14,627 home-admin123-frappe-bench:short: Job OK (0a867eaa-2bdc-4139-906e-873dfd5b9c2e)
+2023-11-09 12:40:14,627 Result is kept for 600 seconds
+2023-11-09 12:50:14,836 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (890fe93e-da36-4e75-a2ab-4a300e1bb02c)
+2023-11-09 12:50:15,422 home-admin123-frappe-bench:short: Job OK (890fe93e-da36-4e75-a2ab-4a300e1bb02c)
+2023-11-09 12:50:15,422 Result is kept for 600 seconds
+2023-11-09 12:57:00,490 Cleaning registries for queue: home-admin123-frappe-bench:short
+2023-11-09 13:00:27,092 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (75400852-f7e6-4028-a6fc-8537ed2b36e4)
+2023-11-09 13:00:27,520 home-admin123-frappe-bench:short: Job OK (75400852-f7e6-4028-a6fc-8537ed2b36e4)
+2023-11-09 13:00:27,521 Result is kept for 600 seconds
+2023-11-09 13:10:20,438 home-admin123-frappe-bench:short: frappe.utils.background_jobs.execute_job(event='all', is_async=True, job_name='pull_from_email_account|Guru Darji', kwargs={'email_account': 'Guru Darji'}, method=<function pull_from_email_account at 0x7f1805eec430>, site='erp.aurumwholesale.com', user='Administrator') (be243f7b-3322-425a-84c7-86bec77656c0)
+2023-11-09 13:10:20,812 home-admin123-frappe-bench:short: Job OK (be243f7b-3322-425a-84c7-86bec77656c0)
+2023-11-09 13:10:20,812 Result is kept for 600 seconds
+2023-11-09 13:16:05,305 Warm shut down requested
+2023-11-09 13:16:05,306 Unsubscribing from channel rq:pubsub:901bfb60625c4c9098c73110523f9716.ubuntupc.1893703.home-admin123-frappe-bench:short

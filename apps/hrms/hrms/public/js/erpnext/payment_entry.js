@@ -54,7 +54,9 @@ frappe.ui.form.on("Payment Entry", {
 
 frappe.ui.form.on("Payment Entry Reference", {
 	reference_name: function(frm, cdt, cdn) {
+		console.log("Hello");
 		let row = locals[cdt][cdn];
+		console.log(row);
 
 		if (row.reference_name && row.reference_doctype) {
 			return frappe.call({

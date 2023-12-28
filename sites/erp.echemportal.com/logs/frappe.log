@@ -1,3 +1,24 @@
 2023-08-08 15:40:19,821 ERROR frappe New Exception collected with id: 2023-08-08 15:40:19.718954-47.190.78.200-ed7
 Site: erp.echemportal.com
 Form Dict: {'txt': '', 'doctype': 'Custom HTML Block', 'reference_doctype': '', 'query': 'frappe.desk.doctype.custom_html_block.custom_html_block.get_custom_blocks_for_user', 'cmd': 'frappe.desk.search.search_link'}
+2023-10-31 15:16:25,548 ERROR frappe New Exception collected with id: 2023-10-31 15:16:25.428144-47.190.78.200-944
+Site: erp.echemportal.com
+Form Dict: {'report_name': 'Budget Variance Report', 'filters': '{"period":"Monthly","budget_against":"Cost Center","show_cumulative":0,"company":"Echem Portal"}', 'ignore_prepared_report': '1', 'cmd': 'frappe.desk.query_report.run'}
+2023-12-27 11:45:06,500 ERROR frappe New Exception collected with id: 2023-12-27 11:45:06.417909-47.190.78.200-f63
+Site: erp.echemportal.com
+Form Dict: {'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 11:49:59,411 ERROR frappe New Exception collected with id: 2023-12-27 11:49:59.390800-47.190.78.200-e0d
+Site: erp.echemportal.com
+Form Dict: {'body': [{'billing_address': {'address_line1': '4757 Nexus Center Dr', 'address_line2': '#150', 'address_line_3': '#150', 'address_line_4': '', 'address_title': '4757 Nexus Center Dr', 'city': 'San Diego', 'country': 'United States', 'pincode': '92121'}, 'customer_group': 'Commercial', 'customer_name': '858 Therapeutics', 'customer_type': 'Company', 'territory': 'United States'}], 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 11:50:45,922 ERROR frappe New Exception collected with id: 2023-12-27 11:50:45.833543-47.190.78.200-cc7
+Site: erp.echemportal.com
+Form Dict: {'body': [{'billing_address': {'address_line1': '4757 Nexus Center Dr', 'address_line2': '#150', 'address_line_3': '#150', 'address_line_4': '', 'address_title': '4757 Nexus Center Dr', 'city': 'San Diego', 'country': 'United States', 'pincode': '92121'}, 'customer_group': 'Commercial', 'customer_name': '858 Therapeutics', 'customer_type': 'Company', 'territory': 'United States'}], 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 11:50:49,428 ERROR frappe New Exception collected with id: 2023-12-27 11:50:49.344158-47.190.78.200-731
+Site: erp.echemportal.com
+Form Dict: {'body': [{'billing_address': {'address_line1': '4757 Nexus Center Dr', 'address_line2': '#150', 'address_line_3': '#150', 'address_line_4': '', 'address_title': '4757 Nexus Center Dr', 'city': 'San Diego', 'country': 'United States', 'pincode': '92121'}, 'customer_group': 'Commercial', 'customer_name': '858 Therapeutics', 'customer_type': 'Company', 'territory': 'United States'}], 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 12:09:18,357 ERROR frappe New Exception collected with id: 2023-12-27 12:09:18.353050-47.190.78.200-682
+Site: erp.echemportal.com
+Form Dict: {'body': [{'billing_address': {'address_line1': '4757 Nexus Center Dr', 'address_line2': '#150', 'address_line_3': '#150', 'address_line_4': '', 'address_title': '4757 Nexus Center Dr', 'city': 'San Diego', 'country': 'United States', 'pincode': '92121'}, 'customer_group': 'Commercial', 'customer_name': '858 Therapeutics', 'customer_type': 'Company', 'territory': 'United States'}], 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
+2023-12-27 12:11:14,708 ERROR frappe New Exception collected with id: 2023-12-27 12:11:14.703837-47.190.78.200-7a6
+Site: erp.echemportal.com
+Form Dict: {'body': [{'billing_address': {'address_line1': '4757 Nexus Center Dr', 'address_line2': '#150', 'address_line_3': '#150', 'address_line_4': '', 'address_title': '4757 Nexus Center Dr', 'city': 'San Diego', 'country': 'United States', 'pincode': '92121'}, 'customer_group': 'Commercial', 'customer_name': '858 Therapeutics', 'customer_type': 'Company', 'territory': 'United States'}], 'cmd': 'erpnext.bulk_add_cusomters.bulk_add_cusomters'}
